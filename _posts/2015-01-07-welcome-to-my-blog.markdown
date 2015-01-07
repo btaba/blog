@@ -13,11 +13,11 @@ What really spurred me to start this blog, was a bitcoin challenge from my frien
 
 It's ok though, we still have some left. So the challenge was to go one week buying food with only bitcoin (no exchange, debit, or gift cards). This came out of our excitement for eating delicious Indian food at [Curry Up Now][curry] in the Mission District. It's delicious, trust me:
 
-![Curry Up Now]({{ site.url }}/assets/article_images/2015-01-07-welcome-to-my-blog/food.png)
+![Curry Up Now]({{ site.url }}/assets/article_images/2015-01-07-welcome-to-my-blog/food.jpg)
 
 I gladly took the challenge, since I want to save money on food anyways (#gradlife). The next day we went to [Bamboo Asia][bamboo]. I went to the Japanese stand, since they serve Vietnamese/Indian/Japanese in the same restaurant. I know that's already a bad sign, but a challenge is a challenge. I got a Chirashi type bowl, which was absolutely terrible. Please don't waste your money at this place! Good thing was, the cashier had no idea how to use bitcoin, so I scanned the QR code without sending the BTC... I did ask her if I should send it, but she said it went through so I just went with it. Glad I didn't pay for this meal:
 
-![Bamboo Asia]({{ site.url }}/assets/article_images/2015-01-07-welcome-to-my-blog/food2.png)
+![Bamboo Asia]({{ site.url }}/assets/article_images/2015-01-07-welcome-to-my-blog/food2.jpg)
 
 Don't be fooled by the image. Anyhow, I didn't spend BTC today so I guess the challenge is over. But here's the blog! :D
 
