@@ -19,6 +19,7 @@ author_image: "/assets/images/avatar.jpg"
 
 paginate:	5
 
+
 url: "http://blog.tabanpour.info" # the base hostname & protocol for your site
 baseurl: ""
 
