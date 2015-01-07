@@ -20,7 +20,7 @@ author_image: "/assets/images/author.jpg"
 paginate:	5
 
 url: "http://tabanpour.info/mediator" # the base hostname & protocol for your site
-baseurl: "/mediator"
+baseurl: ""
 
 # social icons and sharing options
 social:
