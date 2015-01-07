@@ -20,7 +20,7 @@ author_image: "/assets/images/author.jpg"
 paginate:	5
 
 url: "http://blog.tabanpour.info" # the base hostname & protocol for your site
-baseurl: "/blog"
+baseurl: ""
 
 # social icons and sharing options
 social:
