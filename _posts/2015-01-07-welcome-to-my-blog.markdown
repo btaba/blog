@@ -4,36 +4,19 @@ title:  "Welcome to my blog!"
 date:   2015-01-07 02:30:16
 categories: personal
 tags: featured
-<!-- image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg -->
+<!-- image: /assets/article_images/2014-08-29-welcome-to-jekyll/food.jpg -->
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Hi this is my first time blogging. I'm in SF on break and one of the things I kind of wanted to do was to create a blog. So here it is! I've had my eyes on [Jekyll][jekyll] with github-pages. I didn't think it would be this easy to launch honestly. I used the mediator template from [Dirk Fabisch][dirk] and I think it looks great. Thank you Dirk!
 
-Jekyll also offers powerful support for code snippets:
+What really spurred me to start this blog, was a bitcoin challenge from my friend [Tushar][tushar]. We won some bitcoin from a Bitcoin hackathon last fall, and we really wanted to spend it in the restaurant tech scene here in SF. Unfortunately, we lost $100 worth of bitcoin with its decline since then. Damn! 
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+It's ok though, we still have some left. So the challenge was to go one week buying food with only bitcoin (no exchange, debit, or gift cards). This came out of our excitement for eating delicious Indian food at [Curry Up Now][curry] in the Mission District. It's delicious, trust me:
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
-
-{% highlight js %}
-
-<footer class="site-footer">
- <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fa fa-rss"></i> Subscribe!</span></a>
-  <div class="inner">a
-   <section class="copyright">All content copyright <a href="mailto:{{ site.email}}">{{ site.name }}</a> &copy; {{ site.time | date: '%Y' }} &bull; All rights reserved.</section>
-   <section class="poweredby">Made with <a href="http://jekyllrb.com"> Jekyll</a></section>
-  </div>
-</footer>
-{% endhighlight %}
+![Curry Up Now]({{ site.url }}/assets/article_images/2015-01-07-welcome-to-my-blog/food.jpg)
 
 
 [jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+[dirk]:   https://github.com/dirkfabisch/mediator
+[tushar]: https://twitter.com/imbenzene
+[curry]: http://www.curryupnow.com/
