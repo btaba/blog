@@ -19,7 +19,7 @@ I gladly took the challenge, since I want to save money on food anyways (#gradli
 
 ![Bamboo Asia]({{ site.url }}/assets/article_images/2015-01-07-welcome-to-my-blog/food2.png)
 
-Don't be fooled by the image. Anyhow, I didn't spend BTC today so I guess the challenge is over. But here's the blog! :D
+Don't be fooled by the image, it's terrible. Anyhow, I didn't spend BTC today so I guess the challenge is over. But here's the blog! :D
 
 [jekyll]: http://jekyllrb.com
 [dirk]:   https://github.com/dirkfabisch/mediator
