@@ -5,7 +5,7 @@ highlighter: pygments
 # Site settings
 title: "Read this."
 description: > # this means to ignore newlines until "email:"
-   Awesome blog, hopefully
+   Awesome blog
 
 email: baruch@tabanpour.info
 #blog logo
