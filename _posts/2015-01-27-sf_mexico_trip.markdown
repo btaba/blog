@@ -35,7 +35,7 @@ It was really funny at this point because we started walking through the forest 
 
 The first hour is extremely steep and long. We were pretty excited when we got to the false summit, but soon realized the actual peak was pretty far away. Don't worry though, it's all easy going from here. It's less than an hour until you get to the real summit depending on your pace. 
 
-![view]({{ site.url }}/assets/article_images/2015-01-27-sf_mexico_trip/view.jpg)
+![hike]({{ site.url }}/assets/article_images/2015-01-27-sf_mexico_trip/view.jpg)
 
 ### Going home
 
