@@ -25,7 +25,7 @@ We asked the owner of the restaurant where the Pique de Aguilla was, and he gave
 
 Luckily, a convoy of cop cars was passing by at 20 mph, and we don't really why (we have very limited spanish). But we somehow communicated to them where we wanted to go and they wound up giving us a ride to a "closer" point to the trail-head. We had to ask around a bit more to see where to actually go. We started walking up this road surrounded by wheat fields and we fell upon a rope bridge with a sign to "Pique de Aguila!"
 
-![bridge]({{ site.url }}/assets/article_images/2015-01-27-sf_mexico_trip/bridge.jpg)
+<!-- ![bridge]({{ site.url }}/assets/article_images/2015-01-27-sf_mexico_trip/bridge.jpg) -->
 
 It was really funny at this point because we started walking through the forest trying to find an actual trail. There were several forks where we could've gone the completely wrong way. Luckily 30 min in, we encountered some locals actually doing the same hike!! I don't have much advice for you beyond the rope bridge, just stay left and go steep. 
 
