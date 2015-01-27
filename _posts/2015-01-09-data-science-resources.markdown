@@ -13,7 +13,7 @@ Here is some background on some of the tools you might want to use at the [Data 
 2. [Resources and Toolkits](#section2)
 3. [Data Resources](#section3)
 
-<h3><a id="section1">How can I get started</a></h3>
+<h3 class="post-heading"><a id="section1">How can I get started</a></h3>
 <br>
 There are plenty of resources out there to learn most of the theory and tools that data scientists use. A great taxonomy of data science is presented [here][taxonomy]. Data scientists have different levels of expertise in five general areas: Obtaining, Scrubbing, Exploring, Modeling, and Interpreting data (OSEMN). 
 
@@ -22,7 +22,7 @@ If you are competely new to the space, it may be good to go through a simple exe
 If you want a more in-depth introduction, check out the open source [Data Science Masters][data_science_masters] Program. Given your background, as stats, CS or physics major you will find what you need to learn to become a better data scientist. As someone said before "Data scientist is a statistician who programs a lot or a CS person who works a lot with statistics" (via Reddit).
 
 Go on to the next section to get a better idea of quick prototyping tools for the hackathon if you don't have as much time.                                                                                                                                                                                                                                                                                
-<h3><a id="section2">Resources and Toolkits</a></h3>
+<h3 class="post-heading"><a id="section2">Resources and Toolkits</a></h3>
 <br>
 
 Most of the basic tools used for data science involve Python, R, or other code and shell scripts. 
@@ -45,12 +45,9 @@ Other python resources:
 3. [Installing ML libraries in Python][PyLibraries]
 
 
-<h3><a id="section3">Data Resources</a></h3>
+<h3 class="post-heading"><a id="section3">Data Resources</a></h3>
 
-Here are data sets we will give you during the hackathon:
-
-
-Here are open data websites:
+Nothing here yet.
 
 
 
