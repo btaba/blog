@@ -33,7 +33,7 @@ It was really funny at this point because we started walking through the forest 
 
 ### The actual hike
 
-The first hour is extremely steep and long. We were pretty excited when we got to the false summit, but soon realized the actual peak was off in the distance. Don't worry though, it's all easy going from here. It's less than an hour until you get to the real summit depending on your pace. This is a moderate hike for a 4000ft gain!
+The first hour is extremely steep and long. It's all easy going after that, less than an hour until you get to the real summit depending on your pace. This is a moderate hike for a 4000ft gain!
 
 ![hike]({{ site.url }}/assets/article_images/2015-01-27-sf_mexico_trip/view.jpg)
 
@@ -41,7 +41,7 @@ The first hour is extremely steep and long. We were pretty excited when we got t
 
 Getting down is pretty straightforward. Once you get to that steep part again, you'll probably start getting annoyed and just want to get home!
 
-When we finally got down, we started to get scared because we realized we had no way of actually getting home! After dilly-dallying and asking people how to get a cab and being answered with nods saying "good luck with that," one local agreed to take us to the nearest bus station for 70 pesos. We gave him 100 instead and luckily found a cab that wound up taking us all the way back to Universidad subway station. A Tylenol was much needed after the cab ride :)
+When we finally got down, we started to get scared because we realized we had no way of actually getting to Mexico City! After dilly-dallying and asking people how to get a cab and being answered with nods saying "good luck with that," one local agreed to take us to the nearest bus station for 70 pesos. We gave him 100 instead and luckily found a cab that wound up taking us all the way back to Universidad subway station. A Tylenol was much needed after the cab ride :)
 
 
 [ajusco]: http://www.summitpost.org/ajusco/152054
