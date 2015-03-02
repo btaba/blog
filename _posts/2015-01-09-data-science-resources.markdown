@@ -47,7 +47,7 @@ Other python resources:
 
 <h3 class="post-heading"><a id="section3">Data Resources</a></h3>
 
-Nothing here yet.
+Check out [datasciencehackathon.info][datasciweb]!
 
 
 
@@ -67,3 +67,4 @@ Nothing here yet.
 [shiny]: http://shiny.rstudio.com/tutorial/
 [pybook]: http://web.udl.es/Biomath/Bioestadistica/R/Manuals/r_in_a_nutshell.pdf
 [rblog]: http://www.r-bloggers.com/
+[datasciweb]: http://datasciencehackathon.info
