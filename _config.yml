@@ -5,7 +5,7 @@ highlighter: pygments
 # Site settings
 title: "Read this."
 description: > # this means to ignore newlines until "email:"
-   Awesome blog
+   mediocre blog
 
 email: baruch@tabanpour.info
 #blog logo
@@ -39,12 +39,12 @@ social:
 #    share_title: ?t=
 #    share_link: "&amp;u="
 
-  - icon:	github
-    url:	https://github.com/btaba
-    desc:	Fork me on github
-    share_url:
-    share_title:
-    share_link:
+  # - icon:	github
+  #   url:	https://github.com/btaba
+  #   desc:	Fork me on github
+  #   share_url:
+  #   share_title:
+  #   share_link:
 
 #  - icon:	google-plus
 #    url:	https://google.com/???
