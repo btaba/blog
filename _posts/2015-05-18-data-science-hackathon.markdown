@@ -8,6 +8,7 @@ tags: regular
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8zSs5hWnZCM" frameborder="0" allowfullscreen></iframe>
+<div>Panel of Industry Leaders: Matthew Bryan, Claudia Perlich, Gilad Lotan, Drew Conway, Jake Hofman</div>
 <br>
 
 
