@@ -3,7 +3,7 @@ layout: post
 title:  "Data Hackathon Resources"
 date:   2015-01-09 02:30:16
 categories: data_science
-tags: featured
+tags: regular
 <!-- image: /assets/article_images/2014-08-29-welcome-to-jekyll/food.jpg -->
 ---
 
