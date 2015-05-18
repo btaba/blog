@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cornell/Columbia Data Science Hackathon 2015"
+title:  "Cornell & Columbia gData Science Hackathon 2015"
 date:   2015-05-18 16:30:00
 categories: data_science
 tags: regular
