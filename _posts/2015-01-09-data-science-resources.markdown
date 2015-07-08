@@ -23,7 +23,7 @@ If you want a more in-depth introduction, check out the open source [Data Scienc
 
 1. [Berkeley Course with Twitter API][berkeley_twitter]
 2. [Data Analysis Online Course][mysliderule]
-3. And a data structures and algos class from [Coursera][coursera_dsa], although I took the [Princeton][coursera_princeton] one and found it to be very thorough. These Coursera are not as practical and are more about CS theory, so be warned!
+3. And a data structures and algos class from [Coursera][coursera_dsa], although I took the [Princeton][coursera_princeton] one and found it to be very thorough. These 2 Coursera courses are not as practical and are more about CS theory, so be warned!
 
 Go on to the next section to get a better idea of quick prototyping tools for the hackathon if you don't have as much time.                                                                                                                                                                                                                                                                                
 <h3 class="post-heading"><a id="section2">Resources and Toolkits</a></h3>
