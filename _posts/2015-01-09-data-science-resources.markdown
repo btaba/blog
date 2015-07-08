@@ -19,7 +19,11 @@ There are plenty of resources out there to learn most of the theory and tools th
 
 If you are competely new to the space, it may be good to go through a simple exercise on [Kaggle Titanic][titanic]. Kaggle has several other tutorials and resources that they provide with their competitions.
 
-If you want a more in-depth introduction, check out the open source [Data Science Masters][data_science_masters] Program. Given your background, as stats, CS or physics major you will find what you need to learn to become a better data scientist. As someone said before "Data scientist is a statistician who programs a lot or a CS person who works a lot with statistics" (via Reddit).
+If you want a more in-depth introduction, check out the open source [Data Science Masters][data_science_masters] Program.  (Update 07-2015) [Tim Osterbuhr][tim_oster] suggests other intros with more structure:
+
+1. [Berkeley Course with Twitter API][berkeley_twitter]
+2. [Data Analysis Online Course][mysliderule]
+3. And a data structures and algos class from [Coursera][coursera_dsa], although I took the [Princeton][coursera_princeton] one and found it to be very thorough. These Coursera are not as practical and are more about CS theory, so be warned!
 
 Go on to the next section to get a better idea of quick prototyping tools for the hackathon if you don't have as much time.                                                                                                                                                                                                                                                                                
 <h3 class="post-heading"><a id="section2">Resources and Toolkits</a></h3>
@@ -49,8 +53,10 @@ Other python resources:
 
 Check out [datasciencehackathon.info][datasciweb]!
 
-
-
+[coursera_princeton]: https://www.coursera.org/course/algs4partI
+[coursera_dsa]: https://www.coursera.org/course/algo
+[mysliderule]: https://www.mysliderule.com/learning-paths/data-analysis
+[berkeley_twitter]: http://blogs.ischool.berkeley.edu/i290-abdt-s12/
 [rstudio]: http://www.rstudio.com/products/rstudio/download/
 [ipy]: http://ipython.org/notebook.html
 [anaconda]: https://store.continuum.io/cshop/anaconda/
@@ -68,3 +74,4 @@ Check out [datasciencehackathon.info][datasciweb]!
 [pybook]: http://web.udl.es/Biomath/Bioestadistica/R/Manuals/r_in_a_nutshell.pdf
 [rblog]: http://www.r-bloggers.com/
 [datasciweb]: http://datasciencehackathon.info
+[tim_oster]: https://twitter.com/timosterbuhr
