@@ -4,7 +4,7 @@ title:  "A Taste of Japan in 17 Big Bites"
 date:   2015-07-13 00:00:00
 categories: personal
 tags: regular
-image: /assets/article_images/2015-07-13-japan-trip/gifs/fuji.gif
+image: /assets/article_images/2015-07-13-japan-trip/photos/fuji2.jpg
 ---
 
 <!-- ![forest]({{ site.url }}/assets/article_images/2015-01-27-sf_mexico_trip/forest.jpg) -->
@@ -97,6 +97,9 @@ This matcha soft serve was so good, I had to go back... Simply stated, it may be
 # 16.   Fuji!!
 ![Just wow...photo creds: Inna Shteinbuk]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/fuji.jpg)
 
+![taking a stroll]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/gifs/fuji.gif)
+
+
 ![Checking out the view]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/fuji3.jpg)
 
 # 17.   Tokyo
@@ -106,9 +109,10 @@ This matcha soft serve was so good, I had to go back... Simply stated, it may be
 
 ![Hayakawa]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/sushi_hayakawa_collage.jpg)
 
+I personally thought Daiwa Sushi was better than Sushi Dai...
+
 ![Sushi Dai at Tsukiji]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/sushi_dai_collage.jpg)
 
-I personally thought Daiwa Sushi was better than Sushi Dai...but you still can't really get it in NYC
 
 # Fin
 
