@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Taste of Japan in 17 Flavors"
+title:  "A Taste of Japan in 17 Big Bites"
 date:   2015-07-13 00:00:00
 categories: personal
 tags: regular
@@ -13,22 +13,21 @@ image: /assets/article_images/2015-07-13-japan-trip/gifs/fuji.gif
     <source src="http://localhost:4000/assets/article_images/2015-07-13-japan-trip/gifs/fuji.mp4" type="video/mp4">
 </video>
  -->
-
 # 1.  Tokyo
 ![Sushi Daiwa at Tsukiji Fish Market]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/daiwa_collage.jpg)
 ![Ramen at Shimokitazawa]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/ramen_shimokita.jpg)
-![The taste of dancing?]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/tokyo_club.jpg)
+![dancing?]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/tokyo_club.jpg)
 
 # 2.  Ueda
 ![Zensanji Shrine]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/ueda_collage.jpg)
-![Snack at Zensanji, pickled plum and shiso, rice balls, and matcha]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/ueda_snack2.jpg)
+![pickled plum and shiso, rice balls, and matcha]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/ueda_snack2.jpg)
 
 # 3.  Nagano
 ![Zenkoji Temple, Kaidan Meguri]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/nagana_zenkoji.jpg)
 ![Seriously good Matcha soft serve]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/nagano_matcha_soft.jpg)
 
 # 4.  Matsumoto
-![the taste of war?]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/matsumoto.jpg)
+![the taste of castles?]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/matsumoto.jpg)
 
 # 5.  Kamikochi
 ![fresh mountain air]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/kamikochi.jpg)
@@ -39,17 +38,19 @@ image: /assets/article_images/2015-07-13-japan-trip/gifs/fuji.gif
 # 7.  Yakedake
 ![Yakedake]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/yakedake2.jpg)
 
-# 8.  Takayama beef
+# 8.  Takayama
 ![Probably the best beef sushi I'll ever have]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/takayama_beef_sushi.jpg)
 
 # 9.  Kyoto
 ![Gagaku]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/gifs/kyoto_orchestra.gif)
+<!-- 35-44 -->
 ![Maiko]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/gifs/maiko.gif)
+<!-- 15-24 -->
 ![I love matcha]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/kyoto_matcha.jpg)
 
 # 10.  Nara
 ![Todaiji, guess what's inside?]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/nara_todaiji.jpg)
-![so cute]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/nara_deer.jpg)
+![sunbathing]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/nara_deer.jpg)
 
 # 11.  Kagoshima
 ![So fast]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/gifs/shinkansen1.gif)
@@ -70,10 +71,10 @@ I don't think I could swim that myself:
 
 ### [Amazing blog on noodles][noodle_blog]
 
-![way too much coral I couldn't get pics of...but walking on the beach is also nice!]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/gif/zamami_walking.gif)
+![way too much coral I couldn't get pics of...but walking on the beach is also nice!]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/gifs/zamami_walking.gif)
 
 
-![taste of sunset]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/zamami_panorama2.jpg)
+![Sunset]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/zamami_panorama2.jpg)
 
 ![]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/gifs/VID_64661129_065104.gif)
 
@@ -96,7 +97,7 @@ If you're ever in Naha get Kimbap [here!][kimbap]
 This matcha soft serve was so good, I had to go back... Simply stated, it may be the best matcha soft serve in the world.
 
 # 16.   Fuji!!
-![Just wow...photo creds to Inna Shteinbuk]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/fuji.jpg)
+![Just wow...photo creds: Inna Shteinbuk]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/fuji.jpg)
 
 ![Checking out the view]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/fuji3.jpg)
 
@@ -105,16 +106,15 @@ This matcha soft serve was so good, I had to go back... Simply stated, it may be
 
 ![Hayakawa]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/sushi_hayakwa_collage.jpg)
 
-[Hayakawa][hayakawa] was an amazing culinary experience. 
+[Hayakawa][hayakawa] was an amazing culinary experience
 
 ![Sushi Dai at Tsukiji]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/sushi_dai_collage.jpg)
 
-I personally thought Daiwa Sushi was better than Sushi Dai...
+I personally thought Daiwa Sushi was better than Sushi Dai...but you still can't really get it in NYC
 
 # Fin
 
 ![I will miss you Japan!]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/fuji4.jpg)
-
 
 [hayakawa]: http://www.timeout.jp/en/tokyo/venue/24935/Sushi-Hayakawa
 [kimbap]: http://www.yelp.com/biz/oppakinpa-%E9%82%A3%E8%A6%87%E5%B8%82
