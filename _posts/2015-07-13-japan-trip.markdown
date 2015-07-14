@@ -16,7 +16,6 @@ image: /assets/article_images/2015-07-13-japan-trip/photos/fuji2.jpg
 # 1.  Tokyo
 ![Sushi Daiwa at Tsukiji Fish Market]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/daiwa_collage.jpg)
 ![Ramen at Shimokitazawa]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/ramen_shimokita.jpg)
-![dancing?]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/tokyo_club.jpg)
 
 # 2.  Ueda
 ![Zensanji Shrine]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/ueda_collage.jpg)
@@ -67,7 +66,7 @@ I don't think I could swim that myself:
 <br>
 ![Mozuku soba, classic Zamami]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/zamami_food.jpg)
 
-### [Amazing blog on noodles][noodle_blog]
+### [Check out this blog on those noodles][noodle_blog]
 <br>
 ![way too much coral I couldn't get pics of...but walking on the beach is also nice!]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/gifs/zamami_walking.gif)
 
