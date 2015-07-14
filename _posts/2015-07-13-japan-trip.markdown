@@ -109,6 +109,9 @@ This matcha soft serve was so good, I had to go back... Simply stated, it may be
 
 ![Hayakawa]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/sushi_hayakawa_collage.jpg)
 
+![Gotta get that Japanese denim]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/pure_blue_japan.jpg)
+
+
 I personally thought Daiwa Sushi was better than Sushi Dai...
 
 ![Sushi Dai at Tsukiji]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/sushi_dai_collage.jpg)
