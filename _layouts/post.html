@@ -50,8 +50,10 @@
           <a name="topofpage"></a>
           {{content}}
         </section>
+
         <footer class="post-footer">
           <section class="share">
+            If you like this post, share it on 
             {% for social in site.social %}
               {% if social.share_url != null %}
                 <a class="icon-{{ social.icon }}" href="{{ social.share_url }}{{ social.share_title }}{{page.title | cgi_escape}}{{ social.share_link }}{{site.url}}{{page.id}}"
@@ -62,6 +64,9 @@
             {% endfor %}
           </section>
         </footer>
+
+        {% include comments.html %}
+
         <div class="bottom-teaser cf">
           <div class="isLeft">
             <h5 class="index-headline featured"><span>Written by</span></h5>

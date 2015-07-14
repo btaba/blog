@@ -5,6 +5,7 @@ date:   2015-07-13 00:00:00
 categories: personal
 tags: regular
 image: /assets/article_images/2015-07-13-japan-trip/photos/fuji2.jpg
+comments: True
 ---
 
 <!-- ![forest]({{ site.url }}/assets/article_images/2015-01-27-sf_mexico_trip/forest.jpg) -->
