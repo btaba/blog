@@ -43,9 +43,7 @@ image: /assets/article_images/2015-07-13-japan-trip/gifs/fuji.gif
 
 # 9.  Kyoto
 ![Gagaku]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/gifs/kyoto_orchestra.gif)
-<!-- 35-44 -->
 ![Maiko]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/gifs/maiko.gif)
-<!-- 15-24 -->
 ![I love matcha]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/kyoto_matcha.jpg)
 
 # 10.  Nara
@@ -66,11 +64,11 @@ Seriously healthy [dogs][zamami_dog]:
 I don't think I could swim that myself:
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d114547.29696138435!2d127.21914019791623!3d26.20958875767308!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x34faaca6e8c0a571%3A0x68982e70f55ca55d!2sHanamuro+Inn+Aka+Island%2C+52+Aka%2C+Zamami%2C+Shimajiri+District%2C+Okinawa+Prefecture+901-3311!3m2!1d26.190323499999998!2d127.2827592!4m5!1s0x34faacb90bb22d49%3A0x681887c9961eb8b9!2sZamami%2C+Okinawa+Prefecture%2C+Japan!3m2!1d26.2288917!2d127.3031566!5e0!3m2!1sen!2sus!4v1436879605999" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
+<br>
 ![Mozuku soba, classic Zamami]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/zamami_food.jpg)
 
 ### [Amazing blog on noodles][noodle_blog]
-
+<br>
 ![way too much coral I couldn't get pics of...but walking on the beach is also nice!]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/gifs/zamami_walking.gif)
 
 
@@ -92,7 +90,7 @@ If you're ever in Naha get Kimbap [here!][kimbap]
 ![fish market]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/kanazawa.jpg)
 
 # 15.   Nagano Again!
-![Yes it seriously is that good]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/nagano_matcha2.jpg)
+![Yes it's seriously that good]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/nagano_matcha2.jpg)
 
 This matcha soft serve was so good, I had to go back... Simply stated, it may be the best matcha soft serve in the world.
 
@@ -104,9 +102,9 @@ This matcha soft serve was so good, I had to go back... Simply stated, it may be
 # 17.   Tokyo
 ![Shinjuku, need a massage...]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/shinjuku.jpg)
 
-![Hayakawa]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/sushi_hayakwa_collage.jpg)
-
 [Hayakawa][hayakawa] was an amazing culinary experience
+
+![Hayakawa]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/sushi_hayakawa_collage.jpg)
 
 ![Sushi Dai at Tsukiji]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/sushi_dai_collage.jpg)
 
