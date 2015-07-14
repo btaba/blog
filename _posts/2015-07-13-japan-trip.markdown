@@ -121,7 +121,7 @@ I personally thought Daiwa Sushi was better than Sushi Dai...
 
 ![I will miss you Japan!]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/fuji4.jpg)
 
-[hayakawa]: http://www.timeout.jp/en/tokyo/venue/24935/Sushi-Hayakawa
+[hayakawa]: http://www.sushi-hayakawa.com/
 [kimbap]: http://www.yelp.com/biz/oppakinpa-%E9%82%A3%E8%A6%87%E5%B8%82
 [noodle_blog]: https://strangersandnoodles.wordpress.com/2012/10/31/day-9-mozuku-soba/
 [zamami_dog]: http://www.zamamienglishguide.com/agwhattosee.html
