@@ -7,7 +7,7 @@
     {% include header.html %}
     <main class="content" role="main">
       <article class="post">
-        {% if page.image %}
+        {% if page.image or page.movie %}
         <div class="article-image">
           <div class="post-image-image" style="background-image: url({% if page.image %}{{ page.image }}{% endif %})">
             Article Image
@@ -94,7 +94,7 @@
       <div class="inner">
         <h1 class="blog-title">{{ site.title }}</h1>
         <h2 class="blog-description">{{ site.description }}</h2>
-        <a href="/" class="btn">Back to Overview</a>
+        <a href="/" class="btn">Back home</a>
       </div>
     </div>
     {% include javascripts.html %}

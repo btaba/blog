@@ -3,9 +3,9 @@ markdown: redcarpet
 highlighter: pygments
 
 # Site settings
-title: "Read this."
+title: "Some words"
 description: > # this means to ignore newlines until "email:"
-   mediocre blog
+   and other content
 
 email: baruch@tabanpour.info
 #blog logo
