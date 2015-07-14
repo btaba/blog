@@ -18,8 +18,8 @@ image: /assets/article_images/2015-07-13-japan-trip/photos/fuji2.jpg
 ![Ramen at Shimokitazawa]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/ramen_shimokita.jpg)
 
 # 2.  Ueda
-![Zensanji Shrine]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/ueda_collage.jpg)
-![pickled plum and shiso, rice balls, and matcha]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/ueda_snack2.jpg)
+![Zensanji Temple]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/ueda_collage.jpg)
+![pickled plum and shiso, Warabi mochi, and matcha]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/ueda_snack2.jpg)
 
 # 3.  Nagano
 ![Zenkoji Temple, Kaidan Meguri]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/nagana_zenkoji.jpg)
@@ -68,6 +68,7 @@ I don't think I could swim that myself:
 
 ### [Check out this blog on those noodles][noodle_blog]
 <br>
+
 ![way too much coral I couldn't get pics of...but walking on the beach is also nice!]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/gifs/zamami_walking.gif)
 
 
