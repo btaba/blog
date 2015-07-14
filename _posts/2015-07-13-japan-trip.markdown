@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Taste of Japan in 17 Big Bites"
+title:  "A Taste of Japan in 18 Big Bites"
 date:   2015-07-13 00:00:00
 categories: personal
 tags: regular
@@ -82,19 +82,19 @@ I don't think I could swim that myself:
 
 If you're ever in Naha get Kimbap [here!][kimbap]
 
-# 13.  Hiroshima
+# 14.  Hiroshima
 ![enough said...]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/hiroshima.jpg)
 
 
-# 14.  Kanazawa
+# 15.  Kanazawa
 ![fish market]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/kanazawa.jpg)
 
-# 15.   Nagano Again!
+# 16.   Nagano Again!
 ![Yes it's seriously that good]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/nagano_matcha2.jpg)
 
 This matcha soft serve was so good, I had to go back... Simply stated, it may be the best matcha soft serve in the world.
 
-# 16.   Fuji!!
+# 17.   Fuji!!
 ![Just wow...photo creds: Inna Shteinbuk]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/fuji.jpg)
 
 ![taking a stroll]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/gifs/fuji.gif)
@@ -102,7 +102,7 @@ This matcha soft serve was so good, I had to go back... Simply stated, it may be
 
 ![Checking out the view]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/fuji3.jpg)
 
-# 17.   Tokyo
+# 18.   Tokyo
 ![Shinjuku, need a massage...]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/shinjuku.jpg)
 
 [Hayakawa][hayakawa] was an amazing culinary experience
