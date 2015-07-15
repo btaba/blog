@@ -33,7 +33,7 @@ comments: True
 ![fresh mountain air]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/kamikochi.jpg)
 
 # 6.  Shirahone
-![the tast of Sulfur]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/shirahone_collage.jpg)
+![the taste of Sulfur]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/shirahone_collage.jpg)
 
 # 7.  Yakedake
 ![Yakedake]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/yakedake2.jpg)
