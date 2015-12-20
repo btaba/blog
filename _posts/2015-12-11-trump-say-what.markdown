@@ -9,6 +9,7 @@ comments: True
 ---
 <script type="text/javascript" src="/assets/recurrentjs/recurrent.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/js/spin.min.js"></script>
 <!-- <script src="/assets/js/jquery-1.8.3.min.js"></script> -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
@@ -185,6 +186,32 @@ RNN built using a 2-layer lstm network, trained on AWS using [Keras](http://kera
 6. [msnbc.com](http://www.msnbc.com/rachel-maddow-show/trump-crosses-new-line-endorses-database-muslim-americans)
 7. [whatthefolly.com](http://www.whatthefolly.com/2015/08/05/transcript-donald-trumps-speech-in-phoenix-arizona-on-july-11-2015-part-1/)
 
+<script>
+// spinner
+  var opts = {
+  lines: 12 // The number of lines to draw
+, length: 0 // The length of each line
+, width: 15 // The line thickness
+, radius: 15 // The radius of the inner circle
+, scale: 0.5 // Scales overall size of the spinner
+, corners: 0 // Corner roundness (0..1)
+, color: '#000' // #rgb or #rrggbb or array of colors
+, opacity: 0.25 // Opacity of the lines
+, rotate: 30 // The rotation offset
+, direction: 1 // 1: clockwise, -1: counterclockwise
+, speed: 1 // Rounds per second
+, trail: 38 // Afterglow percentage
+, fps: 20 // Frames per second when using setTimeout() as a fallback for CSS
+, zIndex: 2e9 // The z-index (defaults to 2000000000)
+, className: 'spinner' // The CSS class to assign to the spinner
+, top: '49%' // Top position relative to parent
+, left: '100%' // Left position relative to parent
+, shadow: true // Whether to render a shadow
+, hwaccel: false // Whether to use hardware acceleration
+, position: 'absolute' // Element positioning
+}
+var spinner = new Spinner(opts).spin();
+</script>
 
 <script>
 
@@ -479,6 +506,9 @@ function seedTextWrapper(text) {
 $(document).ready(function() {
   $('#generate').prop("disabled", true);
   $('#generate-samp').prop("disabled", true);
+  $('#generate').append(spinner.el);
+
+  
   $.get("/assets/data/trump.txt", function(data) {
       loadText(data, 'trump', loadMarkovModel);
   });
@@ -488,6 +518,14 @@ $(document).ready(function() {
       $('#generate').prop("disabled", false);
       $('#generate-samp').prop("disabled", false);
   });
+
+  removespinner = setInterval(function() {
+      if ($('#generate').prop("disabled") == false && $('#generate-samp').prop("disabled") == false) {
+        $('#generate').html('<span style="font-size: large">Go</span>');
+        clearInterval(removespinner);
+      }
+  }, 10)
+
 
   var seed_text = ''
   $('#generate').click(function() {
