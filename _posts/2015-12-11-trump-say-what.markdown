@@ -172,7 +172,7 @@ Sentence Length: </p>
 
 #### Instructions
 
-There are 3 sampling methods to choose from. The Markov sampling method takes a seed word (that must be in the dictionary) and will generate the speech word-for-word. The RNN will take in a whole sentence and generate the speech character-by-character. A low "Temperature" for the RNN will cause it to make more likely predictions, while a higher temperature will cause the RNN to take more chances. The RNN Max method, will get the most likely character prediction, while the RNN Rand will have a level of randomness.
+Wait for the page to load the models. There are 3 sampling methods to choose from. The Markov sampling method takes a seed word (that must be in the dictionary) and will generate the speech word-for-word. The RNN will take in a whole sentence and generate the speech character-by-character. A low "Temperature" for the RNN will cause it to make more likely predictions, while a higher temperature will cause the RNN to take more chances. The RNN Max method, will get the most likely character prediction, while the RNN Rand will have a level of randomness.
 
 #### Details
 
