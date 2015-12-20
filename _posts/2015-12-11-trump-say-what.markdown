@@ -176,15 +176,16 @@ Wait for the page to load the models. There are 3 sampling methods to choose fro
 
 #### Details
 
-RNN built using a 2-layer lstm network, trained on AWS using [Keras](http://keras.io/) with a [Theano](http://deeplearning.net/software/theano/) backend. (max-sent-length: 120, hidden-size: 512, batch-size: 64, step: 3). The RNN runs in the browser using [RecurrentJS](https://github.com/karpathy/recurrentjs). Many thanks to the developers of Keras and Andrej Karpathy for developing RecurrentJS. Markov chain implementation based on Casey Chu's [blog post](http://www.bitsofpancake.com/programming/markov-chain-text-generator/). Speech transcripts were extracted from the following websites (let me know if you have more, since I only had 214k characters, and I think the RNN would greatly benefit from more to train on):
+RNN built using a 2-layer lstm network, trained on AWS using <a href="http://keras.io/" target="_blank">Keras</a> with a <a href="http://deeplearning.net/software/theano/" target="_blank">Theano</a> backend. (max-sent-length: 120, hidden-size: 512, batch-size: 64, step: 3). The RNN runs in the browser using <a href="https://github.com/karpathy/recurrentjs" target="_blank">RecurrentJS</a>. Many thanks to the developers of Keras and Andrej Karpathy for developing RecurrentJS. Markov chain implementation based on Casey Chu's <a href="http://www.bitsofpancake.com/programming/markov-chain-text-generator/" target="_blank">blog post</a>. Speech transcripts were extracted from the following websites (let me know if you have more, since I only had 214k characters, and I think the RNN would greatly benefit from more to train on):
 
-1. [wsj.com](http://blogs.wsj.com/washwire/2015/06/16/donald-trump-transcript-our-country-needs-a-truly-great-leader/)
-2. [p2016.org](http://www.p2016.org/photos15/summit/trump012415spt.html)
-3. [huffingtonpost.com](http://www.huffingtonpost.com/seth-abramson/a-transcript-of-the-decen_b_7609908.html)
-4. [time.com](http://time.com/4037239/second-republican-debate-transcript-cnn/)
-5. [frcaction.org](https://blog.frcaction.org/2015/09/donald-trumps-remarks-vvs-2015/)
-6. [msnbc.com](http://www.msnbc.com/rachel-maddow-show/trump-crosses-new-line-endorses-database-muslim-americans)
-7. [whatthefolly.com](http://www.whatthefolly.com/2015/08/05/transcript-donald-trumps-speech-in-phoenix-arizona-on-july-11-2015-part-1/)
+1. <a href="http://blogs.wsj.com/washwire/2015/06/16/donald-trump-transcript-our-country-needs-a-truly-great-leader/" target="_blank">wsj.com</a> 
+2. <a href="http://www.p2016.org/photos15/summit/trump012415spt.html" target="_blank">p2016.org</a> 
+3. <a href="http://www.huffingtonpost.com/seth-abramson/a-transcript-of-the-decen_b_7609908.html" target="_blank">huffingtonpost.com</a> 
+4. <a href="http://time.com/4037239/second-republican-debate-transcript-cnn/" target="_blank">time.com</a> 
+5. <a href="https://blog.frcaction.org/2015/09/donald-trumps-remarks-vvs-2015/" target="_blank">frcaction.org</a>  
+6. <a href="http://www.msnbc.com/rachel-maddow-show/trump-crosses-new-line-endorses-database-muslim-americans" target="_blank">msnbc.com</a> 
+7. <a href="http://www.whatthefolly.com/2015/08/05/transcript-donald-trumps-speech-in-phoenix-arizona-on-july-11-2015-part-1/" target="_blank">whatthefolly.com</a> 
+
 
 <script>
 // spinner
