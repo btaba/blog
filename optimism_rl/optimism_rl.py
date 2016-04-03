@@ -1,3 +1,10 @@
+"""
+Code to generate figures in post:
+    http://blog.tabanpour.info/projects/2016/04/03/optimism_rl.html
+
+>> python optimism_rl.py
+
+"""
 import random
 import numpy as np
 import matplotlib.pyplot as plt
