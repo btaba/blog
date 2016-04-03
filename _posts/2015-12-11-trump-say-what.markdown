@@ -510,11 +510,11 @@ $(document).ready(function() {
   $('#generate').append(spinner.el);
 
   
-  $.get("/assets/data/trump.txt", function(data) {
+  $.get("/assets/data/trumpbot/trump.txt", function(data) {
       loadText(data, 'trump', loadMarkovModel);
   });
 
-  $.getJSON("/assets/data/trump_120_recurrentjs.json", function(data) {
+  $.getJSON("/assets/data/trumpbot/trump_120_recurrentjs.json", function(data) {
       loadModel(data, 'trump');
       $('#generate').prop("disabled", false);
       $('#generate-samp').prop("disabled", false);
