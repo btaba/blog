@@ -13,7 +13,7 @@ It uses the Sinkhorn-Knopp algorithm, which iteratively normalizes the rows and 
 
 Just ```pip install sinkhorn_knopp``` and you're good to go. Here's a quick demo:
 
-<div style="font-size:20px">
+<div style="text-align: left">
 {% highlight python %}
 import numpy as np
 from sinkhorn_knopp import sinkhorn_knopp as skp
