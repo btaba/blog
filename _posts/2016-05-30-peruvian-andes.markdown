@@ -8,7 +8,7 @@ comments: True
 image: /assets/article_images/2016-05-31-cordillera-blanca/ahuac-view.JPG
 ---
 
-The mountains were calling in Peru. And so we went!
+#### The mountains calling in Peru.
 
 ## Huaraz
 ![Huaraz]({{ site.url }}/assets/article_images/2016-05-31-cordillera-blanca/huaraz.JPG)
@@ -19,7 +19,7 @@ The mountains were calling in Peru. And so we went!
 
 ## Laguna Ahuac
 
-![Ahuac]({{ site.url }}/assets/article_images/2016-05-31-cordillera-blanca/ahuac.JPG)
+![Ahuac - Vallunaraju in the background]({{ site.url }}/assets/article_images/2016-05-31-cordillera-blanca/ahuac.JPG)
 
 
 ![Helping a brother out]({{ site.url }}/assets/article_images/2016-05-31-cordillera-blanca/potato_gif.gif)
@@ -42,7 +42,7 @@ Took a 6-day mountaineering course with [Skyline Adventures][skyline]; thank you
 
 ![Practice, practice]({{ site.url }}/assets/article_images/2016-05-31-cordillera-blanca/glacier-2.JPG)
 
-![Summit-day, didn't make it to the summit, but we lead the whole way up in our rope teams. Feels amazing.]({{ site.url }}/assets/article_images/2016-05-31-cordillera-blanca/summit-day.JPG)
+![Summit-day, didn't make it to the summit, but we lead the whole way up in our rope teams. Felt amazing.]({{ site.url }}/assets/article_images/2016-05-31-cordillera-blanca/summit-day.JPG)
 
 ![Sliding into a crevasse. Thanks to Inna for arresting me and Shoham hauling.]({{ site.url }}/assets/article_images/2016-05-31-cordillera-blanca/crevasse_fall.gif)
 
