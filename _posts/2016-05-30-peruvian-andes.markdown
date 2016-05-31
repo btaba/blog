@@ -4,10 +4,11 @@ title:  "Cordillera Blanca"
 date:   2016-05-30 21:31:42
 categories: personal
 tags: regular
+comments: True
 image: /assets/article_images/2016-05-31-cordillera-blanca/ahuac-view.JPG
 ---
 
-The mountains were calling in Peru. 
+The mountains were calling in Peru. And so we went!
 
 ## Huaraz
 ![Huaraz]({{ site.url }}/assets/article_images/2016-05-31-cordillera-blanca/huaraz.JPG)
@@ -21,7 +22,7 @@ The mountains were calling in Peru.
 ![Ahuac]({{ site.url }}/assets/article_images/2016-05-31-cordillera-blanca/ahuac.JPG)
 
 
-![Help a brother out]({{ site.url }}/assets/article_images/2016-05-31-cordillera-blanca/potato_gif.gif)
+![Helping a brother out]({{ site.url }}/assets/article_images/2016-05-31-cordillera-blanca/potato_gif.gif)
 
 
 ## Laguna 69
@@ -39,14 +40,14 @@ Took a 6-day mountaineering course with [Skyline Adventures][skyline]; thank you
 
 ![Glacier, hope you don't melt too fast]({{ site.url }}/assets/article_images/2016-05-31-cordillera-blanca/glacier.JPG)
 
-![Practice]({{ site.url }}/assets/article_images/2016-05-31-cordillera-blanca/glacier-2.JPG)
+![Practice, practice]({{ site.url }}/assets/article_images/2016-05-31-cordillera-blanca/glacier-2.JPG)
 
-![Didn't make it to the summit, but we lead the whole way up in our rope teams. Feels amazing.]({{ site.url }}/assets/article_images/2016-05-31-cordillera-blanca/summit-day.JPG)
+![Summit-day, didn't make it to the summit, but we lead the whole way up in our rope teams. Feels amazing.]({{ site.url }}/assets/article_images/2016-05-31-cordillera-blanca/summit-day.JPG)
 
 ![Sliding into a crevasse. Thanks to Inna for arresting me and Shoham hauling.]({{ site.url }}/assets/article_images/2016-05-31-cordillera-blanca/crevasse_fall.gif)
 
 
-![Hoping to make it back! :D]({{ site.url }}/assets/article_images/2016-05-31-cordillera-blanca/seeyoulater.JPG)
+![Hoping to make it back!]({{ site.url }}/assets/article_images/2016-05-31-cordillera-blanca/seeyoulater.JPG)
 
 
 [skyline]: http://www.skyline-adventures.com
