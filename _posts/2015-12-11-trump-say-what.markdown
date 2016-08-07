@@ -123,7 +123,7 @@ Well now we can all bring out the Donald Trump inside of us with Donald TrumpBot
   </label>
 </div>
 
-<div id='temp' style="display: none"><p style='display: inline'></br>
+<div id='temp' style="display: none"><p style='display: inline'><br>
 Temperature: </p>
 <div class="btn-group">
   <label for="">
@@ -131,7 +131,7 @@ Temperature: </p>
   </label> 
   <p style='display: inline; margin-left: 70px'><span id='tempdisplay'>0.3</span></p>
 </div></div>
-<p style='display: inline'></br>
+<p style='display: inline'><br>
 Sentence Length: </p>
 <div class="btn-group">
   <label for="">
@@ -168,7 +168,7 @@ Sentence Length: </p>
   <div id="predicted" style='background: aliceblue; font-size: x-large;'>Type in a seed sentence above.</div>
 </div>
     
-</br>
+<br>
 
 #### Instructions
 
