@@ -15,8 +15,8 @@ logo: "/assets/images/avatar.jpg"
 # blog cover
 cover: "/assets/images/bg.jpg"
 
-name: 'Baruch'
-author: 'Baruch'
+name: 'Baruch Tabanpour'
+author: 'Baruch Tabanpour'
 author_image: "/assets/images/avatar.jpg"
 
 paginate:	10
