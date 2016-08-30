@@ -8,7 +8,7 @@ comments: True
 ---
 
 
-Check out this 2D race car learning to drive through a track by using On-Policy Monte Carlo control. The car doesn't know anything about the track; it only sees its current location, velocity, and rewards it gets while driving through the track. The car can choose to change it's velocity by 1 unit in x and/or y during each time step, and it eventually learns how to get to the finish line! 
+Check out this 2D race car learning to drive through a track by using On-Policy Monte Carlo control. The car doesn't know anything about the track; it only sees its current location, velocity, and rewards it gets while driving. The car can choose to change it's velocity by 1 unit in x and/or y during each time step, and it eventually learns how to get to the finish line! 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ovn8IkiiBkQ" frameborder="0" allowfullscreen></iframe>
 
