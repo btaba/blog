@@ -27,7 +27,7 @@ Gotta get those meatballs...
 ![Mmmm]({{ site.url }}/assets/article_images/2017-02-18-europe-trip/swedish-meatballs.jpg)
 
 
-Cross-country skiing, but without snow, never ending ice, and with ice skates. It's really fun!
+I was supposed to go cross-country skiing, but there was no snow, never ending ice, and ice skates instead. Not a bad alternative!
 
 ![No snow!]({{ site.url }}/assets/article_images/2017-02-18-europe-trip/stockholm-ice.gif)
 
