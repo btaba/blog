@@ -15,11 +15,11 @@ A two week trip to Stockholm, Chamonix, and Budapest.
 
 ## Stockholm
 
-![Stockholm strolls]({{ site.url }}/assets/article_images/2017-02-18-europe-trip/stockholm_view.jpg)
+![Stockholm strolls]({{ site.url }}/assets/article_images/2017-02-18-europe-trip/stockholm-view.jpg)
 
 At least the monarch in Sweden is illegitimate. Trumpsplaining wasn't pleasant.
 
-![Changing of the guards]({{ site.url }}/assets/article_images/2017-02-18-europe-trip/swedish-monarch.jpg)
+![Changing of the guards]({{ site.url }}/assets/article_images/2017-02-18-europe-trip/stockholm-monarch.jpg)
 
 
 Gotta get those meatballs...
@@ -37,13 +37,12 @@ Off to the next stop in these beautiful planes!
 
 ## Chamonix
 
-[Mael Baguet][mael] and [Raul Castellanos][raul], amazing climbing partners and teachers. Terrifying, pushing the limits, and so fulfilling.
+[Mael Baguet][mael] and [Raul Castellanos][raul], amazing climbing partners. Terrifying, pushing the limits, and so fulfilling.
 
-This guy...
 
-![That view]({{ site.url }}/assets/article_images/2017-02-18-europe-trip/mael-rocks.jpg)
+![This guy...]({{ site.url }}/assets/article_images/2017-02-18-europe-trip/mael-rocks.jpg)
 
-Rapelling of Deferlante.
+Rapelling off Deferlante.
 
 ![Snow storm!]({{ site.url }}/assets/article_images/2017-02-18-europe-trip/climbing.gif)
 
@@ -52,9 +51,9 @@ Rapelling of Deferlante.
 
 ## Budapest
 
-And warm delicious goulash for less than $2 in a thriving former Jewish ghetto with warm thermal baths.
+And warm delicious goulash for less than $2 in a thriving former Jewish ghetto with warm thermal baths...not bad.
 
-![Only $1.5 for delicious goulash!]({{ site.url }}/assets/article_images/2017-02-18-europe-trip/budapest-collage.jpg)
+![Gotta get that goulash!]({{ site.url }}/assets/article_images/2017-02-18-europe-trip/budapest-collage.jpg)
 
 
 [mael]: https://www.instagram.com/maelbaguet
