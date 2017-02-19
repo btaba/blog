@@ -55,6 +55,9 @@ social:
     share_title:
     share_link:
 
+  - icon: foursquare
+    url: https://foursquare.com/user/194675285
+
  # - icon:	google-plus
  #   url:	https://google.com/???
  #   desc:	Add me on google+
