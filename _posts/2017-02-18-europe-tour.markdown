@@ -42,7 +42,7 @@ Off to the next stop in these beautiful planes!
 
 ![This guy...]({{ site.url }}/assets/article_images/2017-02-18-europe-trip/mael-rocks.jpg)
 
-Rapelling off Deferlante.
+Rapelling off Déferlante.
 
 ![Snow storm!]({{ site.url }}/assets/article_images/2017-02-18-europe-trip/climbing.gif)
 
