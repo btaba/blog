@@ -9,7 +9,7 @@ comments: True
 
 After building a [desktop]({{ site.url }}/projects/2016/12/10/computer-build.html) a few months ago, I left it running on Linux. It wasn't all that bad, as long as I didn't need to use any applications with a real GUI 😂.
 
-This left me in a state of dismay, not using my new build as much as I wanted to! I didn't really want Windows, but didn't really like using Linux as a personal OS either. And a few months went by...🤦🏽‍♂️
+This left me in a state of dismay, not using my new build as much as I wanted to! I didn't really want Windows, but didn't really like using Linux as a personal OS either. And a few months went by...🙄
 
 ---
 
