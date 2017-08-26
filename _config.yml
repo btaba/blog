@@ -19,7 +19,7 @@ name: 'Baruch Tabanpour'
 author: 'Baruch Tabanpour'
 author_image: "/assets/images/avatar.jpg"
 
-paginate:	10
+paginate:	8
 
 
 url: "http://blog.tabanpour.info" # the base hostname & protocol for your site
