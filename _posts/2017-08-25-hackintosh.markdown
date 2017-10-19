@@ -32,14 +32,3 @@ The only real snag I faced was not being able to configure my ASUS PCE-AC56 Wifi
 
 Now on to finding some image editing software!
 
-https://www.shellhacks.com/disk-speed-test-read-write-hdd-ssd-perfomance-linux/
-
-> sync; dd if=/dev/zero of=tempfile bs=1M count=1024; sync
-1024+0 records in
-1024+0 records out
-1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.446358 s, 2.4 GB/s
-
-> dd if=tempfile of=/dev/null bs=1M count=1024
-1024+0 records in
-1024+0 records out
-1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.375208 s, 2.9 GB/s
