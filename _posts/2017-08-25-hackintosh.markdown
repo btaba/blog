@@ -13,7 +13,7 @@ This left me in a state of dismay, not using my new build as much as I wanted to
 
 ---
 
-I was editing an image with GIMP a few days ago and I kept getting bugs with the distortion filter. So I updated to the latest version only to find more bugs! After an hour of dealing with this nonsense I realized that I just wanted shit to work! I'm editing an image, why does it need to be so difficult?
+I was editing an image with GIMP a few days ago and I kept getting bugs with the distortion filter. So I updated to the latest version only to find more bugs! After an hour of dealing with this nonsense I realized that I just wanted stuff to work! I'm editing an image, why does it need to be so difficult?
 
 So I made the leap into the Hackintosh community at [tonymacx86](https://www.tonymacx86.com). It was a bit scary, but I've come out the other end very happy!
 
