@@ -7,35 +7,46 @@ tags: regular
 comments: True
 ---
 
-Reinforcement Learning...is it suddenly getting hot in here?
+Reinforcement Learning...wow that escalated quickly!
 
-I wanted to see if I could re-create the latest DDQN with Dueling Networks + Prioritized Replay results on Atari, a huge milestone for RL Research.
+I wanted to re-create the latest Deep Q-Learning results on Atari, a huge milestone for AI Research in the past few years.
 
-https://github.com/ppwwyyxx/tensorpack/tree/master/examples/A3C-Gym
+Apart from the [official code](https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner) in Lua, I found several Python implementations on github, notably [this one from OpenAI](https://github.com/openai/baselines/tree/master/baselines/deepq) or [this one](https://github.com/ppwwyyxx/tensorpack/tree/master/examples/DeepQNetwork) among many others. Very few Python implementations actually run on Atari environments though, and even less actually report benchmarks comparing to published results. Not only that, but I wasn't able to reproduce or even run some implementations, including the OpenAI DDQN [Atari baselines](https://github.com/openai/baselines-results/blob/master/dqn_results.ipynb) (see [github issue](https://github.com/openai/baselines/issues/176)). Kind of ironic.
 
-I found several implementations, none of which worked. Luckily I had implemented a version of DQN for a CS123 homework, which actually worked. I added DDQN + Dueling + Prior. Replay to the implementation in `yarlp`. Then I ran some benchmarks.
+After wasting several days of GPU time, I remembered that I implemented a version of DQN for a [CS294](http://rll.berkeley.edu/deeprlcourse/) homework, which actually works. I added DDQN + Dueling + Prioritized Replay and put it in [`yarlp`](http://github.com/btaba/yarlp) (Yet Another Reinforcement Learning Package). Then I ran some benchmarks!
 
-I trained 6 Atari environments for 10M time-steps (**40M frames**), using 1 random seed, since I only have 1 GPU and limited time on this Earth. I used DDQN with dueling networks, but no prioritized replay (although it's available). I compare the final mean 100 episode raw scores for yarlp (with exploration of 0.01) with results from [Hasselt et al, 2015](https://arxiv.org/pdf/1509.06461.pdf) and [Wang et al, 2016](https://arxiv.org/pdf/1511.06581.pdf) which train for **200M frames** and evaluate on 100 episodes (exploration of 0.05).
-
-I don't compare to OpenAI baselines because the OpenAI DDQN implementation is **not** currently able to reproduce published results as of 2018-01-20. See [this github issue](https://github.com/openai/baselines/issues/176), although I found [these benchmark plots](https://github.com/openai/baselines-results/blob/master/dqn_results.ipynb) to be pretty helpful.
+I trained 6 Atari environments for 10M time-steps (**40M frames**), using 1 random seed, since I have limited time on this Earth. I used DDQN with dueling networks without prioritized replay. I compare the final mean 100 episode raw scores for yarlp (with exploration of 0.01) with results from [Hasselt et al, 2015](https://arxiv.org/pdf/1509.06461.pdf) and [Wang et al, 2016](https://arxiv.org/pdf/1511.06581.pdf) which train for **200M frames** and evaluate on 100 episodes (exploration of 0.05). I also compared visually to [the learning curves](https://github.com/openai/baselines-results/blob/master/dqn_results.ipynb) released by OpenAI.
 
 |env|yarlp DUEL 40M Frames|Hasselt et al DDQN 200M Frames|Wang et al DUEL 200M Frames|
 |---|---|---|---|
 |BeamRider|8705|7654|12164|
 |Breakout|423.5|375|345|
 |Pong|20.73|21|21|
-|Q*Bert|5410.75|14875|19220.3|
+|QBert|5410.75|14875|19220.3|
 |Seaquest|5300.5|7995|50245.2|
 |SpaceInvaders|1978.2|3154.6|6427.3|
 
 
+Here are the learning curves:
+
 |   |   |   |   |
 |---|---|---|---|
-|![BeamRiderNoFrameskip-v4](/assets/atari10m/ddqn/BeamRiderNoFrameskip-v4.png)|![BreakoutNoFrameskip-v4](/assets/atari10m/ddqn/BreakoutNoFrameskip-v4)|![PongNoFrameskip-v4](/assets/atari10m/ddqn/PongNoFrameskip-v4.png)|![QbertNoFrameskip-v4](/assets/atari10m/ddqn/QbertNoFrameskip-v4.png)|
-|![SeaquestNoFrameskip-v4](/assets/atari10m/ddqn/SeaquestNoFrameskip-v4.png)|![SpaceInvadersNoFrameskip-v4](/assets/atari10m/ddqn/SpaceInvadersNoFrameskip-v4.png)||
+|![BeamRiderNoFrameskip-v4]({{ site.url }}/assets/article_images/2018-02-19-atari/BeamRiderNoFrameskip-v4.png)|![BreakoutNoFrameskip-v4]({{ site.url }}/assets/article_images/2018-02-19-atari/BreakoutNoFrameskip-v4)|![PongNoFrameskip-v4]({{ site.url }}/assets/article_images/2018-02-19-atari/PongNoFrameskip-v4.png)|![QbertNoFrameskip-v4]({{ site.url }}/assets/article_images/2018-02-19-atari/QbertNoFrameskip-v4.png)|
+|![SeaquestNoFrameskip-v4]({{ site.url }}/assets/article_images/2018-02-19-atari/SeaquestNoFrameskip-v4.png)|![SpaceInvadersNoFrameskip-v4]({{ site.url }}/assets/article_images/2018-02-19-atari/SpaceInvadersNoFrameskip-v4.png)||
 
 
-I wanted to do an ablation experiment to see what was contributing to the learning. Surprisingly, the learning rate schedule was doing most of the gain here! Granted, I didn't run for multiple random seeds or on several environments, but this goes to show how sensitive Deep RL is to the slightest change in your algorithm...
+Since I ran for 1/5th of the frames, I wasn't expecting the final rewards to be close to that of the published results. But some environments are, especially the easier ones like Pong and Breakout. A notable difference between these implementations is that I use piece-wise learning rate and exploration schedules while Hasselt and Wang use linear ones. I wanted to do a mini-ablation experiment to see how these differences stack up against learned rewards. Surprisingly, the piecewise schedules seemed to make the biggest gain as opposed to dueling networks or prioritized replay! Granted, I didn't run for multiple random seeds or environments, but this begs the question, can better exploration and learning rate schedules beat recent advances due to prioritized replay or dueling networks on Atari?
+
+![DDQN Ablation]({{ site.url }}/assets/article_images/2018-02-19-atari/dqn_ablation_beamrider.png)
+
+Enjoy some gifs instead!
+
+![BeamRider]({{ site.url }}/assets/article_images/2018-02-19-atari/beamrider.gif)
+![Breakout]({{ site.url }}/assets/article_images/2018-02-19-atari/breakout.gif)
+![Pong]({{ site.url }}/assets/article_images/2018-02-19-atari/pong.gif)
+![QBert]({{ site.url }}/assets/article_images/2018-02-19-atari/qbert.gif)
+![Seaquest]({{ site.url }}/assets/article_images/2018-02-19-atari/seaquest.gif)
+![SpaceInvaders]({{ site.url }}/assets/article_images/2018-02-19-atari/spaceinvaders.gif)
 
 
-[rllab]: https://github.com/rll/rllab
+[This blog post](https://www.alexirpan.com/2018/02/14/rl-hard.html) pretty much sums up my experience with Deep RL algorithms so far.
