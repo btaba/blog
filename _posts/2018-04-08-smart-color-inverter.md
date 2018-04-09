@@ -30,7 +30,7 @@ color_inverted_image = 1 - image[:, :, :3] / 255.
 ```
 
 
-I always get **really annoyed** though, when most of my screen is already a dark color. The invereted colors then get all messed up:
+I always get **really annoyed** though, when most of my screen is already a dark color. The inverted colors then get all messed up:
 
 |   |   |
 |---|---|
@@ -50,7 +50,7 @@ To illustrate the basic idea of a smarter inversion algorithm, we'll start with 
 
 The basic idea of the algorithm is to find regions of the image to invert if they are bright, and regions of the image to keep the same if they are already dark.
 
-To do this, first convert the image to black and white, and then get all the [connected components]() of the black and white image:
+To do this, first convert the image to black and white, and then get all the [connected components](https://en.wikipedia.org/wiki/Connected_component_(graph_theory)) of the black and white image:
 
 |   |   |
 |---|---|
