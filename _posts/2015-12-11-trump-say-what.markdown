@@ -7,7 +7,7 @@ tags: regular
 comments: True
 <!-- image: /assets/article_images/2014-08-29-welcome-to-jekyll/food.jpg -->
 ---
-<script type="text/javascript" src="/assets/recurrentjs/recurrent.js"></script>
+<script type="text/javascript" src="/assets/js/recurrentjs/recurrent.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script type="text/javascript" src="/assets/js/spin.min.js"></script>
 <!-- <script src="/assets/js/jquery-1.8.3.min.js"></script> -->
@@ -162,7 +162,7 @@ Sentence Length: </p>
   <div id="progress" style="display: none">
     <div class="progress"> 
       <div class="progress-bar" role="progressbar progress-bar-striped active" aria-valuenow="0" aria-valuemin="2" aria-valuemax="100" style="width: 0%;"></div>
-      <img src="/assets/images/trump6301.jpg" height="24">
+      <img src="/assets/article_images/2015-12-11-trump-say-what/trump6301.jpg" height="24">
     </div>
   </div>
   <div id="predicted" style='background: aliceblue; font-size: x-large;'>Type in a seed sentence above.</div>
@@ -510,11 +510,11 @@ $(document).ready(function() {
   $('#generate').append(spinner.el);
 
   
-  $.get("/assets/data/trumpbot/trump.txt", function(data) {
+  $.get("/assets/article_images/2015-12-11-trump-say-what/trumpbotdata/trump.txt", function(data) {
       loadText(data, 'trump', loadMarkovModel);
   });
 
-  $.getJSON("/assets/data/trumpbot/trump_120_recurrentjs.json", function(data) {
+  $.getJSON("/assets/article_images/2015-12-11-trump-say-what/trumpbotdata/trump_120_recurrentjs.json", function(data) {
       loadModel(data, 'trump');
       $('#generate').prop("disabled", false);
       $('#generate-samp').prop("disabled", false);
