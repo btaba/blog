@@ -5,9 +5,9 @@ kramdown:
   syntax_highlighter: rouge
 
 # Site settings
-title: "Words and other content"
+title: "words and other content"
 description: > # this means to ignore newlines until "email:"
-   Baruch's words and other content
+   from baruch
 
 email: baruch@tabanpour.info
 #blog logo
