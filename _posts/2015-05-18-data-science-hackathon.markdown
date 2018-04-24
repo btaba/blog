@@ -2,7 +2,7 @@
 layout: post
 title:  "Cornell & Columbia Data Science Hackathon 2015"
 date:   2015-05-18 16:30:00
-categories: data_science
+categories: projects
 tags: regular
 <!-- image: /assets/article_images/2014-08-29-welcome-to-jekyll/food.jpg -->
 ---

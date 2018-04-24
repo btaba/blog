@@ -6,6 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+
   <meta name="description" content="{{ site.description }}" />
 
   <meta name="HandheldFriendly" content="True" />
@@ -13,10 +14,12 @@
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
+  <link rel="shortcut icon" type="image/x-icon" href="{{ "/assets/images/favicon.ico" }}"/>
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
+  <!-- font-awesome icons -->
   <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 
-  <link rel="stylesheet" type="text/css" media="screen" href="{{ "/assets/css/main.css"  | prepend: site.baseurl  }}" />
-  <link rel="stylesheet" type="text/css" media="print" href="{{ "/assets/css/print.css"  | prepend: site.baseurl  }}" />
+  <link rel="stylesheet" type="text/css" media="all" href="{{ "/assets/css/styles.css"  | prepend: site.baseurl  }}" />
+
 </head>

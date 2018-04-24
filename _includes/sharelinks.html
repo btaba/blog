@@ -1,7 +1,7 @@
 
         <footer class="post-footer">
           <section class="share">
-            If you like this post, share it on 
+            If you like this post, share it on <br>
             {% for social in site.social %}
               {% if social.share_url != null %}
                 <a class="icon-{{ social.icon }}" href="{{ social.share_url }}{{ social.share_title }}{{page.title | cgi_escape}}{{ social.share_link }}{{site.url}}{{page.id}}"

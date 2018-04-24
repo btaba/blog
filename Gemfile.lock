@@ -246,6 +246,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-paginate
+  jekyll-sass-converter
 
 BUNDLED WITH
    1.16.1

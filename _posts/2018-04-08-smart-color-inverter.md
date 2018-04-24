@@ -11,7 +11,7 @@ I stare at screens a lot. You probably do too.
 
 Staring at screens is easier with apps like [f.lux](https://justgetflux.com) and [iris](https://iristech.co), which apply color filters to our displays to reduce the amount of blue light our eyes consume.
 
-If your screen has mostly white colors and you use *f.lux*, the display is stil sometimes too bright. This is why many apps also have color inverters, which flip the colors of all pixels on your display. The effect looks something like this:
+If your screen has mostly white colors and you use *f.lux*, the display is still sometimes too bright. This is why many apps also have color inverters, which flip the colors of all pixels on your display. The effect looks something like this:
 
 |   |   |
 |---|---|
@@ -80,8 +80,7 @@ And finally let's compare our original problem image using smart invert versus v
 
 Smart invert looks pretty good to me! Only the top application bar is inverted with the smart invert, whereas the simple inversion inverts everything.
 
-### [Check out the code gist](https://gist.github.com/btaba/99b95b36bd2e26e80406c5262b6a889b)
-<br/>
+##### [Check out the code gist](https://gist.github.com/btaba/99b95b36bd2e26e80406c5262b6a889b)
 
 ### Edge cases
 

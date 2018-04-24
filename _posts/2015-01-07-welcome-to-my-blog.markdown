@@ -3,8 +3,6 @@ layout: post
 title:  "Welcome to my blog!"
 date:   2015-01-07 02:30:16
 categories: personal
-tags: 
-<!-- image: /assets/article_images/2014-08-29-welcome-to-jekyll/food.jpg -->
 ---
 
 I'm in SF on break and I just created this blog. I used [Jekyll][jekyll] with github-pages. I didn't think it would be this easy to launch honestly, but there are many templates out there that you can launch on the fly. I used the mediator template from [Dirk Fabisch][dirk] and I think it looks great. Thank you Dirk!

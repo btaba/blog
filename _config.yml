@@ -4,10 +4,13 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 
+sass:
+  style: compact # possible values: nested expanded compact compressed
+
 # Site settings
 title: "words and other content"
 description: > # this means to ignore newlines until "email:"
-   from baruch
+  by baruch
 
 email: baruch@tabanpour.info
 #blog logo
@@ -18,9 +21,6 @@ cover: "/assets/images/bg.jpg"
 name: 'Baruch Tabanpour'
 author: 'Baruch Tabanpour'
 author_image: "/assets/images/avatar.jpg"
-
-paginate:	8
-
 
 url: "http://blog.tabanpour.info" # the base hostname & protocol for your site
 baseurl: ""

@@ -10,7 +10,8 @@ layout: default
 
 <header class="blog-header">
     {% if site.logo %}
-      <a class="blog-logo" href="{{site.url}}" style="background-image: url('{{ site.logo }}')">{{ site.title }}</a>
+    <!-- leave logo out for now -->
+<!--       <a class="blog-logo" href="{{site.url}}" style="background-image: url('{{ site.logo }}')">{{ site.title }}</a> -->
     {% endif %}
     <h1 class="blog-title">{{ site.title }}</h1>
     <h2 class="blog-description">{{ site.description }}</h2>
@@ -20,7 +21,7 @@ layout: default
             <a class="icon-{{ social.icon }}" href="{{ social.url }}" target="_blank">
               <i class="fa fa-{{ social.icon }}"></i>
             </a>
-            &nbsp;&nbsp;·&nbsp;&nbsp;
+            &nbsp;·&nbsp;
         {% endif %}
       {% endfor %}
       <a href="/about/">About</a>
@@ -30,62 +31,50 @@ layout: default
 
 <main class="content" role="main">
 
-    {% if site.tags.featured %}
-    <h4 class="index-headline featured">Featured</h4>
+  <nav>
+    <ul class="nav nav-tabs">
+      {% for category in site.categories %}
+        <li>
+        {% if category[0] == "projects" %}
+          <a class="content-nav-a active" href="#tab{{ category[0] }}">{{ category[0] | capitalize }}</a>
+        {% else %}
+          <a class="content-nav-a" href="#tab{{ category[0] }}">{{ category[0] | capitalize }}</a>
+        {% endif %}
+        </li>
 
-    <div class="container featured">
-      {% for post in site.tags.featured %}
-        <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
-          <div class="article-item">
-            <header class="post-header">
-              <h2 class="post-title" itemprop="name"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
-            </header>
-            <section class="post-excerpt" itemprop="description">
-              <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
-            </section>
-            <div class="post-meta">
-              <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
-            </div>
-          </div>
-        </article>
       {% endfor %}
-    </div>
+    </ul> 
+  </nav>
 
-    <h5 class="index-headline normal">Regular</h5>
+
+  {% for category in site.categories %}
+    
+    {% if category[0] == "projects" %}
+    <section id="tab{{ category[0] }}" class="tab-content active">
+    {% else %}
+    <section id="tab{{ category[0] }}" class="tab-content hide">
     {% endif %}
+    
+      <div class="cf frame" id="{{ category[0] }}">
 
-    <div class="cf frame">
-      {% for post in paginator.posts %}
-        <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
-          <div class="article-item">
-            <header class="post-header">
-              <h2 class="post-title" itemprop="name"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
-            </header>
-            <section class="post-excerpt" itemprop="description">
-              <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
-            </section>
-            <div class="post-meta">
-              <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
+        {% for post in category[1] %}
+          <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
+            <div class="article-item">
+              <header class="post-header">
+                <h2 class="post-title" itemprop="name"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
+              </header>
+              <section class="post-excerpt" itemprop="description">
+                <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
+              </section>
+              <div class="post-meta">
+                <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
+              </div>
             </div>
-          </div>
-        </article>
-      {% endfor %}
-    </div>
+          </article>
+        {% endfor %}
 
-    <nav class="pagination" role="navigation">
-      <span style="font-size:20px">
-        {% if paginator.next_page %}
-          <a class="newer-posts" href="/page{{paginator.next_page}}">&larr; Older posts</a>
-        {% endif %}
-        <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
-        {% if paginator.previous_page %}
-          {% if paginator.page == 2 %}
-            <a class="older-posts" href="/">Newer posts &rarr;</a>
-          {% else %}
-            <a class="older-posts" href="/page{{paginator.previous_page}}">Newer posts &rarr;</a>
-          {% endif %}
-        {% endif %}
-      </span>
-    </nav>
+      </div>
+    </section>
+  {% endfor %}
 
 </main>

@@ -4,29 +4,60 @@
 <script type="text/javascript" src="{{ "/assets/js/index.js" | prepend: site.baseurl  }}"></script>
 <script type="text/javascript" src="{{ "/assets/js/readingTime.min.js" | prepend: site.baseurl  }}"></script>
 
+<!-- Nav tab selection -->
 <script>
-(function ($) {
-  "use strict";
-  $(document).ready(function(){
+$(document).ready(function() {
+  $('.nav-tabs > li > a').click(function(event){
 
-    var $window = $(window),
-    $image = $('.post-image-image, .teaserimage-image');
-    $window.on('scroll', function() {
-      var top = $window.scrollTop();
+      // stop browser default action
+      event.preventDefault();
 
-      if (top < 0 || top > 1500) { return; }
-      $image
-        .css('transform', 'translate3d(0px, '+top/3+'px, 0px)')
-        .css('opacity', 1-Math.max(top/700, 0));
+      // get displaying tab content jQuery selector
+      var active_tab_selector = $('.nav-tabs > li > a.active').attr('href');
+
+      // find actived navigation and remove 'active' css
+      var actived_nav = $('.nav-tabs > li > a.active');
+      actived_nav.removeClass('active');
+
+      // add 'active' css into clicked navigation
+      $(this).addClass('active');
+
+      // hide displaying tab content
+      $(active_tab_selector).removeClass('active');
+      $(active_tab_selector).addClass('hide');
+
+      // show target tab content
+      var target_tab_selector = $(this).attr('href');
+      $(target_tab_selector).removeClass('hide');
+      $(target_tab_selector).addClass('active');
+
     });
-    $window.trigger('scroll');
 
-    var height = $('.article-image').height();
-    $('.post-content').css('padding-top', height + 'px');
+  });
+</script>
 
-    $('a[href*=\\#]:not([href=\\#])').click(function() {
+<!-- Scroll functions -->
+<script type="text/javascript">
+$(document).ready(function() {
+  // Image opacity scroll function
+  $(window).scroll(function(){
+    var logo = $('.logo-readium');
+    logo.css("opacity", Math.max(0.1, 1 - $(window).scrollTop() / 300));
+
+    var image = $('.post-image-image, .teaserimage-image');
+    let max_height = $('.article-image, .teaserimage-image').height();
+    // Change the opacity from 1 to 0.2 as the user scrolls
+    let max_opacity_height = max_height + .2 * max_height;
+    image.css("opacity", 1 - $(window).scrollTop() / max_opacity_height);
+  });
+
+  var height = $('.article-image').height();
+  $('.post-content').css('padding-top', height + 'px');
+  
+  // Animate scroll on internal links function
+  $('a[href*=\\#]:not([href=\\#])').click(function() {
       if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'')
-       && location.hostname == this.hostname) {
+       && location.hostname == this.hostname && !this.classList.contains('content-nav-a')) {
         var target = $(this.hash);
         target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
         if (target.length) {
@@ -34,11 +65,11 @@
           return false;
         }
       }
-    });
   });
-}(jQuery));
+});
 </script>
 
+<!-- Google analytics -->
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
