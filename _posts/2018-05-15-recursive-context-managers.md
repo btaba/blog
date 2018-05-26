@@ -138,7 +138,7 @@ class OpenFileList:
 
 {% endhighlight %}
 
-Boom! All we have to do was open files in a list on line 8, and then close them on line 12.
+Boom! All we had to do was open files in a list on line 8, and then close them on line 12.
 
 And now to use it:
 

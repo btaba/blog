@@ -90,7 +90,7 @@ There are some edges however. For example take the following image with it's sim
 |--|--|--|
 |![Image](/assets/article_images/2018-04-08-smart-color-inverter/edge_case.png)|![Simple Invert](/assets/article_images/2018-04-08-smart-color-inverter/edge_case_simple_invert.png)|![Smart Invert](/assets/article_images/2018-04-08-smart-color-inverter/edge_case_smart_invert.png)|
 
-Notice that the smart inversion makes the whole image black, which is not very helpful. This can be fixed by adding contours around the connected components like so, which keeps most of the image dark but still helps us distringuish what's in the image:
+Notice that the smart inversion makes the whole image black, which is not very helpful. This can be fixed by adding contours around the connected components like so, which keeps most of the image dark but still helps us distinguish what's in the image:
 
 ![Smart Invert with Contours](/assets/article_images/2018-04-08-smart-color-inverter/edge_case_smart_invert_fix.png)
 
