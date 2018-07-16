@@ -33,6 +33,7 @@ Solutions to the 1st edition. Watch a video on the race car problem!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZC1I8qa-ycE" frameborder="0" allowfullscreen></iframe>
 
+<br>
 
 > [**Sinkhorn Knopp**](https://github.com/btaba/sinkhorn_knopp){:target="_blank"}
 
