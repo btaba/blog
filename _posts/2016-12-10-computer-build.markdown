@@ -3,7 +3,7 @@ layout: post
 title:  "New Machine"
 date:   2016-12-10 06:00:00
 categories: projects
-tags: regular
+tags: hardware
 comments: True
 ---
 

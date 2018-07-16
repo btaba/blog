@@ -3,7 +3,7 @@ layout: post
 title:  "Sinkhorn Knopp"
 date:   2016-04-03 20:00:00
 categories: projects
-tags: regular
+tags: projects
 comments: True
 ---
 

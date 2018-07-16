@@ -3,7 +3,7 @@ layout: post
 title:  "Atari Me - Atari You"
 date:   2018-02-19 00:00:00
 categories: projects
-tags: regular
+tags: projects
 comments: True
 ---
 

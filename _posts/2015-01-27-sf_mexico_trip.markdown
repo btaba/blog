@@ -3,7 +3,7 @@ layout: post
 title:  "Ajusco hike, Mexico City"
 date:   2015-01-27 01:30:00
 categories: personal
-tags: regular
+tags: personal
 image: /assets/article_images/2015-01-27-sf_mexico_trip/ajusco_road.jpg
 ---
 

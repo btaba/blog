@@ -3,7 +3,7 @@ layout: post
 title:  "Recursive Context Managers"
 date:   2018-05-15 00:00:00
 categories: projects
-tags: regular
+tags: projects
 comments: True
 ---
 

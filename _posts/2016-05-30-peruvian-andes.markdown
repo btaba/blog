@@ -3,7 +3,7 @@ layout: post
 title:  "Cordillera Blanca"
 date:   2016-05-30 21:31:42
 categories: personal
-tags: regular
+tags: personal
 comments: True
 image: /assets/article_images/2016-05-31-cordillera-blanca/ahuac-view.JPG
 ---

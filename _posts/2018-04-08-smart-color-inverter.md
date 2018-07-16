@@ -3,7 +3,7 @@ layout: post
 title:  "Smart Color Inverter"
 date:   2018-04-08 00:00:00
 categories: projects
-tags: regular
+tags: projects
 comments: True
 ---
 

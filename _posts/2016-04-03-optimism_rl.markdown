@@ -3,7 +3,7 @@ layout: post
 title:  "A case for optimism"
 date:   2016-04-03 12:00:00
 categories: projects
-tags: regular
+tags: projects
 comments: True
 ---
 

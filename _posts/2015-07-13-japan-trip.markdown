@@ -3,7 +3,7 @@ layout: post
 title:  "A Taste of Japan in 18 Big Bites"
 date:   2015-07-13 00:00:00
 categories: personal
-tags: regular
+tags: personal
 image: /assets/article_images/2015-07-13-japan-trip/photos/fuji2.jpg
 comments: True
 ---

@@ -3,7 +3,7 @@ layout: post
 title:  "Donald TrumpBot"
 date:   2015-12-19 00:30:00
 categories: projects
-tags: regular
+tags: projects
 comments: True
 <!-- image: /assets/article_images/2014-08-29-welcome-to-jekyll/food.jpg -->
 ---

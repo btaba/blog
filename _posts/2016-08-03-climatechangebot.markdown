@@ -3,7 +3,7 @@ layout: post
 title:  "climatechangebot"
 date:   2016-08-03 20:00:00
 categories: projects
-tags: regular
+tags: projects
 comments: True
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  "mac it"
 date:   2017-08-25 00:00:00
 categories: projects
-tags: regular
+tags: hardware
 comments: True
 ---
 

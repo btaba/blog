@@ -3,7 +3,7 @@ layout: post
 title:  "Ice and Goulash"
 date:   2017-02-18 00:00:00
 categories: personal
-tags: regular
+tags: personal
 comments: True
 image: /assets/article_images/2017-02-18-europe-trip/chamonix_view.jpg
 ---

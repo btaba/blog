@@ -3,7 +3,7 @@ layout: post
 title:  "RL Race Car"
 date:   2016-08-27 20:00:00
 categories: projects
-tags: regular
+tags: projects
 comments: True
 ---
 

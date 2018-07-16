@@ -3,7 +3,7 @@ layout: post
 title:  "yarlp benchmarks"
 date:   2017-12-27 00:00:00
 categories: projects
-tags: regular
+tags: projects
 comments: True
 ---
 

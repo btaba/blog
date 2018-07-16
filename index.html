@@ -9,10 +9,7 @@ layout: default
 </div>
 
 <header class="blog-header">
-    {% if site.logo %}
-    <!-- leave logo out for now -->
-<!--       <a class="blog-logo" href="{{site.url}}" style="background-image: url('{{ site.logo }}')">{{ site.title }}</a> -->
-    {% endif %}
+
     <h1 class="blog-title">{{ site.title }}</h1>
     <h2 class="blog-description">{{ site.description }}</h2>
     <div class="custom-links">
@@ -25,6 +22,8 @@ layout: default
         {% endif %}
       {% endfor %}
       <a href="/about/">About</a>
+      &nbsp;·&nbsp;
+      <a href="/projects/">Other</a>
     </div>
 </header>
 
@@ -35,11 +34,7 @@ layout: default
     <ul class="nav nav-tabs">
       {% for category in site.categories %}
         <li>
-        {% if category[0] == "projects" %}
-          <a class="content-nav-a active" href="#tab{{ category[0] }}">{{ category[0] | capitalize }}</a>
-        {% else %}
           <a class="content-nav-a" href="#tab{{ category[0] }}">{{ category[0] | capitalize }}</a>
-        {% endif %}
         </li>
 
       {% endfor %}
@@ -48,12 +43,7 @@ layout: default
 
 
   {% for category in site.categories %}
-    
-    {% if category[0] == "projects" %}
-    <section id="tab{{ category[0] }}" class="tab-content active">
-    {% else %}
     <section id="tab{{ category[0] }}" class="tab-content hide">
-    {% endif %}
     
       <div class="cf frame" id="{{ category[0] }}">
 

@@ -3,7 +3,7 @@ layout: post
 title:  "mac build updates"
 date:   2017-10-13 00:00:00
 categories: projects
-tags: regular
+tags: hardware
 comments: True
 ---
 
