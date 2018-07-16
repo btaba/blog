@@ -15,7 +15,7 @@ permalink: /projects/
 > [**yarlp (yet another reinforcement learning package)**](https://github.com/btaba/yarlp){:target="_blank"}
 
 
-Implementations of A2C, DDQN, PG, CEM - for whatever reason I decided to do this.
+Implementations of A2C, DDQN, PG, CEM.
 
 ||||
 |---|---|---|
@@ -31,7 +31,7 @@ Implementations of A2C, DDQN, PG, CEM - for whatever reason I decided to do this
 
 Solutions to the 1st edition. Watch a video on the race car problem!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6_xskuYT0Ws" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZC1I8qa-ycE" frameborder="0" allowfullscreen></iframe>
 
 
 > [**Sinkhorn Knopp**](https://github.com/btaba/sinkhorn_knopp){:target="_blank"}
@@ -56,7 +56,8 @@ Convert non-negative square matrices with total support into doubly stochastic m
 
 > [**Climate Change Chat Bot**](https://github.com/innainu/climatechangebot){:target="_blank"}
 
-<iframe width="560" height="315" src="https://youtube.com/embed/RJH7JTmvK8c" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6_xskuYT0Ws" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ---
 
