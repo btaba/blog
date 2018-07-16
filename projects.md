@@ -55,7 +55,7 @@ Convert non-negative square matrices with total support into doubly stochastic m
     [ 1.,  1.]
 ```
 
-> [**Climate Change Chat Bot**](https://github.com/innainu/climatechangebot){:target="_blank"}
+> [**Climate Change Chatbot**](https://github.com/innainu/climatechangebot){:target="_blank"}
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6_xskuYT0Ws" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
