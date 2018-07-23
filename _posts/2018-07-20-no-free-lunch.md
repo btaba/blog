@@ -17,7 +17,7 @@ The abstract says:
 
 > "for any algorithm, any elevated performance over one class of problems is offset by performance over another class"
 
-If you take this statement at face value, the implication is that no algorithm can solve all problems better than any other algorithm. Take cross-validation for example. Cross-validation is used to test a model on future out-of-sample data by splitting training data into train/validation sets. Let's say we come up with a new algorithm called anti-cross validation, which picks the model with the worst performance on the validation set instead of the best. The implication of No Free Lunch is that cross-validation will do no better than anti-cross validation on unseen data averaged over all possible data generating functions.
+If you take this statement at face value, the implication is that no algorithm can solve all problems better than any other algorithm. Take cross-validation for example. Cross-validation is used to test performance of a model on future out-of-sample data by splitting training data into train/validation sets. Let's say we come up with a new algorithm called anti-cross validation, which picks the model with the worst performance on the validation set instead of the best. The implication of No Free Lunch is that cross-validation will do no better than anti-cross validation on unseen data averaged over all possible data generating functions.
 
 So is seeking algorithms for problems a useless endeavor? How do we make sure our algorithms are generalizable?
 
@@ -68,7 +68,7 @@ The proof for the first theorem is done with a proof by induction. The base case
 
 $$ \sum_f P(d_1^y | f, m=1, a)  = \sum_f \delta(d_1^y, f(d_1^x)) = |Y|^{|X| - 1}$$
 
-where $\delta$ is the Kronecker delta function. The sum equals $\|Y\|^{\|X\| - 1}$ since $\delta(d_1^y, f(d_1^x)) = 1$ only when $d_1^y = f(d_1^x)$ which occurs for every $f$ with $m=1$ data point. The result is independent of $a$. To finish the proof, they show that if $\sum_f P(d_m^y \| f, m, a)$ is independent of $a$, then $\sum_f P(d_{m+1}^y \| f, m+1, a)$ is also independent of $a$. You can refer to Appendix A in the [original paper]((https://ti.arc.nasa.gov/m/profile/dhw/papers/78.pdf)) for the rest of the proof.
+where $\delta$ is the Kronecker delta function. The sum equals $\|Y\|^{\|X\| - 1}$ since $\delta(d_1^y, f(d_1^x)) = 1$ only when $d_1^y = f(d_1^x)$ which occurs for every $f$ with $m=1$ data point. The sum is thus $\sum_f 1$ which is $\|Y\|^{\|X\| - 1}$ after excluding the first value in $X$. The result is independent of $a$. To finish the proof, they show that if $\sum_f P(d_m^y \| f, m, a)$ is independent of $a$, then $\sum_f P(d_{m+1}^y \| f, m+1, a)$ is also independent of $a$. You can refer to Appendix A in the [original paper]((https://ti.arc.nasa.gov/m/profile/dhw/papers/78.pdf)) for the rest of the proof.
 
 
 ### Implications for Search
