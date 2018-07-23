@@ -125,11 +125,11 @@ Implications of the No Free Lunch theorem go well beyond search or machine learn
 
 Does this mean that the scientific method is no better than random search or that cross-validating machine learning algorithms is useless? Well, we know in practice that many hypotheses and algorithms actually generalize well for the set of problems $f$ that we face in this universe. We can empirically test our hypotheses on unseen experiments (e.g. Einstein's general theory of relativity leading to detection of gravitational waves at [LIGO](https://en.wikipedia.org/wiki/LIGO) or particle physics predicting the existence of the [Higgs Boson](https://en.wikipedia.org/wiki/Higgs_boson) or AB tests for ML). Our hypotheses are still falsifiable, but they are useful and incredibly accurate nonetheless! So practically speaking, there are many problems $f$ that we don't care about, and we can find hypotheses that work well for the $f$ that we do.
 
-No Free Lunch still makes you wonder how useful it is to push accuracies ad-infinitum on datasets like [ImageNet](https://en.wikipedia.org/wiki/ImageNet). Nevertheless, features and networks obtained from ImageNet tasks do seem to generalize well on other datasets/tasks (see [4]) so ¯\\_(ツ)_/¯. Crisis averted! ... practically speaking.
+No Free Lunch still makes you wonder how useful it is to push accuracies ad-infinitum on datasets like [ImageNet](https://en.wikipedia.org/wiki/ImageNet). Nevertheless, as seen in [4] features and networks obtained from ImageNet tasks do seem to generalize well to other tasks so ¯\\_(ツ)_/¯. Crisis averted! ... practically speaking.
 
 ## References
 
-1. ["No Free Lunch Theorems of Optimization"](https://ti.arc.nasa.gov/m/profile/dhw/papers/78.pdf)
+1. [No Free Lunch Theorems of Optimization](https://ti.arc.nasa.gov/m/profile/dhw/papers/78.pdf)
 
 2. [The Supervised Learning No Free Lunch Theorems](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=8A9E4406154A4F0BF1D056AE403F17D6?doi=10.1.1.99.133&rep=rep1&type=pdf)
 
