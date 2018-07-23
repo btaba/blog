@@ -77,7 +77,7 @@ The No Free Lunch Theorem says that one algorithm is no better than any other on
 
 If $P(f)$ is non-uniform, and knowledge of $P(f)$ is not incorporated in $a$, then there can be no assurances that $a$ will be more effective than any other algorithm. On the other hand, if we incorporate knowledge of $P(f)$ in $a$, we can have assurance that our algorithm will on average perform better than random.
 
-To see this, we write the probability of obtaining some $d_m^y$ as $ P(d_m^y \| m, a) = \sum_f P(d_m^y \| f, m, a) P(f)$. The sum can be seen as an inner product. If $P(f)$ is non-uniform, we can always choose an $a$ so that the inner product of $P(d_m^y \| f, m, a) P(f)$ is larger compared to a different $a$.
+To see this, we write the probability of obtaining some $d_m^y$ as $ P(d_m^y \| m, a) = \sum_f P(d_m^y \| f, m, a) P(f)$. The sum can be seen as an inner product between $P(d_m^y \| f, m, a)$ and $P(f)$. If $P(f)$ is non-uniform, we can always choose an $a$ so that the inner product is larger compared to a different $a$.
 
 
 ## No Free Lunch Theorem for Supervised Learning
