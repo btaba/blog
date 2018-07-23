@@ -125,7 +125,7 @@ Implications of the No Free Lunch theorem go well beyond search or machine learn
 
 Does this mean that the scientific method is no better than random search or that cross-validating machine learning algorithms is useless? Well, we know in practice that many hypotheses and algorithms actually generalize well for the set of problems $f$ that we face in this universe. We can empirically test our hypotheses on unseen experiments (e.g. Einstein's general theory of relativity leading to detection of gravitational waves at [LIGO](https://en.wikipedia.org/wiki/LIGO) or particle physics predicting the existence of the [Higgs Boson](https://en.wikipedia.org/wiki/Higgs_boson) or AB tests for ML). Our hypotheses are still falsifiable, but they are useful and incredibly accurate nonetheless! So practically speaking, there are many problems $f$ that we don't care about, and we can find hypotheses that work well for the $f$ that we do.
 
-No Free Lunch still makes you wonder how useful it is to push accuracies ad-infinitum on datasets like [ImageNet])(https://en.wikipedia.org/wiki/ImageNet). Nevertheless, features obtained from ImageNet tasks are widely known to generalize across different computer vision tasks so ¯\\_(ツ)_/¯. Crisis averted! ... practically speaking.
+No Free Lunch still makes you wonder how useful it is to push accuracies ad-infinitum on datasets like [ImageNet](https://en.wikipedia.org/wiki/ImageNet). Nevertheless, features and networks obtained from ImageNet tasks do seem to generalize well on other datasets/tasks (see [4]) so ¯\\_(ツ)_/¯. Crisis averted! ... practically speaking.
 
 ## References
 
@@ -135,3 +135,4 @@ No Free Lunch still makes you wonder how useful it is to push accuracies ad-infi
 
 3. [What the No Free Lunch Theorems Really Mean; How to Improve Search Algorithms](https://sfi-edu.s3.amazonaws.com/sfi-edu/production/uploads/sfi-com/dev/uploads/filer/33/44/33440e97-fe46-4827-a1eb-a27196e1c49a/12-10-017.pdf)
  
+4. [Do Better ImageNet Models Transfer Better?](https://arxiv.org/pdf/1805.08974.pdf)
