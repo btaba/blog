@@ -55,7 +55,7 @@ $(document).ready(function() {
   // Image opacity scroll function
   $(window).scroll(function(){
     var logo = $('.logo-readium');
-    logo.css("opacity", Math.max(0.1, 1 - $(window).scrollTop() / 300));
+    logo.css("opacity", Math.max(0.5, 1 - $(window).scrollTop() / 300));
 
     var image = $('.post-image-image, .teaserimage-image');
     let max_height = $('.article-image, .teaserimage-image').height();
@@ -101,3 +101,7 @@ $(document).ready(function() {
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
 </script>
+
+<!-- THREE JS Logo -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/95/three.min.js"></script>
+<script type="text/javascript" src="{{ "/assets/js/logo.js" | prepend: site.baseurl  }}"></script>
