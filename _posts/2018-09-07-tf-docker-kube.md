@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Read This Before Using Tensorflow in Docker on Kubernetes"
+title:  "Tensorflow in Docker on Kubernetes - Read This First"
 date:   2018-09-07 00:00:00
 categories: projects
 tags: projects
