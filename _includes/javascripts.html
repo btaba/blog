@@ -52,6 +52,9 @@ $(document).ready(function() {
 <!-- Scroll functions -->
 <script type="text/javascript">
 $(document).ready(function() {
+  var height = $('.article-image').height();
+  $('.post-content').css('padding-top', height + 'px');
+
   // Image opacity scroll function
   $(window).scroll(function(){
     var logo = $('.logo-readium');
@@ -64,8 +67,10 @@ $(document).ready(function() {
     image.css("opacity", 1 - $(window).scrollTop() / max_opacity_height);
   });
 
-  var height = $('.article-image').height();
-  $('.post-content').css('padding-top', height + 'px');
+  $(window).resize(function() {
+    var height = $('.article-image').height();
+    $('.post-content').css('padding-top', height + 'px');  
+  })
   
   // Animate scroll on internal links function
   $('a[href*=\\#]:not([href=\\#])').click(function() {
