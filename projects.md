@@ -76,7 +76,7 @@ A company that hosts [kimchi making experiences](https://www.airbnb.com/experien
 #### Music
 
 
-Got bored, tried to use GarageBand.
+Tried to use GarageBand.
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/305949662&color=%2300aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
@@ -85,11 +85,6 @@ Got bored, tried to use GarageBand.
 #### Academic
 
 - [Nanophotonics](http://www1.cuny.edu/mu/research/2014/01/22/c-surp-spotlight-baruch-tabanpour-city-college-of-new-york/){:target="_blank"}
-- [Spintronics]()
+- Spintronics
 - [Climatology](https://www.giss.nasa.gov/edu/nycri/research/nasagiss.html#2010){:target="_blank"}
 
----
-
-#### Real Jobs
-
-@squarespace, @ondeck
