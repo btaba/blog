@@ -11,9 +11,9 @@ I have wanted to start a ramen log for a while now. To finally kick it off, I de
 
 In this blog post, I plan to log every bowl of ramen I eat and to take pictures along the way. Many of the ramen spots will be in NYC since I live here, but I'm not restricting myself to the city.
 
-Without further ado, here are The Ramen Logs™️, ranked in order of my  preference.
+Without further ado, here are The Ramen Logs™️ ranked in order of my  preference.
 
-## 1. <a name="ishida"></a> [Ramen Ishida](https://www.ramenishida.com) - 10/10
+## 1. <a name="ishida"></a> [Ramen Ishida - NY](https://www.ramenishida.com), 10/10
 
 |||
 |![Tokyo Shoyu]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ishida-tokyo-shoyu.jpg)|![Shio]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ishida-shio.jpg)|
@@ -36,7 +36,7 @@ I recommend starting with the Tokyo Shoyu or Classic Shio to get a clean taste o
   </tr>
 </table>
 
-## 2. [Minca](http://newyorkramen.com/) - 5/10
+## 2. [Minca - NY](http://newyorkramen.com/), 5/10
 
 ||||
 |![Miso]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/minca-miso.jpg)|![Ebi Gyoza]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/minca-ebi-gyoza.jpg)|![Wafoo Shio]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/minca-wafoo-shio.jpg)|
@@ -57,7 +57,7 @@ Minca is where my innocent young soul first discovered ramen. The place is cozy,
 </table>
 
 
-## 3. [Mr. Taka](https://mrtakaramen.webs.com/) - 3/10
+## 3. [Mr. Taka - NY](https://mrtakaramen.webs.com/), 3/10
 
 |||
 |![Tonkotsu]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/mrtaka-tonkotsu.jpg)|![Chicken/Bonito Wonton]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/mrtaka-chicken-bonito-wonton.jpg)|
