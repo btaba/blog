@@ -57,7 +57,33 @@ Minca is where my innocent young soul first discovered ramen. The place is cozy,
 </table>
 
 
-## 3. [Mr. Taka - NY](https://mrtakaramen.webs.com/), 3/10
+## 3. [Tabetomo - NY](https://www.tabetomonyc.com/), 3.2/10
+
+||||
+|![Tsukemen]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/tabetomo-tsukemen1.jpg)|![More tsukemen]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/tabetomo-tsukemen2.jpg)|
+
+I was about to go to Ivan ramen, but the long lines deterred me and my friends. We decided to go to Tabetomo  instead due to the soft opening. I was really excited by the photos and ambiance on [yelp](https://www.yelp.com/biz/tabetomo-new-york?osq=tabetomo)! The restaurant has a cozy feel with elegant and minimalist Japanese decor. Unfortunately, the ramen wasn't for me.
+
+First off, I do have to say that the tonkotsu broth was nice and thick. The noodles were equally thick, but a bit too chewy. I was repeatedly disappointed that the noodles wouldn't soak up the broth and they filled me up too fast. The toppings didn't really shine through. The chashu itself was not as melt-in-my-mouth as I would've liked and didn't have a charred or otherwise distinctive flavor. Overall I couldn't finish the broth at the end, but I didn't feel like I wanted to either. The saving grace was the delicious egg! I still remember that bite of egg with chashu and broth as I write this, delicious. As far as the Tsukemen, I tasted what others had gotten and there was consistently too much vinegar and salt in their broths. Good thing I went with the Jiro ramen, but I'm not sure I'll be back soon.
+
+Come to Tabetomo if you want a heavy meal, go to <a href="#ishida">Ishida</a> if you want refined ramen that is actually digestable.
+
+<table class="tg">
+  <tr>
+    <th class="tg-0pky">Visit</th>
+    <th class="tg-0pky">Bowls</th>
+    <th class="tg-0pky">Notes</th>
+  </tr>
+  <tr>
+    <td class="tg-btxf">12/05/2018</td>
+    <td class="tg-btxf">Tonkotsu Chashu Jiro Ramen, and Tonkotsu Tsukemen</td>
+    <td class="tg-btxf">Thick broth and thick noodles, but a bit too much for me.</td>
+  </tr>
+</table>
+
+
+
+## 4. [Mr. Taka - NY](https://mrtakaramen.webs.com/), 3/10
 
 |||
 |![Tonkotsu]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/mrtaka-tonkotsu.jpg)|![Chicken/Bonito Wonton]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/mrtaka-chicken-bonito-wonton.jpg)|
