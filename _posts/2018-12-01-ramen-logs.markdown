@@ -42,7 +42,7 @@ I recommend starting with the Tokyo Shoyu or Classic Shio to get a clean taste o
 ||
 |![Spicy Tonkotsu]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/kame-spicy-tonkotsu.jpg)|
 
-I went to Kame whilst meeting a friend for dinner in midtown. I don't usually go to midtown, but I saw that Kame had 4.5 stars on Yelp. Promising. I walked in to a regular ramen shop with pleasant dècor. I ordered the spicy tonkotsu and to be honest, I wasn't expecting much. To my suprise the broth was delicious and the noodles were pretty good too. The egg was perfectly cooked and best of all, the two slices of pork not only beautifully garnished the bowl but also my mouth. I want to come back to Kame to try the other ramen dishes. So far, Kame is at the top of my list for being a pretty decent bowl of ramen that you'd expect to find regularly in Tokyo.
+I went to Kame whilst meeting a friend for dinner in midtown. I don't usually go to midtown, but I saw that Kame had 4.5 stars on Yelp. Promising. I walked in to a regular looking ramen shop with pleasant dècor. I ordered the spicy tonkotsu and to be honest, I wasn't expecting much. To my suprise the broth was delicious and the noodles were pretty good too. The egg was perfectly cooked and best of all, the two slices of pork not only beautifully garnished the bowl but also my mouth. I want to come back to Kame to try the other ramen dishes. So far, Kame ranks at the top of my list for being a pretty decent bowl of ramen that you'd expect to find regularly in Tokyo.
 
 <table class="tg">
   <tr>
@@ -86,7 +86,7 @@ Minca is where my innocent young soul first discovered ramen. The place is cozy,
 
 I've been to Tatsu four times now. The first time, I was so excited that a ramen place stays open until 3AM in the East Village! Tatsu also takes self-serve orders just like in Japan, yay (except on a stupid iPad). Last time I went, I left feeling like the broth was way too salty and that the quality of the ramen reflects that Tatsu is now a chain. I went back today and confirmed that yes the broth is WAY too salty. It felt like I had a salt lozenge in my mouth on the way out.
 
-With that being said, I really want to Tatsu to be better. If it wasn't for the salt, Tatsu could really be up there among the greats. They make a really good chicken broth, which is hard enough to find. I love chicken broth! The Old Skool tonkotsu has less salt though, so it gets my vote over the Cheeky. The noodles are alright and the egg is freaking amazing. The meat toppings are just OK. Why Tatsu why?! I love you, but hate you so much at the same time. Nevertheless, I will most likely be back.
+With that being said, I really want Tatsu to be better. If it wasn't for the salt, Tatsu could really be up there among the greats. They make a really good chicken broth, which is hard enough to find. Did I mention that I love chicken broth? Unforunately, the "Old Skool" tonkotsu has less salt so it gets my vote over the "Cheeky" chicken bowl. The noodles are alright, the egg is amazing, and the meat toppings are just OK. Why Tatsu why?! I love you, but hate you so much at the same time. Nevertheless, I will probably be back.
 
 Good for large groups.
 
