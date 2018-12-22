@@ -57,8 +57,33 @@ I went to Kame whilst meeting a friend for dinner in midtown. I don't usually go
   </tr>
 </table>
 
+## 3. [Zest - NY](https://www.yelp.com/biz/zest-ramen-new-york-8), 5.5/10
 
-## 3. [Minca - NY](http://newyorkramen.com/), 5/10
+|||
+|![Shoyu]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/zest-shoyu.jpg)|![Yuzu]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/zest-yuzu.jpg)|
+
+I went to Zest after plans got cancelled to eat at [Ramen Shack](https://www.ramenshack.com). I recently procured a Japanese newspaper with ramen ratings for Manhattan. Zest is one of the few with 4.5/5 stars along with Ishida and Kame – I was pleasantly suprised to see my ratings correlate with the newspaper's 4.5 star ratings! So I was very excited to try out Zest ramen.
+
+The ambiance is classic for a ramen-shop – wood panels, soft lighting, and a nice crowd eating ramen on a Friday night. I sat at the bar watching the chefs open up fresh oysters – they were really enticing me. So I ordered one of the most expensive oysters and thoroughly enjoyed it!
+
+I got the shoyu and my girlfriend got the yuzu shio. The ramen itself is clean and solid, like a freshly prepared oyster. The broth is light but packed with umami. The noodles were very chewy and got softer as I finished the bowl, kind of like reading a noodle poem. The egg was perfect and the menma was delicious. The pork chashu was a bit chewy and could have been charred a bit. The yuzu ramen was good, I just don't really like yuzu broth since I get sick of the flavor half-way through.
+
+Overall, Zest has a nice and clean taste. Watching the oysters while eating the light delicious broth reminded me of the Okinawan island life. I think the quality of the noodles and chashu could be improved, but I'd come back to Zest anytime – that's definitely a good sign. Come here for your next vacation to Tahiti or Sri Lanka!
+
+<table class="tg">
+  <tr>
+    <th class="tg-0pky">Visit</th>
+    <th class="tg-0pky">Bowls</th>
+    <th class="tg-0pky">Notes</th>
+  </tr>
+  <tr>
+    <td class="tg-btxf">12/21/2018</td>
+    <td class="tg-btxf">Shoyu, yuzu shio</td>
+    <td class="tg-btxf">A taste of the island life</td>
+  </tr>
+</table>
+
+## 4. [Minca - NY](http://newyorkramen.com/), 5/10
 
 ||||
 |![Miso]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/minca-miso.jpg)|![Ebi Gyoza]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/minca-ebi-gyoza.jpg)|![Wafoo Shio]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/minca-wafoo-shio.jpg)|
@@ -79,7 +104,7 @@ Minca is where my innocent young soul first discovered ramen. The place is cozy,
 </table>
 
 
-## 4. [Tatsu - NY](https://www.tatsuramen.com/), 4.5/10
+## 5. [Tatsu - NY](https://www.tatsuramen.com/), 4.5/10
 
 |||
 |![Old skool tonkotsu]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/tatsu-old-skool.jpg)|![Cheeky chicken broth]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/tatsu-cheeky.jpg)|
@@ -103,7 +128,39 @@ Good for large groups.
   </tr>
 </table>
 
-## 5. [Tabetomo - NY](https://www.tabetomonyc.com/), 3.2/10
+
+## 6. [Shinka - NY](https://www.shinkaramen.com), 3.5/10
+
+|||
+|![Pork Bao]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/shinka-bao.jpg)|![Beef broth]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/shinka-beef.jpg)|
+
+
+After visiting Zest ramen, I wanted to try another ramen shop close to the lower east side. So I headed over to Chinatown to try a bowl of beef bone marrow gyukotsu! This ramen was at the 2018 NY ramen contest and had lines too long for my patience. I was glad I could finally taste this "award winning" ramen (I'm not sure how they placed in the competition, but their menu suggests that they won something).
+
+When I got to Shinka, I was immediately struck by the kitschy dècor. Shinka is connected to a bar on the first floor and the basement. The main ramen place also has a bar with 5-6 TV screens playing video clips of ramen. I think the kitchen itself is oddly in the basement.
+
+I ordered Kakuni pork bao with the signature beef ramen. A small disclaimer here, I don't actually like beef ramen – I had a bowl of beef broth at [Mu ramen](https://www.muramennyc.com) a few years ago and disliked it. With that being said, I wanted to see what Shinka had to offer.
+
+Now for the pièce de résistance, the beef broth ramen. The broth had an initially impressive thick flavor. I had the bone marrow and it was pretty good but I think they added butter. The noodles were nice and thin, complementing the thick broth, but I would have liked less mushy noodles (they were overcooked)! The wagyu beef brisket tasted like...brisket. And the egg was good but a piece of raw garlic was placed in each egg half – a bit jarring to say the least. As far as the appetizer, the kakuni pork bao had too much mayo, the bun was too dry and sweet, and the pork wasn't that great either. Let's just say that the experience did not convert me into a beef broth lover.
+
+Overall, I'd say Shinka's ramen is very similar to their dècor. Everything is a bit overdone and kitschy. I'm left with a garlic taste in my mouth as I write this review... I feel like I should give their tonkotsu or chicken shoyu a try, but I'm not sure I want to go back. Nevertheless, I could see how some folks might actually really like Shinka. The style is just not for me.
+
+
+<table class="tg">
+  <tr>
+    <th class="tg-0pky">Visit</th>
+    <th class="tg-0pky">Bowls</th>
+    <th class="tg-0pky">Notes</th>
+  </tr>
+  <tr>
+    <td class="tg-btxf">12/21/2018</td>
+    <td class="tg-btxf">Beef bone marrow gyokotsu</td>
+    <td class="tg-btxf">Too kitschy for me</td>
+  </tr>
+</table>
+
+
+## 7. [Tabetomo - NY](https://www.tabetomonyc.com/), 3/10
 
 ||||
 |![Tsukemen]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/tabetomo-tsukemen1.jpg)|![More tsukemen]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/tabetomo-tsukemen2.jpg)|
@@ -129,7 +186,7 @@ Come to Tabetomo if you want a heavy meal, go to <a href="#ishida">Ishida</a> if
 
 
 
-## 6. [Mr. Taka - NY](https://mrtakaramen.webs.com/), 3/10
+## 8. [Mr. Taka - NY](https://mrtakaramen.webs.com/), 2.5/10
 
 |||
 |![Tonkotsu]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/mrtaka-tonkotsu.jpg)|![Chicken/Bonito Wonton]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/mrtaka-chicken-bonito-wonton.jpg)|
