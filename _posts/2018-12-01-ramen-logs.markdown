@@ -42,7 +42,7 @@ I recommend starting with the Tokyo Shoyu or Classic Shio to get a clean taste o
 ||
 |![Spicy Tonkotsu]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/kame-spicy-tonkotsu.jpg)|
 
-I went to Kame whilst meeting a friend for dinner in midtown. I don't usually go to midtown, but I saw that Kame had 4.5 stars on Yelp. Promising. I walked in to a regular looking ramen shop with pleasant dècor. I ordered the spicy tonkotsu and to be honest, I wasn't expecting much. To my suprise the broth was delicious and the noodles were pretty good too. The egg was perfectly cooked and best of all, the two slices of pork not only beautifully garnished the bowl but also my mouth. I want to come back to Kame to try the other ramen dishes. So far, Kame ranks at the top of my list for being a pretty decent bowl of ramen that you'd expect to find regularly in Tokyo.
+I went to Kame whilst meeting a friend for dinner in midtown. I don't usually go to midtown, but I saw that Kame had 4.5 stars on Yelp. Promising. I walked in to a regular looking ramen shop with pleasant décor. I ordered the spicy tonkotsu and to be honest, I wasn't expecting much. To my suprise the broth was delicious and the noodles were pretty good too. The egg was perfectly cooked and best of all, the two slices of pork not only beautifully garnished the bowl but also my mouth. I want to come back to Kame to try the other ramen dishes. So far, Kame ranks at the top of my list for being a pretty decent bowl of ramen that you'd expect to find regularly in Tokyo.
 
 <table class="tg">
   <tr>
@@ -137,13 +137,13 @@ Good for large groups.
 
 After visiting Zest ramen, I wanted to try another ramen shop close to the lower east side. So I headed over to Chinatown to try a bowl of beef bone marrow gyukotsu! This ramen was at the 2018 NY ramen contest and had lines too long for my patience. I was glad I could finally taste this "award winning" ramen (I'm not sure how they placed in the competition, but their menu suggests that they won something).
 
-When I got to Shinka, I was immediately struck by the kitschy dècor. Shinka is connected to a bar on the first floor and the basement. The main ramen place also has a bar with 5-6 TV screens playing video clips of ramen. I think the kitchen itself is oddly in the basement.
+When I got to Shinka, I was immediately struck by the kitschy décor. Shinka is connected to a bar on the first floor and the basement. The main ramen place also has a bar with 5-6 TV screens playing video clips of ramen. I think the kitchen itself is oddly in the basement.
 
 I ordered Kakuni pork bao with the signature beef ramen. A small disclaimer here, I don't actually like beef ramen – I had a bowl of beef broth at [Mu ramen](https://www.muramennyc.com) a few years ago and disliked it. With that being said, I wanted to see what Shinka had to offer.
 
 Now for the pièce de résistance, the beef broth ramen. The broth had an initially impressive thick flavor. I had the bone marrow and it was pretty good but I think they added butter. The noodles were nice and thin, complementing the thick broth, but I would have liked less mushy noodles (they were overcooked)! The wagyu beef brisket tasted like...brisket. And the egg was good but a piece of raw garlic was placed in each egg half – a bit jarring to say the least. As far as the appetizer, the kakuni pork bao had too much mayo, the bun was too dry and sweet, and the pork wasn't that great either. Let's just say that the experience did not convert me into a beef broth lover.
 
-Overall, I'd say Shinka's ramen is very similar to their dècor. Everything is a bit overdone and kitschy. I'm left with a garlic taste in my mouth as I write this review... I feel like I should give their tonkotsu or chicken shoyu a try, but I'm not sure I want to go back. Nevertheless, I could see how some folks might actually really like Shinka. The style is just not for me.
+Overall, I'd say Shinka's ramen is very similar to their décor. Everything is a bit overdone and kitschy. I'm left with a garlic taste in my mouth as I write this review... I feel like I should give their tonkotsu or chicken shoyu a try, but I'm not sure I want to go back. Nevertheless, I could see how some folks might actually really like Shinka. The style is just not for me.
 
 
 <table class="tg">
