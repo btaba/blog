@@ -36,7 +36,7 @@ I recommend starting with the Tokyo Shoyu or Classic Shio to get a clean taste o
   </tr>
 </table>
 
-## 2. [Ippudo - NY East Village](https://www.yelp.com/biz/ippudo-ny-new-york-7), 8.5/10
+## 2. [Ippudo - NY East Village](https://www.yelp.com/biz/ippudo-ny-new-york-7), 8/10
 
 ||||
 |![Akamaru]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ippudo-akamaru.jpg)|![Tanakaya]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ippudo-tanakaya1.jpg)||![Tanakaya noodles]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ippudo-tanakaya2.jpg)|
@@ -46,7 +46,7 @@ I've been to Ippudo many times, but never to the NY flagship in the East Village
 
 [Ippudo](http://ippudo-us.com/menu/) is known for being foundational to ramen culture as we know it today – the classic wooden signs and decor, the obsession with taste and hospitality. They have been making their signature silky smooth pork broth since [1996](http://ippudo-us.com/about/)!
 
-I got the Akamaru, the Tonkotsu broth with a "secret" miso sauce. The first few slurps of the broth were delicious – I was very impressed with how refined, smooth, and clean the pork base was. The umami sauce was on point for the first few bites, but was slightly overpowering towards the end of the bowl. The chashu was ok and the egg was just as smooth as the broth! Overall, the Akamura was a solid bowl of ramen, much better than any  Tonkotsu I've had in NY. I left feeling great without overpowering tastes in my mouth – just delicious ramen sloshing around in my stomach.
+I got the Akamaru, their Tonkotsu broth with a "secret" miso sauce. The first few slurps of the broth were delicious – I was very impressed with how refined, smooth, and clean the pork base was. The umami sauce was on point for the first few bites, but was slightly overpowering towards the end of the bowl. The chashu was ok and the egg was just as smooth as the broth! Overall, the Akamura was a solid bowl of ramen, much better than any  Tonkotsu I've had in NY. I left feeling great without overpowering tastes in my mouth – just delicious ramen sloshing around in my stomach.
 
 My girlfriend got the Tanakaya, a mix of pork and chicken broth that was a lot more gamy than the Akamaru. I actually liked the Tanakaya a lot more than the Akamura since it had much more natural umami flavor. The Tanakaya also had thick noodles which I much preferred over Ippudo's classic thinner noodles. Unfortunately, they decided to put kale in the Tanakaya – it was a bit...out of place.
 
