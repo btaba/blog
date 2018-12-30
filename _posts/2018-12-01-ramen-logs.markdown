@@ -54,10 +54,38 @@ I recommend starting with the Tokyo Shoyu or Classic Shio to get a clean taste o
   </tr>
 </table>
 
+
+## 3. [Ramen Shack - NY](https://www.ramenshack.com), 8.2/10, `$$`-`$$$`
+
+|||
+|![Classic Shoyu]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ramen-shack-shoyu.jpg)|![BGO]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ramen-shack-bgo.jpg)|![Sunset Red]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ramen-shack-sunset-red.jpg)|
+
+Ramen Shack is as legit as any ramen place can be. The prolific accomplishments of [Keizo Shimamoto](https://livingtheramendream.com) can be intimidating, but his scrappy rise to the top can still seen in the pop-up shop feel of the Ramen Shack location in Long Island City.
+
+Ramen Shack is a ramen lover's dream. The broth is awesome, the chashu is absolutely amazing, the noodles are on point (Shimamoto has his own noodle company), and the list goes on. Some broths like the BGO tonoktsu with black garlic oil are not my preference, but there are easily 20 different bowls you could try here. I tried the classic shoyu with chicken and dashi broth and it was really solid. Did I mention the quality of the ingredients are really top notch? I also tried the Sunset-Red Tonkotsu to try a different version of the tonkotsu broth – it's rich and smooth and not too overpowering.
+
+Ramen Shack is the kind of place I can keep coming back too everyday. My only quip is that the ramen doesn't taste as refined as I would like, as compared to Ishida for example. The specialty ramens can also get a bit pricy at $16-$18 compared to $11 for the classic shoyu. Even so, Ramen Shack is as legit as it gets.
+
+Oh, please don't forget to try to **original** ramen burger! It's amazing!
+
+
+<table class="tg">
+  <tr>
+    <th class="tg-0pky">Visit</th>
+    <th class="tg-0pky">Bowls</th>
+    <th class="tg-0pky">Notes</th>
+  </tr>
+  <tr>
+    <td class="tg-btxf">12/29/2018</td>
+    <td class="tg-btxf">Classic Shoyu, BGO, Sunset Shoyu</td>
+    <td class="tg-btxf">I love those ramen burgers too!</td>
+  </tr>
+</table>
+
 ## 2. [Ippudo - NY East Village](https://www.yelp.com/biz/ippudo-ny-new-york-7), 8/10, `$$$`
 
 ||||
-|![Akamaru]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ippudo-akamaru.jpg)|![Tanakaya]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ippudo-tanakaya1.jpg)||![Tanakaya noodles]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ippudo-tanakaya2.jpg)|
+|![Akamaru]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ramen-shack-shoyu.jpg)|![Tanakaya]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ippudo-tanakaya1.jpg)||![Tanakaya noodles]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ippudo-tanakaya2.jpg)|
 
 
 I've been to Ippudo many times, but never to the NY flagship in the East Village near Astor Place. I expected the line to be long, and of course it was. But the East Village location is large and full of energy with countless folks slurping delicious ramen. I didn't find the 20 minute wait too painful.
@@ -85,7 +113,7 @@ Overall, I was impressed with Ippudo's quality given its mega-like operation wit
 </table>
 
 
-## 3. [Kame - NY](https://www.yelp.com/biz/kame-ramen-new-york-2), 6.5/10, `$$`
+## 4. [Kame - NY](https://www.yelp.com/biz/kame-ramen-new-york-2), 6.5/10, `$$`
 
 ||
 |![Spicy Tonkotsu]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/kame-spicy-tonkotsu.jpg)|
@@ -105,7 +133,7 @@ I went to Kame whilst meeting a friend for dinner in midtown. I don't usually go
   </tr>
 </table>
 
-## 4. [Misoya - NY](http://www.misoyanyc.com), 5.8/10, `$`
+## 5. [Misoya - NY](http://www.misoyanyc.com), 5.8/10, `$`
 
 ||||
 |![Shiro]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/misoya-shiro.jpg)|![Mame]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/misoya-mame.jpg)|![Free appetizers]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/misoya-appetizers.jpg)|
@@ -132,7 +160,7 @@ With that being said, the noodles are mediocre, the egg is OK, and the ramen is 
 </table>
 
 
-## 5. [Zest - NY](https://www.yelp.com/biz/zest-ramen-new-york-8), 5.5/10, `$$`
+## 6. [Zest - NY](https://www.yelp.com/biz/zest-ramen-new-york-8), 5.5/10, `$$`
 
 |||
 |![Shoyu]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/zest-shoyu.jpg)|![Yuzu]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/zest-yuzu.jpg)|
@@ -158,7 +186,7 @@ Overall, Zest has a nice and clean taste. Watching the oysters while eating the 
   </tr>
 </table>
 
-## 6. [Minca - NY](http://newyorkramen.com/), 5.3/10, `$$`
+## 7. [Minca - NY](http://newyorkramen.com/), 5.3/10, `$$`
 
 ||||
 |![Miso]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/minca-miso.jpg)|![Ebi Gyoza]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/minca-ebi-gyoza.jpg)|![Wafoo Shio]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/minca-wafoo-shio.jpg)|
@@ -179,7 +207,7 @@ Minca is where my innocent young soul first discovered ramen. The place is cozy,
 </table>
 
 
-## 7. [Tatsu - NY](https://www.tatsuramen.com/), 4.5/10, `$$`
+## 8. [Tatsu - NY](https://www.tatsuramen.com/), 4.5/10, `$$`
 
 |||
 |![Old skool tonkotsu]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/tatsu-old-skool.jpg)|![Cheeky chicken broth]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/tatsu-cheeky.jpg)|
@@ -204,7 +232,7 @@ Good for large groups.
 </table>
 
 
-## 8. [Shinka - NY](https://www.shinkaramen.com), 3.5/10, `$$$`
+## 9. [Shinka - NY](https://www.shinkaramen.com), 3.5/10, `$$$`
 
 |||
 |![Pork Bao]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/shinka-bao.jpg)|![Beef broth]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/shinka-beef.jpg)|
@@ -235,7 +263,7 @@ Overall, I'd say Shinka's ramen is very similar to their décor. Everything is a
 </table>
 
 
-## 9. [Tabetomo - NY](https://www.tabetomonyc.com/), 3/10, `$$$`
+## 10. [Tabetomo - NY](https://www.tabetomonyc.com/), 3/10, `$$$`
 
 ||||
 |![Tsukemen]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/tabetomo-tsukemen1.jpg)|![More tsukemen]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/tabetomo-tsukemen2.jpg)|
@@ -261,7 +289,7 @@ Come to Tabetomo if you want a heavy meal, go to <a href="#ishida">Ishida</a> if
 
 
 
-## 10. [Mr. Taka - NY](https://mrtakaramen.webs.com/), 2.5/10, `$$`
+## 11. [Mr. Taka - NY](https://mrtakaramen.webs.com/), 2.5/10, `$$`
 
 |||
 |![Tonkotsu]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/mrtaka-tonkotsu.jpg)|![Chicken/Bonito Wonton]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/mrtaka-chicken-bonito-wonton.jpg)|
