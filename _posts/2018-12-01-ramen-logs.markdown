@@ -55,7 +55,7 @@ I recommend starting with the Tokyo Shoyu or Classic Shio to get a clean taste o
 </table>
 
 
-## 3. [Ramen Shack - NY](https://www.ramenshack.com), 8.2/10, `$$`-`$$$`
+## 2. [Ramen Shack - NY](https://www.ramenshack.com), 8.2/10, `$$`-`$$$`
 
 |||
 |![Classic Shoyu]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ramen-shack-shoyu.jpg)|![BGO]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ramen-shack-bgo.jpg)|![Sunset Red]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ramen-shack-sunset-red.jpg)|
@@ -82,7 +82,7 @@ Oh, please don't forget to try to **original** ramen burger! It's amazing!
   </tr>
 </table>
 
-## 2. [Ippudo - NY East Village](https://www.yelp.com/biz/ippudo-ny-new-york-7), 8/10, `$$$`
+## 3. [Ippudo - NY East Village](https://www.yelp.com/biz/ippudo-ny-new-york-7), 8/10, `$$$`
 
 ||||
 |![Akamaru]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ramen-shack-shoyu.jpg)|![Tanakaya]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ippudo-tanakaya1.jpg)||![Tanakaya noodles]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ippudo-tanakaya2.jpg)|
