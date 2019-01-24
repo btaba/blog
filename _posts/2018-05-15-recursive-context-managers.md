@@ -7,13 +7,11 @@ tags: projects
 comments: True
 ---
 
-After several years as a Python user, I think I'm finally coming around to really appreciating the language. Whatever it lacks as a dynamically typed scripting language (granted there is now [mypy](http://mypy-lang.org)), it makes up for it with its ease of use and readability.
+Python is really awesome! To illustrate what I mean, I'll use an example with context managers.
 
-To illustrate what I mean, I'll use an example from a problem I had at work with context managers. But first, I'll describe what context managers are.
+## What is a context manager?
 
-## WTF is a context manager?
-
-A context manager is basically what allows you to use the `with` statement in Python. For example if you wanted to write to a file, you *could* do this:
+A context manager is what allows you to use the `with` statement in Python. For example if you wanted to write to a file, you *could* do this:
 
 
 ```python
@@ -38,7 +36,7 @@ The `with` statement will call `f.close()` for us automagically, so we just save
 
 ## But how does it work?
 
-You are probably thinking, that's fine but I have no idea wtf is happening with the `with` thing. Well then, let's just re-implement it:
+Let's implement a context manager to see how `with` works:
 
 {% highlight python linenos %}
 from contextlib import contextmanager
@@ -54,7 +52,7 @@ with open_context_manager('test.txt', 'w') as f:
 
 {% endhighlight %}
 
-That might look scary, but it's not really. When you call `with open_context_manager` on line 9, the `open_context_manager(...)` function gets called on line 4 and gives you back the file handler `f` using the `yield` statement on line 6. Then it returns back to the code in the `with` block on line 10, and we write `'hey!'` to the file with `f.write('hey!')`. Once we leave the `with` block, we return back to the `open_context_manager(..)` function on line 7, which calls `f.close()`. That's it!
+When you call `with open_context_manager` on line 9, the `open_context_manager(...)` function gets called on line 4 and gives you back the file handler `f` using the `yield` statement on line 6. Then it returns back to the code in the `with` block on line 10, and we write `'hey!'` to the file with `f.write('hey!')`. Once we leave the `with` block, we return back to the `open_context_manager(..)` function on line 7, which calls `f.close()`. That's it!
 
 You could also implement a context manager with a `try` and `finally` statement:
 
@@ -76,9 +74,9 @@ Try it out! It works the same way.
 
 ## So what was the problem?
 
-The problem I had was that I needed to enter context managers all at the same time in a nested data structure. 
+The problem I had was that I needed to enter context managers all at the same time in a nested data structure.
 
-If we simply wanted to enter a lot of context managers at the same time, we could start off by doing something like this:
+If we wanted to enter a lot of context managers at the same time, we could start off by doing something like this:
 
 ```python
 with open('test1.txt', 'w') as f1,\
@@ -90,7 +88,7 @@ with open('test1.txt', 'w') as f1,\
 
 But that isn't really usable is it? Let's say we had 100 files? I sure wouldn't want to type that all out.
 
-It turns out that all you really need to implement a context manager in Python is to implement a class with an `__enter__` and `__exit__` method. `__enter__` gets called when `with` is invoked on the object, and `__exit__` gets called when you leave the `with` scope. 
+It turns out that all you need to implement a context manager in Python is to implement a class with an `__enter__` and `__exit__` method. `__enter__` gets called when `with` is invoked on the object, and `__exit__` gets called when you leave the `with` scope. 
 
 So here is how to implement a context manager for opening and closing files using a class:
 
@@ -116,9 +114,9 @@ with Open('test.txt', 'w') as f:
 
 It works the same way as before. `__enter__` gets called when `with Open(...)` happens, and `__exit__` gets called when you leave the `with` scope.
 
-You might be wondering what the `*exc` is on line 11? It's basically a list of required arguments for any `__exit__` magic method, which get passed around so that you can handle exceptions gracefully. The arguments for `*exc` are `exception_type`, `exception_value`, and `traceback` respectively.
+You might be wondering what the `*exc` is on line 11? It's a list of required arguments for any `__exit__` magic method, which get passed around so that you can handle exceptions gracefully. The arguments for `*exc` are `exception_type`, `exception_value`, and `traceback`.
 
-So how can we leverage what we just did to enter multiple context managers at the same time? It becomes kind of simple really. Let's say we had files in a list, we could implement the following context manager:
+So how can we leverage what we just did to enter multiple context managers at the same time? Let's say we had files in a list, we could implement the following context manager:
 
 
 {% highlight python linenos %}
@@ -153,8 +151,6 @@ with OpenFileList(['test.txt', 'test2.txt', 'test3.txt'], 'r') as fs:
         print(f.read())
 
 ```
-
-It's that easy!
 
 ## Back to the original problem!
 
@@ -253,4 +249,4 @@ assert fobj['hey'].closed is True  # yay!
 ```
 
 
-And that works fine! So yeah, Python can be pretty neat sometimes.
+Python can be pretty neat sometimes!

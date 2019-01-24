@@ -97,7 +97,7 @@ Notice that the smart inversion makes the whole image black, which is not very h
 
 ### Is it practical for real-time apps?
 
-The short answer is no, the long answer is it's not trivial. The implementation I made runs anywhere from 100 to 300ms, which is far too slow for a 60fps display. The algorithm could potentially be sped up with simpler code that is also GPU optimized.
+I'm not sure. The implementation I made runs anywhere from 100 to 300ms, which is far too slow for a 60fps display. The algorithm could potentially be sped up with simpler code that is also GPU optimized.
 
 Poking around a bit to see how hard this would be, I couldn't find connected components algorithms in [Apple's Image Unit Kernels](https://developer.apple.com/library/content/documentation/GraphicsImaging/Conceptual/ImageUnitTutorial/WritingKernels/WritingKernels.html#//apple_ref/doc/uid/TP40004531-CH3-SW1). Applying the pixel inversions with [Quartz](https://developer.apple.com/documentation/coregraphics/quartz_display_services) and [OpenCV](https://opencv.org) might be just as inefficient as the plain python implementation (since I also use OpenCV). If you successfully implement this as a real-time mac app, please let me know! I will download.
 

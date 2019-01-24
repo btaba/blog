@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tensorflow in Docker on Kubernetes - Read This First"
+title:  "Tensorflow in Docker on Kubernetes - Some Pitfalls"
 date:   2018-09-07 00:00:00
 categories: projects
 tags: projects
@@ -8,9 +8,9 @@ image: /assets/article_images/2018-09-07-tf-kube/cover.png
 comments: True
 ---
 
-I build [Tensorflow](https://www.tensorflow.org/) models and deploy them with [Docker](https://www.docker.com/) on [Kubernetes](https://kubernetes.io/) during the day. There are two very painful pitfalls that can increase memory usage up to ~7x and slow down inference up to ~30x running on CPU. In the interest of saving you time, either don't try to run tensorflow in Docker anywhere (or even at all), or read this:
+I build [Tensorflow](https://www.tensorflow.org/) models and deploy them with [Docker](https://www.docker.com/) on [Kubernetes](https://kubernetes.io/) during the day. There are two very painful pitfalls that can increase memory usage up to ~7x and slow down inference up to ~30x running on CPU. In the interest of saving others some time, here they are:
 
-### 1. Tensorflow wants your CPUs 😣
+### 1. CPU issues 😣
 
 When running tensorflow in docker, tensorflow thinks that it owns all the resources on the machine that docker is running on. For example, if you run a docker container on a kubernetes node with 128 cores, tensorflow  thinks it can use all 128 cores. This causes massive **slow downs** – I've seen up to 30x slower depending on the network architecture.
 
@@ -18,7 +18,7 @@ When running tensorflow in docker, tensorflow thinks that it owns all the resour
 
 When scheduling docker containers on kubernetes nodes, resources are limited per container using [cgroups](https://engineering.squarespace.com/blog/2017/understanding-linux-container-scheduling). Tensorflow in docker doesn't care about cgroups and thinks it can use all resources on the host. For example, tensorflow will set `inter_op_parallelism_threads` and `intra_op_parallelism_threads` to 128 by default in the config on a 128 core node. In reality, you may have set the limit to 8 cores per container in the kubernetes deployment! Bad things ensue. 😖
 
-##### How to fix it?
+##### How to fix?
 
 Simply set the tensorflow config with the actual resources allocated to that container. To get CPU resources allocated in a docker container, you can use something like the following:
 
@@ -65,9 +65,9 @@ import keras.backend as K
 K.set_session(tf.Session(config=config))
 ```
 
-### 2. Tensorflow wants all your memory
+### 2. Memory issues
 
-If you run tensorflow in docker with the default tensorflow config or the one above, you're probably going to notice your memory increasing on every inference call up to a certain point (for TF 1.10.1 on Ubuntu 16). Surprise!
+If you run tensorflow in docker with the default tensorflow config or the one above, you might notice your memory usage increasing on every inference call up to a certain point (for TF 1.10.1 on Ubuntu 16).
 
 InceptionV3 should load in RAM using just ~600MB, but will then take up to ~4GB after ~100 inference calls depending on the hardware and `tf.ConfigProto`. I filed a bug in this [tensorflow issue](https://github.com/
 tensorflow/tensorflow/issues/22098), where you can find code to reproduce.
@@ -78,14 +78,14 @@ No clue, but I'm hoping to gain some insight once this [tensorflow issue](https:
 tensorflow/tensorflow/issues/22098) is resolved.
 
 
-##### How to fix it?
+##### How to fix?
 
-After many painful days, I discovered that memory stays flat if you set `inter_op_parallelism_threads=1` 🤔. So just do that?
+After many painful days, I discovered that memory stays flat if you set `inter_op_parallelism_threads=1` 🤔.
 
 
 ###### Another minor detail
 
-Setting `inter_op_parallelism_threads=1` sped up inference calls from 3s to 700ms for a saliency model I was working on, but slowed down InceptionV3 by 50ms on average. ¯\\_(ツ)_/¯ I'll leave that for another day.
+Setting `inter_op_parallelism_threads=1` sped up inference calls from 3s to 700ms for a saliency model I was working on, but slowed down InceptionV3 by 50ms on average. ¯\\_(ツ)_/¯
 
 
 ---
@@ -95,4 +95,4 @@ In conclusion, good luck. I hope this post saves someone some time. And remember
 
 ##### Acknowledgements
 
-Thanks to the team I work on for all the support in debugging these issues! I hope to write a post with **way** more details on their [engineering blog](https://engineering.squarespace.com/).
+Thanks to the team I work on for all the support in debugging these issues!

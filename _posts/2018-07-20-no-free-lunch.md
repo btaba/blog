@@ -7,7 +7,7 @@ tags: projects
 comments: True
 ---
 
-I was recently asked a question about the "No Free Lunch Theorem". I've heard of it in passing, but I never really read much into it. After reading the [wikipedia](https://en.wikipedia.org/wiki/No_free_lunch_theorem) more thoroughly, I found it pretty hard to reconcile implications of the theorem. Should I stop fitting models on things because fancy black-box optimization is no better than random search? Does cross-validation really work for generalization? What is the meaning of life? I will now seek to answer these questions!
+I was recently asked a question about the "No Free Lunch Theorem". I've heard of it in passing, but I never really read much into it. After reading the [wikipedia](https://en.wikipedia.org/wiki/No_free_lunch_theorem) more thoroughly, I found it pretty hard to reconcile implications of the theorem. Should I stop fitting models on things because fancy black-box optimization is no better than random search? Does cross-validation really work for generalization?
 
 ## What is the No Free Lunch Theorem?
 
@@ -125,7 +125,6 @@ Implications of the No Free Lunch theorem go well beyond search or machine learn
 
 Does this mean that the scientific method is no better than random search or that cross-validating machine learning algorithms is useless? Well, we know in practice that many hypotheses and algorithms actually generalize well for the set of problems $f$ that we face in this universe. We can empirically test our hypotheses on unseen experiments (e.g. Einstein's general theory of relativity leading to detection of gravitational waves at [LIGO](https://en.wikipedia.org/wiki/LIGO) or particle physics predicting the existence of the [Higgs Boson](https://en.wikipedia.org/wiki/Higgs_boson) or AB tests for ML). Our hypotheses are still falsifiable, but they are useful and incredibly accurate nonetheless! So practically speaking, there are many problems $f$ that we don't care about, and we can find hypotheses that work well for the $f$ that we do.
 
-No Free Lunch still makes you wonder how useful it is to push accuracies ad-infinitum on datasets like [ImageNet](https://en.wikipedia.org/wiki/ImageNet). Nevertheless, as seen in [4] features and networks obtained from ImageNet tasks do seem to generalize well to other tasks so ¯\\_(ツ)_/¯. Crisis averted! ... practically speaking.
 
 ## References
 
@@ -135,4 +134,3 @@ No Free Lunch still makes you wonder how useful it is to push accuracies ad-infi
 
 3. [What the No Free Lunch Theorems Really Mean; How to Improve Search Algorithms](https://sfi-edu.s3.amazonaws.com/sfi-edu/production/uploads/sfi-com/dev/uploads/filer/33/44/33440e97-fe46-4827-a1eb-a27196e1c49a/12-10-017.pdf)
  
-4. [Do Better ImageNet Models Transfer Better?](https://arxiv.org/pdf/1805.08974.pdf)

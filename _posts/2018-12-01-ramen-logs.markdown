@@ -11,7 +11,7 @@ I have wanted to start a ramen log for a while now. To finally kick it off, I de
 
 In this blog post, I plan to log every bowl of ramen I eat and to take pictures along the way. Many of the ramen spots will be in NYC since I live here, but I'm not restricting myself to the city.
 
-Without further ado, here are The Ramen Logs™️ ranked in order of my  preference.
+Without further ado, here are The Ramen Logs ranked in order of my preference.
 
 Update (12/29/2018): I added dollar signs to each review. Although some ramen places have higher ratings in terms of taste and quality, I felt like the price should be added to reflect how often I actually want to eat at those places. The prices are based on the average amount of money I spend on a bowl of ramen with toppings (I usually only add an egg if the ramen doesn't come with one). It does not include tax, tip, or appetizers.
 
