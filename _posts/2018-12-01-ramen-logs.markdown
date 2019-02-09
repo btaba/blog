@@ -125,7 +125,7 @@ Overall, I was impressed with Ippudo's quality given its mega-like operation wit
 ||
 |![Zebra Shio]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/eak-zebra-shio.jpg)|
 
-EAK ramen is very distinct from other places on this list. As they describe themselves, "IEKEI is a style of ramen that is a marriage between Tokontsu style from the West (Kyushu) and Shoyu style from the East (Tokyo)." The noodles are thick, which you might not be used to for a thick tonkotsu style broth. There is also spinach as a topping, along with a nori that has "But First, Ramen" printed on it. I had the Zebra shio, a spin on their classic EAK with garlic oil. I removed the piece of butter because I already had two appetizers at this point and didn't want to have a heart attack.
+EAK ramen is very distinct from other places on this list. As they describe themselves, "IEKEI is a style of ramen that is a marriage between Tokontsu style from the West (Kyushu) and Shoyu style from the East (Tokyo)." The noodles are thick, which you might not be used to for a thick tonkotsu style broth. There is also spinach as a topping, along with a nori that has "But First, Ramen" printed on it. I had the Zebra shio, a shio garlic oil spin on their classic EAK. I removed the piece of butter because I already had two appetizers at this point and didn't want to have a heart attack.
 
 The bowl itself might seem a bit gimmicky when presented with the printed nori, but once you taste the broth, you'll know that EAK takes their ramen very seriously. All aspects of the dish felt refined, from the noodles to the chashu and the egg. The broth is thick and creamy, but not too overpowering.
 
