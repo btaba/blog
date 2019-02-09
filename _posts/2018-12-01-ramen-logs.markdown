@@ -4,10 +4,10 @@ title:  "The Ramen Logs"
 date:   2018-12-01 00:00:00
 categories: personal
 tags: personal
-image: /assets/article_images/2018-12-01-ramen-logs/ishida1.jpg
+image: /assets/article_images/2018-12-01-ramen-logs/ishida-spicy-mushroom.jpg
 ---
 
-I have wanted to start a ramen log for a while now. To finally kick it off, I decided to eat 3 bowls of ramen this past Thursday. It was heavenly.
+> I have wanted to start a ramen log for a while now. To finally kick it off, I decided to eat 3 bowls of ramen this past Thursday. It was heavenly.
 
 In this blog post, I plan to log every bowl of ramen I eat and to take pictures along the way. Many of the ramen spots will be in NYC since I live here, but I'm not restricting myself to the city.
 
@@ -33,12 +33,14 @@ Update (12/29/2018): I added dollar signs to each review. Although some ramen pl
 
 ## 1. <a name="ishida"></a> [Ramen Ishida - NY](https://www.ramenishida.com), 10/10, `$$`
 
-|||
-|![Tokyo Shoyu]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ishida-tokyo-shoyu.jpg)|![Shio]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ishida-shio.jpg)|
+||||
+|![Spicy Mushroom]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ishida-spicy-mushroom.jpg)|![Tokyo Shoyu]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ishida-tokyo-shoyu.jpg)|![Shio]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ishida-shio.jpg)|
 
 Ramen Ishida simply lives in another dimension. Nothing is a compromise. Not only does Ishida care deeply about his broth and noodles, he cares about how you feel before, during, and after eating his ramen. Ramen Ishida deserves to be on a list all by itself because I have not tried a better bowl of ramen in my life.
 
 I recommend starting with the Tokyo Shoyu or Classic Shio to get a clean taste of Ishida's style. Then try the Spicy Mushroom with ground pork (this has 100% mushroom based broth!). Finally try the vegan ramen and have your mind blown all over again. Ramen could be vegan? Yes, and Ishida makes no compromise in flavor or texture. Ingredients are locally sourced and carefully selected to be tasty _and_ healthy.
+
+Tip: I think you should get extra toppings for the Shoyu and Shio bowls if you are especially hungry, but the Spicy Mushroom bowl is usually enough with its thicker broth.
 
 
 <table class="tg">
@@ -48,6 +50,16 @@ I recommend starting with the Tokyo Shoyu or Classic Shio to get a clean taste o
     <th class="tg-0pky">Notes</th>
   </tr>
   <tr>
+    <td class="tg-btxf">02/02/2019</td>
+    <td class="tg-btxf">Spicy Mushroom Pork</td>
+    <td class="tg-btxf">Apparently I'm not the only one who thinks Ishida is the #1 spot in NYC (fellow customers agree!).</td>
+  </tr>
+  <tr>
+    <td class="tg-btxf">01/04/2019</td>
+    <td class="tg-btxf">Tokyo Shoyu</td>
+    <td class="tg-btxf">Delicious</td>
+  </tr>
+  <tr>
     <td class="tg-btxf">11/29/2018</td>
     <td class="tg-btxf">Tokyo Shoyu, Shio</td>
     <td class="tg-btxf">I was reminded once again how amazing Ishida is</td>
@@ -55,7 +67,84 @@ I recommend starting with the Tokyo Shoyu or Classic Shio to get a clean taste o
 </table>
 
 
-## 2. [Ramen Shack - NY](https://www.ramenshack.com), 8.2/10, `$$`-`$$$`
+## 2. [Menkoi Sato - NY](https://www.yelp.com/biz/menkoi-sato-new-york-2), 8.5/10, `$$`
+
+||
+|![Shoyu]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/menkoi-sato-shoyu.jpg)|
+
+When I walk into Menkoi Sato, I feel like I'm walking into a ramen shop in the Shimokita district in Tokyo Japan. A warm "Irasshaimase" lets you know that this place is legit. The menu is simple, shoyu/miso spin-offs of the Tori Paitan broth – choose to have it spicy or not depending on your mood.
+
+I don't usually like very thick broths that really make me feel heavy. But if I were to have a thick bowl of ramen, I would have it at Menkoi Sato. The flavor is wonderful and the broth is thick and creamy. The noodles are nice and wavy. You can taste the passion put into each bowl. You'll feel like you truly accomplished something after finishing a bowl of the Tori Paitan :D. I highly recommend coming here in groups as there is open seating.
+
+Oh and I don't think you'll need extra toppings.
+
+<table class="tg">
+  <tr>
+    <th class="tg-0pky">Visit</th>
+    <th class="tg-0pky">Bowls</th>
+    <th class="tg-0pky">Notes</th>
+  </tr>
+  <tr>
+    <td class="tg-btxf">01/17/2019</td>
+    <td class="tg-btxf">Shoyu</td>
+    <td class="tg-btxf">Great thick bowl of ramen for a cold wintery day.</td>
+  </tr>
+</table>
+
+## 3. [Ippudo - NY East Village](https://www.yelp.com/biz/ippudo-ny-new-york-7), 8/10, `$$$`
+
+||||
+|![Akamaru]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ramen-shack-shoyu.jpg)|![Tanakaya]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ippudo-tanakaya1.jpg)||![Tanakaya noodles]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ippudo-tanakaya2.jpg)|
+
+
+I've been to Ippudo many times, but never to the NY flagship in the East Village near Astor Place. I expected the line to be long, and of course it was. But the East Village location is large and full of energy with countless folks slurping delicious ramen. I didn't find the 20 minute wait too painful.
+
+[Ippudo](http://ippudo-us.com/menu/) is known for being foundational to ramen culture as we know it today – the classic wooden signs and decor, the obsession with taste and hospitality. They have been making their signature silky smooth pork broth since [1996](http://ippudo-us.com/about/)!
+
+I got the Akamaru, their Tonkotsu broth with a "secret" miso sauce. The first few slurps of the broth were delicious – I was very impressed with how refined, smooth, and clean the pork base was. The umami sauce was on point for the first few bites, but was slightly overpowering towards the end of the bowl. The chashu was ok and the egg was just as smooth as the broth! Overall, the Akamura was a solid bowl of ramen, much better than other Tonkotsu I've had in NY. I left feeling great without overpowering tastes in my mouth – just delicious ramen sloshing around in my stomach.
+
+My girlfriend got the Tanakaya, a mix of pork and chicken broth that was a lot more gamy than the Akamaru. I actually liked the Tanakaya a lot more than the Akamura since it had much more natural umami flavor. The Tanakaya also had thick noodles which I much preferred over Ippudo's classic thinner noodles. Unfortunately, they decided to put kale in the Tanakaya – it was a bit...off.
+
+Overall, I was impressed with Ippudo's quality given its mega-like operation with locations all over the world. There were slight kinks in each dish that didn't push me to be entirely blown away. But I will be back to try the Shiromaru tonkotsu...only if the lines were shorter!
+
+<table class="tg">
+  <tr>
+    <th class="tg-0pky">Visit</th>
+    <th class="tg-0pky">Bowls</th>
+    <th class="tg-0pky">Notes</th>
+  </tr>
+  <tr>
+    <td class="tg-btxf">12/23/2018</td>
+    <td class="tg-btxf">Akamura and Tanakaya</td>
+    <td class="tg-btxf">Silky smooth pork broth, amazing quality</td>
+  </tr>
+</table>
+
+## 4. [EAK - NY](https://eakramen.com), 7.8/10, `$$`
+
+||
+|![Zebra Shio]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/eak-zebra-shio.jpg)|
+
+EAK ramen is very distinct from other places on this list. As they describe themselves, "IEKEI is a style of ramen that is a marriage between Tokontsu style from the West (Kyushu) and Shoyu style from the East (Tokyo)." The noodles are thick, which you might not be used to for a thick tonkotsu style broth. There is also spinach as a topping, along with a nori that has "But First, Ramen" printed on it. I had the Zebra shio, a spin on their classic EAK with garlic oil. I removed the piece of butter because I already had two appetizers at this point and didn't want to have a heart attack.
+
+The bowl itself might seem a bit gimmicky when presented with the printed nori, but once you taste the broth, you'll know that EAK takes their ramen very seriously. All aspects of the dish felt refined, from the noodles to the chashu and the egg. The broth is thick and creamy, but not too overpowering.
+
+Come here for a solid bowl of ramen!
+
+<table class="tg">
+  <tr>
+    <th class="tg-0pky">Visit</th>
+    <th class="tg-0pky">Bowls</th>
+    <th class="tg-0pky">Notes</th>
+  </tr>
+  <tr>
+    <td class="tg-btxf">01/30/2019</td>
+    <td class="tg-btxf">Zebra Shio</td>
+    <td class="tg-btxf">But first, ramen!</td>
+  </tr>
+</table>
+
+## 5. [Ramen Shack - NY](https://www.ramenshack.com), 7.5/10, `$$`-`$$$`
 
 |||
 |![Classic Shoyu]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ramen-shack-shoyu.jpg)|![BGO]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ramen-shack-bgo.jpg)|![Sunset Red]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ramen-shack-sunset-red.jpg)|
@@ -82,38 +171,7 @@ Oh, please don't forget to try to **original** ramen burger! It's amazing!
   </tr>
 </table>
 
-## 3. [Ippudo - NY East Village](https://www.yelp.com/biz/ippudo-ny-new-york-7), 8/10, `$$$`
-
-||||
-|![Akamaru]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ramen-shack-shoyu.jpg)|![Tanakaya]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ippudo-tanakaya1.jpg)||![Tanakaya noodles]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ippudo-tanakaya2.jpg)|
-
-
-I've been to Ippudo many times, but never to the NY flagship in the East Village near Astor Place. I expected the line to be long, and of course it was. But the East Village location is large and full of energy with countless folks slurping delicious ramen. I didn't find the 20 minute wait too painful.
-
-[Ippudo](http://ippudo-us.com/menu/) is known for being foundational to ramen culture as we know it today – the classic wooden signs and decor, the obsession with taste and hospitality. They have been making their signature silky smooth pork broth since [1996](http://ippudo-us.com/about/)!
-
-I got the Akamaru, their Tonkotsu broth with a "secret" miso sauce. The first few slurps of the broth were delicious – I was very impressed with how refined, smooth, and clean the pork base was. The umami sauce was on point for the first few bites, but was slightly overpowering towards the end of the bowl. The chashu was ok and the egg was just as smooth as the broth! Overall, the Akamura was a solid bowl of ramen, much better than any  Tonkotsu I've had in NY. I left feeling great without overpowering tastes in my mouth – just delicious ramen sloshing around in my stomach.
-
-My girlfriend got the Tanakaya, a mix of pork and chicken broth that was a lot more gamy than the Akamaru. I actually liked the Tanakaya a lot more than the Akamura since it had much more natural umami flavor. The Tanakaya also had thick noodles which I much preferred over Ippudo's classic thinner noodles. Unfortunately, they decided to put kale in the Tanakaya – it was a bit...out of place.
-
-Overall, I was impressed with Ippudo's quality given its mega-like operation with locations all over the world. There were slight kinks in each dish that didn't push me to be entirely blown away. But I will be back to try the Shiromaru tonkotsu...only if the lines were shorter!
-
-
-<table class="tg">
-  <tr>
-    <th class="tg-0pky">Visit</th>
-    <th class="tg-0pky">Bowls</th>
-    <th class="tg-0pky">Notes</th>
-  </tr>
-  <tr>
-    <td class="tg-btxf">12/23/2018</td>
-    <td class="tg-btxf">Akamura and Tanakaya</td>
-    <td class="tg-btxf">Silky smooth pork broth, amazing quality</td>
-  </tr>
-</table>
-
-
-## 4. [Kame - NY](https://www.yelp.com/biz/kame-ramen-new-york-2), 6.5/10, `$$`
+## 6. [Kame - NY](https://www.yelp.com/biz/kame-ramen-new-york-2), 7/10, `$$`
 
 ||
 |![Spicy Tonkotsu]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/kame-spicy-tonkotsu.jpg)|
@@ -133,7 +191,40 @@ I went to Kame whilst meeting a friend for dinner in midtown. I don't usually go
   </tr>
 </table>
 
-## 5. [Misoya - NY](http://www.misoyanyc.com), 5.8/10, `$`
+
+## 7. [Jun Men - NY](http://www.junmenramen.com/), 6.99/10, `$$`
+
+|||
+|![Pork Bone]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/junmen-pork-bone.jpg)|![Kimchi]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/junmen-kimchi.jpg)|
+
+I wouldn't usually find myself around midtown on the West Side, but doing yoga at the [Iyengar Institute](https://iyengarnyc.org/) calls for a bowl of ramen!
+
+The first time, I decided to try the Pork bone ramen just to see what Jun Men had to offer. I was not dissapointed at all! The tonkotsu broth is comparable to Ippudo. The chashu, egg, menma, and noodles are all delicious. I felt satisfied with the Pork bone ramen without feeling too heavy at the end.
+
+The second time, I tried the kimchi ramen. It has roasted pork shoulder, which I didn't really enjoy that much. The kimchi itself is good, but I'd rather just eat kimchi on its own with a bowl of rice. I would definitely come back to Jun Men if I'm ever craving ramen after an Iyengar yoga class. But I don't think I'd venture out to Jun Men if it were out of my way.
+
+If you find yourself near Jun Men, definitely try it! Oh and the appetizers are actually amazing, get the crispy shrimp!
+
+<table class="tg">
+  <tr>
+    <th class="tg-0pky">Visit</th>
+    <th class="tg-0pky">Bowls</th>
+    <th class="tg-0pky">Notes</th>
+  </tr>
+  <tr>
+    <td class="tg-btxf">02/07/2019</td>
+    <td class="tg-btxf">Kimchi</td>
+    <td class="tg-btxf">Pork bone + kimchi, it's ok.</td>
+  </tr>
+  <tr>
+    <td class="tg-btxf">01/18/2019</td>
+    <td class="tg-btxf">Pork Bone</td>
+    <td class="tg-btxf">Very flavorful!</td>
+  </tr>
+</table>
+
+
+## 8. [Misoya - NY](http://www.misoyanyc.com), 5.8/10, `$`
 
 ||||
 |![Shiro]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/misoya-shiro.jpg)|![Mame]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/misoya-mame.jpg)|![Free appetizers]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/misoya-appetizers.jpg)|
@@ -160,7 +251,7 @@ With that being said, the noodles are mediocre, the egg is OK, and the ramen is 
 </table>
 
 
-## 6. [Zest - NY](https://www.yelp.com/biz/zest-ramen-new-york-8), 5.5/10, `$$`
+## 9. [Zest - NY](https://www.yelp.com/biz/zest-ramen-new-york-8), 5.5/10, `$$`
 
 |||
 |![Shoyu]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/zest-shoyu.jpg)|![Yuzu]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/zest-yuzu.jpg)|
@@ -186,7 +277,7 @@ Overall, Zest has a nice and clean taste. Watching the oysters while eating the 
   </tr>
 </table>
 
-## 7. [Minca - NY](http://newyorkramen.com/), 5.3/10, `$$`
+## 10. [Minca - NY](http://newyorkramen.com/), 5.3/10, `$$`
 
 ||||
 |![Miso]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/minca-miso.jpg)|![Ebi Gyoza]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/minca-ebi-gyoza.jpg)|![Wafoo Shio]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/minca-wafoo-shio.jpg)|
@@ -207,7 +298,7 @@ Minca is where my innocent young soul first discovered ramen. The place is cozy,
 </table>
 
 
-## 8. [Tatsu - NY](https://www.tatsuramen.com/), 4.5/10, `$$`
+## 11. [Tatsu - NY](https://www.tatsuramen.com/), 4.5/10, `$$`
 
 |||
 |![Old skool tonkotsu]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/tatsu-old-skool.jpg)|![Cheeky chicken broth]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/tatsu-cheeky.jpg)|
@@ -232,7 +323,7 @@ Good for large groups.
 </table>
 
 
-## 9. [Shinka - NY](https://www.shinkaramen.com), 3.5/10, `$$$`
+## 12. [Shinka - NY](https://www.shinkaramen.com), 3.5/10, `$$$`
 
 |||
 |![Pork Bao]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/shinka-bao.jpg)|![Beef broth]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/shinka-beef.jpg)|
@@ -263,7 +354,7 @@ Overall, I'd say Shinka's ramen is very similar to their décor. Everything is a
 </table>
 
 
-## 10. [Tabetomo - NY](https://www.tabetomonyc.com/), 3/10, `$$$`
+## 13. [Tabetomo - NY](https://www.tabetomonyc.com/), 3/10, `$$$`
 
 ||||
 |![Tsukemen]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/tabetomo-tsukemen1.jpg)|![More tsukemen]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/tabetomo-tsukemen2.jpg)|
@@ -289,7 +380,7 @@ Come to Tabetomo if you want a heavy meal, go to <a href="#ishida">Ishida</a> if
 
 
 
-## 11. [Mr. Taka - NY](https://mrtakaramen.webs.com/), 2.5/10, `$$`
+## 14. [Mr. Taka - NY](https://mrtakaramen.webs.com/), 2.5/10, `$$`
 
 |||
 |![Tonkotsu]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/mrtaka-tonkotsu.jpg)|![Chicken/Bonito Wonton]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/mrtaka-chicken-bonito-wonton.jpg)|
