@@ -1,0 +1,136 @@
+---
+layout: post
+title:  "Boxes"
+date:   2019-02-16 00:00:00
+categories: projects
+tags: projects
+comments: True
+---
+
+Here are some boxes drawn with html canvas. Fiddle with the settings!
+
+<style type="text/css">
+
+.post .post-content li {
+    font-size: 12px;
+    margin: 0;
+}
+
+.post .post-content ul {
+    padding: 0;
+}
+
+canvas {
+    margin: 0 auto;
+    display: block;
+}
+
+.dg.main {
+    margin: 0 auto;
+    display: block;
+}
+</style>
+
+<div id="canvas-id"></div>
+<div id="gui"></div>
+
+<br>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/dat-gui/0.7.5/dat.gui.min.js"></script>
+<script type="text/javascript">
+
+  var canvas = document.createElement("canvas");
+  canvas.width = 500;
+  canvas.height = 400;
+  document.getElementById('canvas-id').appendChild(canvas);
+
+  var ctx = canvas.getContext("2d");
+  ctx.translate( canvas.width / 2, canvas.height / 2 );
+
+  var boxes = {};
+  var boxIndex = 0;
+  var settings = {
+    startingX: 0,
+    startingY: 0,
+    maxLife: 40,
+    density: 50,
+    probdensity: 0.9,
+    accel: 1,
+    angle: 180,
+    anglediff: 0.5,
+    sizeVel: 1.0,
+    sizeVelDiff: -0.5,
+    size: 1.0
+  };
+
+// https://modernweb.com/creating-particles-in-html5-canvas/
+  function Box(size, fill) {
+    this.x = settings.startingX;
+    this.y = settings.startingY;
+
+    this.size = Math.random() * settings.size;
+    // this.sizeVel = Math.sin(2 * Math.random() * Math.PI);
+    this.sizeVel = settings.sizeVel * (Math.random() + settings.sizeVelDiff);
+    this.accel = settings.accel;
+
+    this.fill = fill;
+    this.angle = settings.angle * (Math.random() - settings.anglediff);
+
+    boxIndex++;
+    boxes[boxIndex] = this;
+    this.id = boxIndex;
+    this.life = 0;
+  }
+
+  Box.prototype.draw = function() {
+    this.sizeVel += this.accel;
+    this.size += this.sizeVel * Math.random();
+
+    this.life++;
+
+    if (this.life >= settings.maxLife) {
+      delete boxes[this.id]
+    }
+
+    ctx.fillStyle = this.fill;
+    ctx.rotate(this.angle * Math.PI / 180);
+    ctx.fillRect(this.x - this.size / 2, this.y - this.size / 2, this.size, this.size);
+  };
+
+  var blackBox = false;
+
+  function draw() {
+    ctx.fillStyle = "black";
+    ctx.fillRect(- canvas.width / 2, - canvas.height / 2, canvas.width, canvas.height);
+
+    if (Object.keys(boxes).length < settings.density) {
+      if (Math.random() > ( 1 - settings.probdensity) ) {
+
+        new Box(1, blackBox ? '#000000': '#FFFFFF');
+        blackBox = !blackBox;
+      }
+    }            
+
+    for (var i in boxes) {
+      boxes[i].draw();
+    }
+
+  }
+
+  window.setInterval(draw, 100);
+
+  var gui = new dat.GUI({ autoPlace: false });
+  gui.add(settings, 'density', 1, 201 );
+  gui.add(settings, 'startingX', -canvas.width / 2, canvas.width / 2 );
+  gui.add(settings, 'startingY', -canvas.height / 2, canvas.height / 2 );
+  gui.add(settings, 'maxLife', 10, 100 );
+  gui.add(settings, 'probdensity', 0.0, 1.0);
+  gui.add(settings, 'accel', 0, 10);
+  gui.add(settings, 'size', 1, 100);
+  gui.add(settings, 'sizeVel', 0, 10);
+  gui.add(settings, 'angle', -180, 180);
+
+  document.getElementById('gui').appendChild(gui.domElement);
+
+ 
+</script>
