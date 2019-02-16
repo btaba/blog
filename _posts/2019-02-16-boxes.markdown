@@ -14,6 +14,7 @@ Here are some boxes drawn with html canvas. Fiddle with the settings!
 .post .post-content li {
     font-size: 12px;
     margin: 0;
+    list-style-type: none;
 }
 
 .post .post-content ul {
@@ -29,6 +30,7 @@ canvas {
     margin: 0 auto;
     display: block;
 }
+
 </style>
 
 <div id="canvas-id"></div>
