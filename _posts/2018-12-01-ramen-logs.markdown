@@ -34,7 +34,7 @@ Update (12/29/2018): I added dollar signs to each review. Although some ramen pl
 ## 1. <a name="ishida"></a> [Ramen Ishida - NY](https://www.ramenishida.com), 10/10, `$$`
 
 ||||
-|![Spicy Mushroom]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ishida-spicy-mushroom.jpg)|![Tokyo Shoyu]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ishida-tokyo-shoyu.jpg)|![Shio]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ishida-shio.jpg)|
+|![Tokyo Shoyu]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ishida-tokyo-shoyu.jpg)|![Spicy Mushroom]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ishida-spicy-mushroom.jpg)|![Shio]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ishida-shio.jpg)|
 
 Ramen Ishida simply lives in another dimension. Nothing is a compromise. Not only does Ishida care deeply about his broth and noodles, he cares about how you feel before, during, and after eating his ramen. Ramen Ishida deserves to be on a list all by itself because I have not tried a better bowl of ramen in my life.
 
@@ -48,6 +48,11 @@ Tip: I think you should get extra toppings for the Shoyu and Shio bowls if you a
     <th class="tg-0pky">Visit</th>
     <th class="tg-0pky">Bowls</th>
     <th class="tg-0pky">Notes</th>
+  </tr>
+  <tr>
+    <td class="tg-btxf">03/04/2019</td>
+    <td class="tg-btxf">Spicy Mushroom Pork, Miso, Shoyu</td>
+    <td class="tg-btxf">My brother said "this is the best ramen I've ever had." Ishida does not disappoint!</td>
   </tr>
   <tr>
     <td class="tg-btxf">02/02/2019</td>
@@ -91,7 +96,7 @@ Oh and I don't think you'll need extra toppings.
   </tr>
 </table>
 
-## 3. [Ippudo - NY East Village](https://www.yelp.com/biz/ippudo-ny-new-york-7), 8/10, `$$$`
+## 3. [Ippudo - NY East Village](https://www.yelp.com/biz/ippudo-ny-new-york-7), 7.9/10, `$$$`
 
 ||||
 |![Akamaru]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ramen-shack-shoyu.jpg)|![Tanakaya]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ippudo-tanakaya1.jpg)||![Tanakaya noodles]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ippudo-tanakaya2.jpg)|
@@ -107,11 +112,18 @@ My girlfriend got the Tanakaya, a mix of pork and chicken broth that was a lot m
 
 Overall, I was impressed with Ippudo's quality given its mega-like operation with locations all over the world. There were slight kinks in each dish that didn't push me to be entirely blown away. But I will be back to try the Shiromaru tonkotsu...only if the lines were shorter!
 
+Update: I tried the Shiromaru and the spicy Akamura and was not really impressed with the broth compared to the last time I came to Ippudo. I downgraded the rating a bit. Also, the veggie broths suck. Go to Ishida instead for veggie ramen.
+
 <table class="tg">
   <tr>
     <th class="tg-0pky">Visit</th>
     <th class="tg-0pky">Bowls</th>
     <th class="tg-0pky">Notes</th>
+  </tr>
+  <tr>
+    <td class="tg-btxf">02/24/2018</td>
+    <td class="tg-btxf"></td>
+    <td class="tg-btxf">The veggie broths suck, I wasn't really impressed with the spicy Akamura and Shiromaru classic</td>
   </tr>
   <tr>
     <td class="tg-btxf">12/23/2018</td>
@@ -171,7 +183,7 @@ Oh, please don't forget to try to **original** ramen burger! It's amazing!
   </tr>
 </table>
 
-## 6. [Kame - NY](https://www.yelp.com/biz/kame-ramen-new-york-2), 7/10, `$$`
+## 6. [Kame - NY](https://www.yelp.com/biz/kame-ramen-new-york-2), 7.4/10, `$$`
 
 ||
 |![Spicy Tonkotsu]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/kame-spicy-tonkotsu.jpg)|
@@ -192,7 +204,7 @@ I went to Kame whilst meeting a friend for dinner in midtown. I don't usually go
 </table>
 
 
-## 7. [Jun Men - NY](http://www.junmenramen.com/), 6.99/10, `$$`
+## 7. [Jun Men - NY](http://www.junmenramen.com/), 6.9/10, `$$`
 
 |||
 |![Pork Bone]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/junmen-pork-bone.jpg)|![Kimchi]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/junmen-kimchi.jpg)|
@@ -227,7 +239,7 @@ If you find yourself near Jun Men, definitely try it! Oh and the appetizers are 
 ## 8. [Misoya - NY](http://www.misoyanyc.com), 5.8/10, `$`
 
 ||||
-|![Shiro]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/misoya-shiro.jpg)|![Mame]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/misoya-mame.jpg)|![Free appetizers]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/misoya-appetizers.jpg)|
+|![Mame]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/misoya-mame.jpg)|![Shiro]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/misoya-shiro.jpg)|![Free appetizers]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/misoya-appetizers.jpg)|
 
 Walking into Misoya, you'll see a patchwork of posters awkwardly placed on the walls describing the health benefits of miso. The decor is so bad that you'd be suprised to know that Misoya is actually a [chain](http://ramen-misoya.com) with locations all over the world! Fortunately enough, the ramen is delicious.
 
@@ -323,7 +335,33 @@ Good for large groups.
 </table>
 
 
-## 12. [Shinka - NY](https://www.shinkaramen.com), 3.5/10, `$$$`
+## 12. [Marufuku Ramen - SF](https://www.marufukuramen.com), 4.0/10, `$$`
+
+||
+|![Chicken Paitan]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/marufuku-paitan.jpg)|
+
+I was visiting a friend and saw that Marufuku ramen was the highest rated ramen spot in SF on Yelp. So I naturally had to try it!
+
+I signed up for the queue on Yelp and wound up waiting for about one hour for a seat. I got three appetizers: the buta kakuni, mentaiko bowl, and takoyaki. The takoyaki wasn't bad, but the mentaiko tasted old! The kakuni pork was chewy and not that tasty.
+
+Now for the pièce d'oeuvre. I had the chicken paitan and my friend got the hakata tonkotsu. I must say that the chicken paitan broth at Marufuku is some of the best I've had, and better than Tatsu in NY. Nevertheless, the tonkotsu broth was watered down and lacked flavor. I wasn't impressed with the chashu toppings. The noodles suited the paitan broth quite well. However I got sick of the garlic flavor towards the bottom of my bowl. This after-taste followed me to my Lyft ride home - the driver said that my friend and I smelled like ramen. I was afraid of being cannibalized!
+
+I want to rate Marufuku higher than Tatsu because the chicken broth at Marufuku was actually really tasty and not too overpowering. Nevertheless, the poor execution on appetizers, chashu, and tonkotsu really made me reconsider. I'm not sure that I'd want to re-make the trek out to Marufuku. Serving food that isn't fresh is just not acceptable in my opinion (i.e. the mentaiko).
+
+<table class="tg">
+  <tr>
+    <th class="tg-0pky">Visit</th>
+    <th class="tg-0pky">Bowls</th>
+    <th class="tg-0pky">Notes</th>
+  </tr>
+  <tr>
+    <td class="tg-btxf">02/19/2019</td>
+    <td class="tg-btxf">Paitan and tonkotsu</td>
+    <td class="tg-btxf">Paitan was pretty good, tonkotsu could be better, appetizers are poor</td>
+  </tr>
+</table>
+
+## 13. [Shinka - NY](https://www.shinkaramen.com), 3.5/10, `$$$`
 
 |||
 |![Pork Bao]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/shinka-bao.jpg)|![Beef broth]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/shinka-beef.jpg)|
@@ -337,7 +375,7 @@ I ordered Kakuni pork bao with the signature beef ramen. A small disclaimer here
 
 Now for the pièce de résistance, the beef broth ramen. The broth had an initially impressive thick flavor. I had the bone marrow and it was pretty good but I think they added butter. The noodles were nice and thin, complementing the thick broth, but I would have liked less mushy noodles (they were overcooked)! The wagyu beef brisket tasted like...brisket. And the egg was good but a piece of raw garlic was placed in each egg half – a bit jarring to say the least. As far as the appetizer, the kakuni pork bao had too much mayo, the bun was too dry and sweet, and the pork wasn't that great either. Let's just say that the experience did not convert me into a beef broth lover.
 
-Overall, I'd say Shinka's ramen is very similar to their décor. Everything is a bit overdone and kitschy. I'm left with a garlic taste in my mouth as I write this review... I feel like I should give their tonkotsu or chicken shoyu a try, but I'm not sure I want to go back. Nevertheless, I could see how some folks might actually really like Shinka. The style is just not for me.
+Overall, I'd say Shinka's ramen is very similar to their décor. Everything is a bit overdone and kitschy. I'm left with a garlic taste in my mouth as I write this review... I feel like I should give their tonkotsu or chicken shoyu a try, but I'm not sure I want to go back. Nevertheless, I could see how some folks might actually really like Shinka. This style is just not for me.
 
 
 <table class="tg">
@@ -354,7 +392,7 @@ Overall, I'd say Shinka's ramen is very similar to their décor. Everything is a
 </table>
 
 
-## 13. [Tabetomo - NY](https://www.tabetomonyc.com/), 3/10, `$$$`
+## 14. [Tabetomo - NY](https://www.tabetomonyc.com/), 3.0/10, `$$$`
 
 ||||
 |![Tsukemen]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/tabetomo-tsukemen1.jpg)|![More tsukemen]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/tabetomo-tsukemen2.jpg)|
@@ -378,9 +416,7 @@ Come to Tabetomo if you want a heavy meal, go to <a href="#ishida">Ishida</a> if
   </tr>
 </table>
 
-
-
-## 14. [Mr. Taka - NY](https://mrtakaramen.webs.com/), 2.5/10, `$$`
+## 15. [Mr. Taka - NY](https://mrtakaramen.webs.com/), 2.5/10, `$$`
 
 |||
 |![Tonkotsu]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/mrtaka-tonkotsu.jpg)|![Chicken/Bonito Wonton]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/mrtaka-chicken-bonito-wonton.jpg)|
@@ -397,5 +433,25 @@ I wish Mr. Taka tasted as good as its ambiance. The chicken and bonito broth tas
     <td class="tg-btxf">11/29/2018</td>
     <td class="tg-btxf">Tonkotsu, Wonton Special Chicken/Fish broth</td>
     <td class="tg-btxf">Reminded me how much I prefer <a href="#ishida">Ishida</a> </td>
+  </tr>
+</table>
+
+## 16. [Katana-Ya - SF](https://www.yelp.com/biz/katana-ya-san-francisco), 0.0/10, `$$$`
+
+||
+|![Miso]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/katanaya-sf.jpg)|
+
+I was travelling and needed a late night dinner. I decided to go next door to Katana-Ya. Unfortunately, I'd rather eat instant ramen than to come back to Katana-Ya. I got miso broth, which tasted like water with a little bit of miso, salt, and some light pork flavor. The chashu was oddly sweet and totally unpleasant to eat. The noodles were cheap, unlike the price I paid for this meal.
+
+<table class="tg">
+  <tr>
+    <th class="tg-0pky">Visit</th>
+    <th class="tg-0pky">Bowls</th>
+    <th class="tg-0pky">Notes</th>
+  </tr>
+  <tr>
+    <td class="tg-btxf">02/18/2019</td>
+    <td class="tg-btxf">Miso</td>
+    <td class="tg-btxf">At least now I know what a 0/10 is</td>
   </tr>
 </table>
