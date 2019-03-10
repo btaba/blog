@@ -310,6 +310,40 @@ Minca is where my innocent young soul first discovered ramen. The place is cozy,
 </table>
 
 
+## 11. [Totto Ramen - NY](http://tottoramen.com/), 5.0/10, `$$`
+
+||
+|![Mega Paitan]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/totto-mega-paitan.jpg)|
+
+
+Finally after years of talking about Totto ramen, I was finally able to try it out! I watched a healthy dose of [Strictly Dumpling's vlog](https://www.youtube.com/watch?v=K5h0NZ-7BtU) to get excited.
+
+After some appetizers and drinks, I got the Mega Paitan. My friends got the classic and miso paitan bowls. A first gulp of Totto's 100% chicken broth did not disappoint! It was thick, creamy, gamy, and mouth watering. I absolutely love chicken broth, and this was no exception. Did I mention Totto's broth is thick? It's second thickest chicken broth I've ever had after a spot in Kyoto I tried in 2015. You simply have to try the broth for yourself, as there is nothing else that compares to it in NYC.
+
+The noodles were wavy and soaked up the broth like godzilla. The egg was delicious. The chashu and pork toppings in the Mega Paitan were a bit lackluster though. The fat from the chashu was starting to get "too much" for me as I got half-way through the bowl. The pork belly and shoulder were too chewy.
+
+After two thirds of the way through Totto's Mega Paitan, I couldn't eat any more. I was kind of surprised as I usually love to down every bowl of ramen I can get my hands on. I wanted to keep eating but I just couldn't. In fact I started to get sick of the broth altogether and started feeling a bit gross. The garlic was a bit too raw for me, the pork too fatty, and the broth a bit too gamy.
+
+I wish I had ordered a regular bowl of ramen to enjoy the broth to the very end instead of feeling sick. However my friends weren't able to finish their regular sized portions either!
+
+As I looked around the restaurant, Totto seemed to be a match made in heaven for some of the regulars. I could definitely see how one would fall in love with Totto. Unfortunately that person is not me. I prefer a ramen that makes me feel good from start to finish. I want to be able to run a marathon after a bowl of ramen because the flavors hype me up so much.
+
+Even though I'm rating Totto low on my scale, I think every ramen patron should try it. See if you like Totto ramen for yourself, because if you do, I'm not sure you'll be able to go anywhere else in NYC!
+
+<table class="tg">
+  <tr>
+    <th class="tg-0pky">Visit</th>
+    <th class="tg-0pky">Bowls</th>
+    <th class="tg-0pky">Notes</th>
+  </tr>
+  <tr>
+    <td class="tg-btxf">03/09/2010</td>
+    <td class="tg-btxf">Mega Paitan</td>
+    <td class="tg-btxf">I couldn't finish it :(</td>
+  </tr>
+</table>
+
+
 ## 11. [Tatsu - NY](https://www.tatsuramen.com/), 4.5/10, `$$`
 
 |||
@@ -441,7 +475,7 @@ I wish Mr. Taka tasted as good as its ambiance. The chicken and bonito broth tas
 ||
 |![Miso]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/katanaya-sf.jpg)|
 
-I was travelling and needed a late night dinner. I decided to go next door to Katana-Ya. Unfortunately, I'd rather eat instant ramen than to come back to Katana-Ya. I got miso broth, which tasted like water with a little bit of miso, salt, and some light pork flavor. The chashu was oddly sweet and totally unpleasant to eat. The noodles were cheap, unlike the price I paid for this meal.
+I was travelling and needed a late night dinner. I decided to go next door to Katana-Ya. Unfortunately, I would have rather eaten instant ramen than eat at Katana-Ya. I got miso broth, which tasted like water with a little bit of miso, salt, and some light pork flavor. The chashu was oddly sweet and totally unpleasant to eat. The noodles were cheap, unlike the price I paid for this meal.
 
 <table class="tg">
   <tr>
