@@ -11,9 +11,9 @@ image: /assets/article_images/2018-12-01-ramen-logs/ishida-spicy-mushroom.jpg
 
 In this blog post, I plan to log every bowl of ramen I eat and to take pictures along the way. Many of the ramen spots will be in NYC since I live here, but I'm not restricting myself to the city.
 
-Without further ado, here are The Ramen Logs ranked in order of my preference.
+Without further ado, here are The Ramen Logs, ranked in order of my preference.
 
-Update (12/29/2018): I added dollar signs to each review. Although some ramen places have higher ratings in terms of taste and quality, I felt like the price should be added to reflect how often I actually want to eat at those places. The prices are based on the average amount of money I spend on a bowl of ramen with toppings (I usually only add an egg if the ramen doesn't come with one). It does not include tax, tip, or appetizers.
+Update (12/29/2018): I added dollar signs to each review. Although some ramen places have higher ratings in terms of taste and quality, I felt like the price should be added to reflect how often I actually want to eat at those places. The price ranges are based on the average amount of money I spend on a bowl of ramen with toppings (I usually only add an egg if the ramen doesn't come with one). It does not include tax, tip, or appetizers.
 
 <table class="tg">
   <tr>
@@ -72,7 +72,40 @@ Tip: I think you should get extra toppings for the Shoyu and Shio bowls if you a
 </table>
 
 
-## 2. [Menkoi Sato - NY](https://www.yelp.com/biz/menkoi-sato-new-york-2), 8.5/10, `$$`
+## 2. [Nakamura](http://www.nakamuranyc.com/), 9/10, `$$$`
+
+|||
+|![Tontoro]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/nakamura-tontoro.jpg)|![Tsukemen]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/nakamura-tsukemen.jpg)|
+
+A few blocks away from Ishida, you will find Nakamura, yet another ramen chef that will have your mind blown. I've been to Nakamura in the past and had the Torigara. It reminded me of delicious [Mozuku soba](https://strangersandnoodles.wordpress.com/2012/10/31/day-9-mozuku-soba/) that I had in the Zamami Islands off the coast of Okinawa. That sweet island life!
+
+I wasn't too impressed with the Torigara a year ago, but I still needed to try Nakamura so that I could add him to this blog post. This time, I ordered the Tontoro and my girlfriend ordered a special Tsukemen.
+
+I immediately took a slurp after getting the beautiful Tontoro creamy pork broth ramen. It was rich, smooth, tasty. It had a nice pork after-taste. I was intrigued. I tried the broth again, nice and smooth with that delicious after-taste. I tried the broth two more times just to make sure I wasn't dreaming. Nakamura is not kidding around here!
+
+I had to try the noodles, dark and glistening with broth. Wow were they chewy, making my mouth water for another slurp of broth. The noodles had a unique color, flavor, and texture; they *must* be custom made for his restaurant.
+
+I kept my focus on the task at hand, getting excited for every bite and slurp. The egg was delicious, the chashu fell apart in my chopsticks. I tasted my girlfriend's tsukemen, and had a very similar reaction to my Tontoro bowl.
+
+Nakamura's ramen had me feeling good; it wasn't too heavy or salty. Done just right. I honestly could've gone for another bowl; not because I wasn't full, moreso because I was blown away.
+
+You must go to Nakamura!
+
+<table class="tg">
+  <tr>
+    <th class="tg-0pky">Visit</th>
+    <th class="tg-0pky">Bowls</th>
+    <th class="tg-0pky">Notes</th>
+  </tr>
+  <tr>
+    <td class="tg-btxf">03/16/2019</td>
+    <td class="tg-btxf">Tontoro, Tsukemen</td>
+    <td class="tg-btxf">Mind blown, wow</td>
+  </tr>
+</table>
+
+
+## 3. [Menkoi Sato - NY](https://www.yelp.com/biz/menkoi-sato-new-york-2), 8.5/10, `$$`
 
 ||
 |![Shoyu]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/menkoi-sato-shoyu.jpg)|
@@ -96,7 +129,7 @@ Oh and I don't think you'll need extra toppings.
   </tr>
 </table>
 
-## 3. [Ippudo - NY East Village](https://www.yelp.com/biz/ippudo-ny-new-york-7), 7.9/10, `$$$`
+## 4. [Ippudo - NY East Village](https://www.yelp.com/biz/ippudo-ny-new-york-7), 7.9/10, `$$$`
 
 ||||
 |![Akamaru]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ramen-shack-shoyu.jpg)|![Tanakaya]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ippudo-tanakaya1.jpg)||![Tanakaya noodles]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ippudo-tanakaya2.jpg)|
@@ -132,7 +165,7 @@ Update: I tried the Shiromaru and the spicy Akamura and was not really impressed
   </tr>
 </table>
 
-## 4. [EAK - NY](https://eakramen.com), 7.8/10, `$$`
+## 5. [EAK - NY](https://eakramen.com), 7.8/10, `$$`
 
 ||
 |![Zebra Shio]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/eak-zebra-shio.jpg)|
@@ -156,7 +189,7 @@ Come here for a solid bowl of ramen!
   </tr>
 </table>
 
-## 5. [Ramen Shack - NY](https://www.ramenshack.com), 7.5/10, `$$`-`$$$`
+## 6. [Ramen Shack - NY](https://www.ramenshack.com), 7.5/10, `$$`-`$$$`
 
 |||
 |![Classic Shoyu]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ramen-shack-shoyu.jpg)|![BGO]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ramen-shack-bgo.jpg)|![Sunset Red]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ramen-shack-sunset-red.jpg)|
@@ -183,7 +216,7 @@ Oh, please don't forget to try to **original** ramen burger! It's amazing!
   </tr>
 </table>
 
-## 6. [Kame - NY](https://www.yelp.com/biz/kame-ramen-new-york-2), 7.4/10, `$$`
+## 7. [Kame - NY](https://www.yelp.com/biz/kame-ramen-new-york-2), 7.4/10, `$$`
 
 ||
 |![Spicy Tonkotsu]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/kame-spicy-tonkotsu.jpg)|
@@ -204,7 +237,7 @@ I went to Kame whilst meeting a friend for dinner in midtown. I don't usually go
 </table>
 
 
-## 7. [Jun Men - NY](http://www.junmenramen.com/), 6.9/10, `$$`
+## 8. [Jun Men - NY](http://www.junmenramen.com/), 6.9/10, `$$`
 
 |||
 |![Pork Bone]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/junmen-pork-bone.jpg)|![Kimchi]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/junmen-kimchi.jpg)|
@@ -236,7 +269,7 @@ If you find yourself near Jun Men, definitely try it! Oh and the appetizers are 
 </table>
 
 
-## 8. [Misoya - NY](http://www.misoyanyc.com), 5.8/10, `$`
+## 9. [Misoya - NY](http://www.misoyanyc.com), 5.9/10, `$`
 
 ||||
 |![Mame]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/misoya-mame.jpg)|![Shiro]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/misoya-shiro.jpg)|![Free appetizers]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/misoya-appetizers.jpg)|
@@ -263,7 +296,7 @@ With that being said, the noodles are mediocre, the egg is OK, and the ramen is 
 </table>
 
 
-## 9. [Zest - NY](https://www.yelp.com/biz/zest-ramen-new-york-8), 5.5/10, `$$`
+## 10. [Zest - NY](https://www.yelp.com/biz/zest-ramen-new-york-8), 5.5/10, `$$`
 
 |||
 |![Shoyu]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/zest-shoyu.jpg)|![Yuzu]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/zest-yuzu.jpg)|
@@ -289,7 +322,7 @@ Overall, Zest has a nice and clean taste. Watching the oysters while eating the 
   </tr>
 </table>
 
-## 10. [Minca - NY](http://newyorkramen.com/), 5.3/10, `$$`
+## 11. [Minca - NY](http://newyorkramen.com/), 5.5/10, `$$`
 
 ||||
 |![Miso]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/minca-miso.jpg)|![Ebi Gyoza]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/minca-ebi-gyoza.jpg)|![Wafoo Shio]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/minca-wafoo-shio.jpg)|
@@ -309,8 +342,7 @@ Minca is where my innocent young soul first discovered ramen. The place is cozy,
   </tr>
 </table>
 
-
-## 11. [Totto Ramen - NY](http://tottoramen.com/), 5.0/10, `$$`
+## 12. [Totto Ramen - NY](http://tottoramen.com/), 5.0/10, `$$`
 
 ||
 |![Mega Paitan]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/totto-mega-paitan.jpg)|
@@ -337,14 +369,43 @@ Even though I'm rating Totto low on my scale, I think every ramen patron should 
     <th class="tg-0pky">Notes</th>
   </tr>
   <tr>
-    <td class="tg-btxf">03/09/2010</td>
+    <td class="tg-btxf">03/09/2019</td>
     <td class="tg-btxf">Mega Paitan</td>
     <td class="tg-btxf">I couldn't finish it :(</td>
   </tr>
 </table>
 
+## 13. [Ivan Ramen](https://www.ivanramen.com), 5.0/10, `$$$`
 
-## 11. [Tatsu - NY](https://www.tatsuramen.com/), 4.5/10, `$$`
+||||
+|![Tokyo Shio]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ivan-tokyo-shio.jpg)|![Tsukemen]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ivan-tsukemen.jpg)|
+
+
+If you haven't seen the [Chef's Table Netflix episode](https://www.imdb.com/title/tt6546630/) on Ivan Orkin, you should. It's a great story. Ivan Ramen is just one of those places in NYC that you have to try, much like Ippudo or Totto. Unfortunately for me, Ivan is *not* one of those places where I'll be a regular, also much like Ippudo or Totto.
+
+Ivan Ramen is unique. It's bold. It's packed with flavor. Once you try Ivan's Ramen, you won't just be eating ramen, you'll be tasting a full expression of Ivan's 30-year body of work.
+
+With all that being said, Ivan's taste is not exactly aligned with mine. The Tokyo ramen has a Dashi chicken broth. It's delicious, but I'm just not a fan of fish flavored broths. The revolutionary tomato slice is packed with umami. Once you taste the rye noodles, you'll know immediately that Ivan spent __a lot__ of time perfecting them. The noodles were just a bit overcooked this time.
+
+The tsukemen had delicious anchovies. The tsukemen noodles were thick and chewy. Hints of Ivan's grandmother's home were packed in the pickled collards. But again, not really my flavor profile.
+
+With all that, Ivan Ramen is awesome. You have to try his ramen for yourself! You're probably going to want a reservation.
+
+<table class="tg">
+  <tr>
+    <th class="tg-0pky">Visit</th>
+    <th class="tg-0pky">Bowls</th>
+    <th class="tg-0pky">Notes</th>
+  </tr>
+  <tr>
+    <td class="tg-btxf">03/17/2019</td>
+    <td class="tg-btxf">Tokyo Shio, Tsukemen</td>
+    <td class="tg-btxf">Paying a visit</td>
+  </tr>
+</table>
+
+
+## 14. [Tatsu - NY](https://www.tatsuramen.com/), 4.5/10, `$$`
 
 |||
 |![Old skool tonkotsu]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/tatsu-old-skool.jpg)|![Cheeky chicken broth]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/tatsu-cheeky.jpg)|
@@ -369,7 +430,7 @@ Good for large groups.
 </table>
 
 
-## 12. [Marufuku Ramen - SF](https://www.marufukuramen.com), 4.0/10, `$$`
+## 15. [Marufuku Ramen - SF](https://www.marufukuramen.com), 4.0/10, `$$`
 
 ||
 |![Chicken Paitan]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/marufuku-paitan.jpg)|
@@ -395,7 +456,7 @@ I want to rate Marufuku higher than Tatsu because the chicken broth at Marufuku 
   </tr>
 </table>
 
-## 13. [Shinka - NY](https://www.shinkaramen.com), 3.5/10, `$$$`
+## 16. [Shinka - NY](https://www.shinkaramen.com), 3.5/10, `$$$`
 
 |||
 |![Pork Bao]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/shinka-bao.jpg)|![Beef broth]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/shinka-beef.jpg)|
@@ -426,7 +487,7 @@ Overall, I'd say Shinka's ramen is very similar to their décor. Everything is a
 </table>
 
 
-## 14. [Tabetomo - NY](https://www.tabetomonyc.com/), 3.0/10, `$$$`
+## 17. [Tabetomo - NY](https://www.tabetomonyc.com/), 3.0/10, `$$$`
 
 ||||
 |![Tsukemen]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/tabetomo-tsukemen1.jpg)|![More tsukemen]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/tabetomo-tsukemen2.jpg)|
@@ -450,7 +511,7 @@ Come to Tabetomo if you want a heavy meal, go to <a href="#ishida">Ishida</a> if
   </tr>
 </table>
 
-## 15. [Mr. Taka - NY](https://mrtakaramen.webs.com/), 2.5/10, `$$`
+## 18. [Mr. Taka - NY](https://mrtakaramen.webs.com/), 2.5/10, `$$`
 
 |||
 |![Tonkotsu]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/mrtaka-tonkotsu.jpg)|![Chicken/Bonito Wonton]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/mrtaka-chicken-bonito-wonton.jpg)|
@@ -470,7 +531,8 @@ I wish Mr. Taka tasted as good as its ambiance. The chicken and bonito broth tas
   </tr>
 </table>
 
-## 16. [Katana-Ya - SF](https://www.yelp.com/biz/katana-ya-san-francisco), 0.0/10, `$$$`
+
+## 19. [Katana-Ya - SF](https://www.yelp.com/biz/katana-ya-san-francisco), 0.0/10, `$$$`
 
 ||
 |![Miso]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/katanaya-sf.jpg)|
