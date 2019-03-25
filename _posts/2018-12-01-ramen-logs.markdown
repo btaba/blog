@@ -7,6 +7,12 @@ tags: personal
 image: /assets/article_images/2018-12-01-ramen-logs/ishida-spicy-mushroom.jpg
 ---
 
+## UPDATE (03/25/2019)!
+
+The first five (5) people to email me at `baruch [at] tabanpour [dot] info` will have the opportunity to share ramen with me at Ramen Ishida. I will pay $14 worth of your meal :D. Limited time offer!
+
+---
+
 > I have wanted to start a ramen log for a while now. To finally kick it off, I decided to eat 3 bowls of ramen this past Thursday. It was heavenly.
 
 In this blog post, I plan to log every bowl of ramen I eat and to take pictures along the way. Many of the ramen spots will be in NYC since I live here, but I'm not restricting myself to the city.
