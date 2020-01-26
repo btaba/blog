@@ -109,4 +109,14 @@ $(document).ready(function() {
 
 <!-- THREE JS Logo -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/95/three.min.js"></script>
+
 <script type="text/javascript" src="{{ "/assets/js/logo.js" | prepend: site.baseurl  }}"></script>
+
+<script type="text/javascript" src="{{ "/assets/js/toc.js" | prepend: site.baseurl  }}"></script>
+
+<script type="text/javascript">
+$(document).ready(function() {
+  $('#toc').toc({ listType: 'ul' });
+});
+</script>
+

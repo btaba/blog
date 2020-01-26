@@ -37,7 +37,7 @@ Update (12/29/2018): I added dollar signs to each review. Although some ramen pl
 </table>
 
 
-## 1. <a name="ishida"></a> [Ramen Ishida - NY](https://www.ramenishida.com), 10/10, `$$`
+## 1. <a name="ishida"></a> [Ramen Ishida - NY](https://www.ramenishida.com){:target="_blank"}, 10/10, `$$`
 
 ||||
 |![Tokyo Shoyu]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ishida-tokyo-shoyu.jpg)|![Spicy Mushroom]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ishida-spicy-mushroom.jpg)|![Shio]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ishida-shio.jpg)|
@@ -78,7 +78,7 @@ Tip: I think you should get extra toppings for the Shoyu and Shio bowls if you a
 </table>
 
 
-## 2. [Nakamura](http://www.nakamuranyc.com/), 9/10, `$$$`
+## 2. [Nakamura](http://www.nakamuranyc.com/){:target="_blank"}, 9/10, `$$$`
 
 |||
 |![Tontoro]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/nakamura-tontoro.jpg)|![Tsukemen]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/nakamura-tsukemen.jpg)|
@@ -111,7 +111,7 @@ You must go to Nakamura!
 </table>
 
 
-## 3. [Menkoi Sato - NY](https://www.yelp.com/biz/menkoi-sato-new-york-2), 8.5/10, `$$`
+## 3. [Menkoi Sato - NY](https://www.yelp.com/biz/menkoi-sato-new-york-2){:target="_blank"}, 8.5/10, `$$`
 
 ||
 |![Shoyu]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/menkoi-sato-shoyu.jpg)|
@@ -135,7 +135,94 @@ Oh and I don't think you'll need extra toppings.
   </tr>
 </table>
 
-## 4. [Ippudo - NY East Village](https://www.yelp.com/biz/ippudo-ny-new-york-7), 7.9/10, `$$$`
+
+## 4. [Misoya - NY](http://www.misoyanyc.com){:target="_blank"}, 8/10, `$`
+
+||||
+|![Mame]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/misoya-mame.jpg)|![Shiro]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/misoya-shiro.jpg)|![Free appetizers]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/misoya-appetizers.jpg)|
+
+Walking into Misoya, you'll see a patchwork of posters awkwardly placed on the walls describing the health benefits of miso. The decor is so bad that you'd be suprised to know that Misoya is actually a [chain](http://ramen-misoya.com) with locations all over the world! Fortunately enough, the ramen is delicious.
+
+Misoya obviously specializes in miso ramen with 3 types of miso (kome, shiro, and mame explained [here](http://ramen-misoya.com/about-miso/)). I tried the Shiro and Mame – the Shiro miso is what you're most used to in terms of miso taste. The Mame miso was richer and darker, maybe a bit too much for me. But the Shiro miso is on point! I love some of the toppings like the ebi tempura on the Mame and tofu tempura on the Shiro.
+
+To add to that, Misoya has awesome lunch specials, with free appetizers, making it the best ramen deal in NYC for the quality! A bowl of Kome miso is just $11.
+
+With that being said, the noodles are mediocre, the egg is OK, and the ramen is just not that refined. So why does Misoya still have a warm place in my heart? Simply because Misoya offers a taste so nostalgic that you'd think it were a Japanese ramen shop in the mountains of Hokkaido, that opened 50 years ago. They also really want you to know that miso is good for you – sounds like they found your long-lost Japanese grandmother's miso ramen recipe!
+
+Edit 2020-01-24, I've bumped Misoya way up in the list. Although the toppings are not really top notch (neither are the noodles), the miso is out of this world. I LOVE the miso in Misoya's ramen so much – I don't know of a better miso ramen in NYC. I actually feel healthy after eating a bowl here; and given the price, I just keep coming back for more and stronger miso taste.
+
+<table class="tg">
+  <tr>
+    <th class="tg-0pky">Visit</th>
+    <th class="tg-0pky">Bowls</th>
+    <th class="tg-0pky">Notes</th>
+  </tr>
+  <tr>
+    <td class="tg-btxf">12/29/2018</td>
+    <td class="tg-btxf">Shiro and Mame miso ramen</td>
+    <td class="tg-btxf">That nostalgic miso taste!</td>
+  </tr>
+  <tr>
+    <td class="tg-btxf">12/29/2019</td>
+    <td class="tg-btxf">Shiro, Kome, Mame</td>
+    <td class="tg-btxf">I've come here more times than I can count at this point. Every time I get a stronger miso bowl, I feel like I've graduated to the next level of miso ramen.</td>
+  </tr>
+</table>
+
+## 5. [EAK - NY](https://eakramen.com){:target="_blank"}, 7.8/10, `$$`
+
+||
+|![Zebra Shio]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/eak-zebra-shio.jpg)|
+
+EAK ramen is very distinct from other places on this list. As they describe themselves, "IEKEI is a style of ramen that is a marriage between Tokontsu style from the West (Kyushu) and Shoyu style from the East (Tokyo)." The noodles are thick, which you might not be used to for a thick tonkotsu style broth. There is also spinach as a topping, along with a nori that has "But First, Ramen" printed on it. I had the Zebra shio, a shio garlic oil spin on their classic EAK. I removed the piece of butter because I already had two appetizers at this point and didn't want to have a heart attack.
+
+The bowl itself might seem a bit gimmicky when presented with the printed nori, but once you taste the broth, you'll know that EAK takes their ramen very seriously. All aspects of the dish felt refined, from the noodles to the chashu and the egg. The broth is thick and creamy, but not too overpowering.
+
+Come here for a solid bowl of ramen!
+
+<table class="tg">
+  <tr>
+    <th class="tg-0pky">Visit</th>
+    <th class="tg-0pky">Bowls</th>
+    <th class="tg-0pky">Notes</th>
+  </tr>
+  <tr>
+    <td class="tg-btxf">01/30/2019</td>
+    <td class="tg-btxf">Zebra Shio</td>
+    <td class="tg-btxf">But first, ramen!</td>
+  </tr>
+</table>
+
+## 6. [Sanpoutei - NY](http://sanpoutei.com/){:target="_blank"}, 7.7/10, `$$$`
+
+||
+|![Miso]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/sanpoutei-miso.jpg)|
+
+Sanpoutei has been around for 50 years, but they just opened on their first night when I went to try their ramen in NYC. I have to say, the decor is top notch. Despite the price of the appetizers, I actually felt like I was getting a steal based on how much they must have dropped to renovate the restaurant. Sanpoutei is peculiar enough to feel like you are actually in Niigata and not some random Tokyo establishment.
+
+The appetizers are so good...I would come here just for the appetizers and sake. It's quite enjoyable to just sit and drink Niigata sake with fried chicken, gyoza, and maguro & delectable uni. Not every restaurant makes you WANT to do that, but Sanpoutei is the one. Your bill might be a bit higher than you anticipated, but you might not mind for the ambience and delicious flavors dancing around in your mouth.
+
+Now for the ramen. I have to say, this isn't my favorite bowl of ramen. The broth a bit too creamy for my taste, but the noodles are really out of this world delicious. The texture is hard to find at other ramen establishments in NYC. Of course all of the ingredients are prepared really well (the chashu is some of the best).
+
+The ramen has a country style to it...I feel like I actually learned something about Niigata by eating this bowl. I'm rating Sanpoutei this high up because you're not just getting a bowl of ramen...you're getting an experience that was 50 years in the making and beyond. And unlike Ippudo, I don't feel like the owners are trying to gouge you with their appetizers; they actually want you to be happy.
+
+Disclaimer: If you want better miso ramen go to Misoya, and if you want better veggie ramen go to Ishida. :D
+
+<table class="tg">
+  <tr>
+    <th class="tg-0pky">Visit</th>
+    <th class="tg-0pky">Bowls</th>
+    <th class="tg-0pky">Notes</th>
+  </tr>
+  <tr>
+    <td class="tg-btxf">01/23/2020</td>
+    <td class="tg-btxf">Miso ramen and veggie ramen</td>
+    <td class="tg-btxf"></td>
+  </tr>
+</table>
+
+
+## 7. [Ippudo - NY East Village](https://www.yelp.com/biz/ippudo-ny-new-york-7){:target="_blank"}, 7.6/10, `$$$`
 
 ||||
 |![Akamaru]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ramen-shack-shoyu.jpg)|![Tanakaya]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ippudo-tanakaya1.jpg)||![Tanakaya noodles]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ippudo-tanakaya2.jpg)|
@@ -171,31 +258,7 @@ Update: I tried the Shiromaru and the spicy Akamura and was not really impressed
   </tr>
 </table>
 
-## 5. [EAK - NY](https://eakramen.com), 7.8/10, `$$`
-
-||
-|![Zebra Shio]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/eak-zebra-shio.jpg)|
-
-EAK ramen is very distinct from other places on this list. As they describe themselves, "IEKEI is a style of ramen that is a marriage between Tokontsu style from the West (Kyushu) and Shoyu style from the East (Tokyo)." The noodles are thick, which you might not be used to for a thick tonkotsu style broth. There is also spinach as a topping, along with a nori that has "But First, Ramen" printed on it. I had the Zebra shio, a shio garlic oil spin on their classic EAK. I removed the piece of butter because I already had two appetizers at this point and didn't want to have a heart attack.
-
-The bowl itself might seem a bit gimmicky when presented with the printed nori, but once you taste the broth, you'll know that EAK takes their ramen very seriously. All aspects of the dish felt refined, from the noodles to the chashu and the egg. The broth is thick and creamy, but not too overpowering.
-
-Come here for a solid bowl of ramen!
-
-<table class="tg">
-  <tr>
-    <th class="tg-0pky">Visit</th>
-    <th class="tg-0pky">Bowls</th>
-    <th class="tg-0pky">Notes</th>
-  </tr>
-  <tr>
-    <td class="tg-btxf">01/30/2019</td>
-    <td class="tg-btxf">Zebra Shio</td>
-    <td class="tg-btxf">But first, ramen!</td>
-  </tr>
-</table>
-
-## 6. [Ramen Shack - NY](https://www.ramenshack.com), 7.5/10, `$$`-`$$$`
+## 8. [Ramen Shack - NY](https://www.ramenshack.com){:target="_blank"}, 7.5/10, `$$`-`$$$`
 
 |||
 |![Classic Shoyu]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ramen-shack-shoyu.jpg)|![BGO]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ramen-shack-bgo.jpg)|![Sunset Red]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ramen-shack-sunset-red.jpg)|
@@ -222,7 +285,7 @@ Oh, please don't forget to try to **original** ramen burger! It's amazing!
   </tr>
 </table>
 
-## 7. [Kame - NY](https://www.yelp.com/biz/kame-ramen-new-york-2), 7.4/10, `$$`
+## 9. [Kame - NY](https://www.yelp.com/biz/kame-ramen-new-york-2){:target="_blank"}, 7.4/10, `$$`
 
 ||
 |![Spicy Tonkotsu]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/kame-spicy-tonkotsu.jpg)|
@@ -243,7 +306,7 @@ I went to Kame whilst meeting a friend for dinner in midtown. I don't usually go
 </table>
 
 
-## 8. [Jun Men - NY](http://www.junmenramen.com/), 6.9/10, `$$`
+## 10. [Jun Men - NY](http://www.junmenramen.com/){:target="_blank"}, 6.9/10, `$$`
 
 |||
 |![Pork Bone]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/junmen-pork-bone.jpg)|![Kimchi]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/junmen-kimchi.jpg)|
@@ -275,34 +338,8 @@ If you find yourself near Jun Men, definitely try it! Oh and the appetizers are 
 </table>
 
 
-## 9. [Misoya - NY](http://www.misoyanyc.com), 5.9/10, `$`
 
-||||
-|![Mame]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/misoya-mame.jpg)|![Shiro]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/misoya-shiro.jpg)|![Free appetizers]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/misoya-appetizers.jpg)|
-
-Walking into Misoya, you'll see a patchwork of posters awkwardly placed on the walls describing the health benefits of miso. The decor is so bad that you'd be suprised to know that Misoya is actually a [chain](http://ramen-misoya.com) with locations all over the world! Fortunately enough, the ramen is delicious.
-
-Misoya obviously specializes in miso ramen with 3 types of miso (kome, shiro, and mame explained [here](http://ramen-misoya.com/about-miso/)). I tried the Shiro and Mame – the Shiro miso is what you're most used to in terms of miso taste. The Mame miso was richer and darker, maybe a bit too much for me. But the Shiro miso is on point! I love some of the toppings like the ebi tempura on the Mame and tofu tempura on the Shiro.
-
-To add to that, Misoya has awesome lunch specials, with free appetizers, making it the best ramen deal in NYC for the quality! A bowl of Kome miso is just $11.
-
-With that being said, the noodles are mediocre, the egg is OK, and the ramen is just not that refined. So why does Misoya still have a warm place in my heart? Simply because Misoya offers a taste so nostalgic that you'd think it were a Japanese ramen shop in the mountains of Hokkaido, that opened 50 years ago. They also really want you to know that miso is good for you – sounds like they found your long-lost Japanese grandmother's miso ramen recipe!
-
-<table class="tg">
-  <tr>
-    <th class="tg-0pky">Visit</th>
-    <th class="tg-0pky">Bowls</th>
-    <th class="tg-0pky">Notes</th>
-  </tr>
-  <tr>
-    <td class="tg-btxf">12/29/2018</td>
-    <td class="tg-btxf">Shiro and Mame miso ramen</td>
-    <td class="tg-btxf">That nostalgic miso taste!</td>
-  </tr>
-</table>
-
-
-## 10. [Zest - NY](https://www.yelp.com/biz/zest-ramen-new-york-8), 5.5/10, `$$`
+## 11. [Zest - NY](https://www.yelp.com/biz/zest-ramen-new-york-8){:target="_blank"}, 5.5/10, `$$`
 
 |||
 |![Shoyu]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/zest-shoyu.jpg)|![Yuzu]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/zest-yuzu.jpg)|
@@ -328,7 +365,7 @@ Overall, Zest has a nice and clean taste. Watching the oysters while eating the 
   </tr>
 </table>
 
-## 11. [Minca - NY](http://newyorkramen.com/), 5.5/10, `$$`
+## 12. [Minca - NY](http://newyorkramen.com/){:target="_blank"}, 5.5/10, `$$`
 
 ||||
 |![Miso]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/minca-miso.jpg)|![Ebi Gyoza]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/minca-ebi-gyoza.jpg)|![Wafoo Shio]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/minca-wafoo-shio.jpg)|
@@ -348,7 +385,7 @@ Minca is where my innocent young soul first discovered ramen. The place is cozy,
   </tr>
 </table>
 
-## 12. [Totto Ramen - NY](http://tottoramen.com/), 5.0/10, `$$`
+## 13. [Totto Ramen - NY](http://tottoramen.com/){:target="_blank"}, 5.0/10, `$$`
 
 ||
 |![Mega Paitan]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/totto-mega-paitan.jpg)|
@@ -381,7 +418,7 @@ Even though I'm rating Totto low on my scale, I think every ramen patron should 
   </tr>
 </table>
 
-## 13. [Ivan Ramen](https://www.ivanramen.com), 5.0/10, `$$$`
+## 14. [Ivan Ramen](https://www.ivanramen.com){:target="_blank"}, 5.0/10, `$$$`
 
 ||||
 |![Tokyo Shio]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ivan-tokyo-shio.jpg)|![Tsukemen]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/ivan-tsukemen.jpg)|
@@ -411,7 +448,7 @@ With all that, Ivan Ramen is awesome. You have to try his ramen for yourself! Yo
 </table>
 
 
-## 14. [Tatsu - NY](https://www.tatsuramen.com/), 4.5/10, `$$`
+## 15. [Tatsu - NY](https://www.tatsuramen.com/){:target="_blank"}, 4.5/10, `$$`
 
 |||
 |![Old skool tonkotsu]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/tatsu-old-skool.jpg)|![Cheeky chicken broth]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/tatsu-cheeky.jpg)|
@@ -433,10 +470,15 @@ Good for large groups.
     <td class="tg-btxf">Cheeky Ramen, Old skool tonkotsu</td>
     <td class="tg-btxf">Continuing my love hate relationship</td>
   </tr>
+  <tr>
+    <td class="tg-btxf">01/10/2020</td>
+    <td class="tg-btxf">Cheeky Ramen</td>
+    <td class="tg-btxf">Meh, recipe seems to have changed a bit. I would describe Tatsu as the cheetohs of ramen.</td>
+  </tr>
 </table>
 
 
-## 15. [Marufuku Ramen - SF](https://www.marufukuramen.com), 4.0/10, `$$`
+## 16. [Marufuku Ramen - SF](https://www.marufukuramen.com){:target="_blank"}, 4.0/10, `$$`
 
 ||
 |![Chicken Paitan]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/marufuku-paitan.jpg)|
@@ -462,7 +504,7 @@ I want to rate Marufuku higher than Tatsu because the chicken broth at Marufuku 
   </tr>
 </table>
 
-## 16. [Shinka - NY](https://www.shinkaramen.com), 3.5/10, `$$$`
+## 17. [Shinka - NY](https://www.shinkaramen.com){:target="_blank"}, 3.5/10, `$$$`
 
 |||
 |![Pork Bao]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/shinka-bao.jpg)|![Beef broth]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/shinka-beef.jpg)|
@@ -493,7 +535,7 @@ Overall, I'd say Shinka's ramen is very similar to their décor. Everything is a
 </table>
 
 
-## 17. [Tabetomo - NY](https://www.tabetomonyc.com/), 3.0/10, `$$$`
+## 18. [Tabetomo - NY](https://www.tabetomonyc.com/){:target="_blank"}, 3.0/10, `$$$`
 
 ||||
 |![Tsukemen]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/tabetomo-tsukemen1.jpg)|![More tsukemen]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/tabetomo-tsukemen2.jpg)|
@@ -517,7 +559,7 @@ Come to Tabetomo if you want a heavy meal, go to <a href="#ishida">Ishida</a> if
   </tr>
 </table>
 
-## 18. [Mr. Taka - NY](https://mrtakaramen.webs.com/), 2.5/10, `$$`
+## 19. [Mr. Taka - NY](https://mrtakaramen.webs.com/){:target="_blank"}, 2.5/10, `$$`
 
 |||
 |![Tonkotsu]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/mrtaka-tonkotsu.jpg)|![Chicken/Bonito Wonton]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/mrtaka-chicken-bonito-wonton.jpg)|
@@ -538,7 +580,7 @@ I wish Mr. Taka tasted as good as its ambiance. The chicken and bonito broth tas
 </table>
 
 
-## 19. [Katana-Ya - SF](https://www.yelp.com/biz/katana-ya-san-francisco), 0.0/10, `$$$`
+## 20. [Katana-Ya - SF](https://www.yelp.com/biz/katana-ya-san-francisco){:target="_blank"}, 0.0/10, `$$$`
 
 ||
 |![Miso]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/katanaya-sf.jpg)|
