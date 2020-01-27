@@ -208,6 +208,8 @@ The ramen has a country style to it...I feel like I actually learned something a
 
 Disclaimer: If you want better miso ramen go to Misoya, and if you want better veggie ramen go to Ishida. :D
 
+Edit 01-26-2020: The chicken paitan and sanpoutei ramen are really good, better than the miso and veggie. And the sake is just hard not to drink.
+
 <table class="tg">
   <tr>
     <th class="tg-0pky">Visit</th>
@@ -217,6 +219,11 @@ Disclaimer: If you want better miso ramen go to Misoya, and if you want better v
   <tr>
     <td class="tg-btxf">01/23/2020</td>
     <td class="tg-btxf">Miso ramen and veggie ramen</td>
+    <td class="tg-btxf"></td>
+  </tr>
+  <tr>
+    <td class="tg-btxf">01/26/2020</td>
+    <td class="tg-btxf">Chicken paitan and sanpoutei</td>
     <td class="tg-btxf"></td>
   </tr>
 </table>
