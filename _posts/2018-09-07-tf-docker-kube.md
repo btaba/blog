@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tensorflow in Docker on Kubernetes - Some Pitfalls"
+title:  "Tensorflow in Docker"
 date:   2018-09-07 00:00:00
 categories: projects
 tags: projects
@@ -8,15 +8,15 @@ image: /assets/article_images/2018-09-07-tf-kube/cover.png
 comments: True
 ---
 
-I build [Tensorflow](https://www.tensorflow.org/) models and deploy them with [Docker](https://www.docker.com/) on [Kubernetes](https://kubernetes.io/) during the day. There are two very painful pitfalls that can increase memory usage up to ~7x and slow down inference up to ~30x running on CPU. In the interest of saving others some time, here they are:
+Here are some snags I found when running [Tensorflow](https://www.tensorflow.org/) models on [Docker](https://www.docker.com/) that can increase memory usage up to ~7x and increase inference time up to ~30x running on CPU.
 
-### 1. CPU issues 😣
+### 1. CPU issues
 
-When running tensorflow in docker, tensorflow thinks that it owns all the resources on the machine that docker is running on. For example, if you run a docker container on a kubernetes node with 128 cores, tensorflow  thinks it can use all 128 cores. This causes massive **slow downs** – I've seen up to 30x slower depending on the network architecture.
+When running tensorflow in docker, tensorflow thinks that it owns all the resources on the machine that docker is running on. For example, if you run a docker container on a kubernetes node with 128 cores, tensorflow  thinks it can use all 128 cores. This causes inference time to increase up to 30x depending on the network architecture.
 
 ##### Why?
 
-When scheduling docker containers on kubernetes nodes, resources are limited per container using [cgroups](https://engineering.squarespace.com/blog/2017/understanding-linux-container-scheduling). Tensorflow in docker doesn't care about cgroups and thinks it can use all resources on the host. For example, tensorflow will set `inter_op_parallelism_threads` and `intra_op_parallelism_threads` to 128 by default in the config on a 128 core node. In reality, you may have set the limit to 8 cores per container in the kubernetes deployment! Bad things ensue. 😖
+When scheduling docker containers on kubernetes nodes, resources are limited per container using [cgroups](https://engineering.squarespace.com/blog/2017/understanding-linux-container-scheduling). Tensorflow in docker doesn't care about cgroups and thinks it can use all resources on the host. For example, tensorflow will set `inter_op_parallelism_threads` and `intra_op_parallelism_threads` to 128 by default in the config on a 128 core node. In reality, you may have set the limit to 8 cores per container in the kubernetes deployment! Bad things ensue.
 
 ##### How to fix?
 
@@ -80,19 +80,14 @@ tensorflow/tensorflow/issues/22098) is resolved.
 
 ##### How to fix?
 
-After many painful days, I discovered that memory stays flat if you set `inter_op_parallelism_threads=1` 🤔.
+After many painful days, I discovered that memory stays flat if you set `inter_op_parallelism_threads=1`.
 
 
 ###### Another minor detail
 
-Setting `inter_op_parallelism_threads=1` sped up inference calls from 3s to 700ms for a saliency model I was working on, but slowed down InceptionV3 by 50ms on average. ¯\\_(ツ)_/¯
+Setting `inter_op_parallelism_threads=1` sped up inference calls from 3s to 700ms for a saliency model I was working on, but slowed down InceptionV3 by 50ms on average.
 
 
 ---
 
-In conclusion, good luck. I hope this post saves someone some time. And remember that tuning tensorflow is highly dependent on the hardware and config you are running on, especially within docker.
-
-
-##### Acknowledgements
-
-Thanks to the team I work on for all the support in debugging these issues!
+In conclusion, good luck. I hope this post saves someone some time.

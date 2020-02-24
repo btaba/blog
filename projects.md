@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A List of Projects
+title: Random Projects
 permalink: /projects/
 ---
 
@@ -28,7 +28,7 @@ Implementations of A2C, DDQN, PG, CEM.
 > [**Introduction to Reinforcement Learning by Sutton & Barto, Solutions to 1st Edition**](https://github.com/btaba/intro-to-rl){:target="_blank"}
 
 
-Solutions to the 1st edition. Watch a video on the race car problem!
+Solutions to the 1st edition. Race car problem:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZC1I8qa-ycE" frameborder="0" allowfullscreen></iframe>
 
@@ -63,13 +63,13 @@ Convert non-negative square matrices with total support into doubly stochastic m
 
 [**Kimchi Ventures**](https://kimchiventures.com){:target="_blank"}
 
-[kimchi making experiences](https://www.airbnb.com/experiences/216272) in NYC!
+[kimchi making experiences](https://www.airbnb.com/experiences/216272) in NYC
 
 ![Delicious!](https://static1.squarespace.com/static/5ae3edcefcf7fd2d87436ffc/5ae401b6d274cb3bcc106a4c/5ae401b6ed62fe3847c9d2c5/1524892087589/?format=1500w)
 
 ---
 
-Music?
+Music
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/305949662&color=%2300aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 

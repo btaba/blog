@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Atari Me - Atari You"
+title:  "DDQN"
 date:   2018-02-19 00:00:00
 categories: projects
 tags: projects

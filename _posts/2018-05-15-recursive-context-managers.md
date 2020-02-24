@@ -7,7 +7,7 @@ tags: projects
 comments: True
 ---
 
-Python is really awesome! To illustrate what I mean, I'll use an example with context managers.
+Extending context managers to collections of dictionaries and lists:
 
 ## What is a context manager?
 
@@ -247,6 +247,3 @@ with Write(files) as fobj:
 
 assert fobj['hey'].closed is True  # yay!
 ```
-
-
-Python can be pretty neat sometimes!

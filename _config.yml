@@ -28,8 +28,8 @@ baseurl: ""
 # social icons and sharing options
 social:
 
-  - icon: soundcloud
-    url: https://soundcloud.com/user-182551466
+  # - icon: soundcloud
+  #   url: https://soundcloud.com/user-182551466
 
   - icon:	twitter
     url:	https://twitter.com/btabanpour
@@ -38,19 +38,12 @@ social:
     share_title: ?text=
     share_link: "&amp;url="
 
-  - icon:  instagram
-    url: https://instagram.com/bartabelix/
-    desc: Connect with me on instagram
-    share_url:
-    share_title:
-    share_link:
-
-  - icon:	facebook
-    url:	
-    desc: Connect with me facebook
-    share_url: //www.facebook.com/sharer.php
-    share_title: ?t=
-    share_link: "&amp;u="
+  # - icon:  instagram
+  #   url: https://instagram.com/bartabelix/
+  #   desc: Connect with me on instagram
+  #   share_url:
+  #   share_title:
+  #   share_link:
 
   - icon:	github
     url:	https://github.com/btaba

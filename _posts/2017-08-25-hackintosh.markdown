@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "mac it"
+title:  "hackintosh"
 date:   2017-08-25 00:00:00
 categories: projects
 tags: hardware

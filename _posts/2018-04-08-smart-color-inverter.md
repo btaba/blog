@@ -1,15 +1,13 @@
 ---
 layout: post
-title:  "Smart Color Inverter"
+title:  "Inverting Color on a Display"
 date:   2018-04-08 00:00:00
 categories: projects
 tags: projects
 comments: True
 ---
 
-I stare at screens a lot. You probably do too.
-
-Staring at screens is easier with apps like [f.lux](https://justgetflux.com) and [iris](https://iristech.co), which apply color filters to our displays to reduce the amount of blue light our eyes consume.
+Staring at displays is easier on the eyes with apps like [f.lux](https://justgetflux.com) and [iris](https://iristech.co), which apply color filters to our displays to reduce the amount of blue light our eyes consume.
 
 If your screen has mostly white colors and you use *f.lux*, the display is still sometimes too bright. This is why many apps also have color inverters, which flip the colors of all pixels on your display. The effect looks something like this:
 
