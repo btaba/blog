@@ -7,9 +7,9 @@ tags: personal
 image: /assets/article_images/2018-12-01-ramen-logs/ishida-spicy-mushroom.jpg
 ---
 
-## UPDATE (03/25/2019)!
+## UPDATE (02/23/2020)!
 
-The first five (5) people to email me at `baruch [at] tabanpour [dot] info` will have the opportunity to share ramen with me at Ramen Ishida. I will pay $14 worth of your meal :D. Limited time offer!
+The first five (5) people to email me at `baruch [at] tabanpour [dot] info` will have the opportunity to share ramen with me at Ramen Ishida. I will pay for one bowl of ramen :D. Limited time offer!
 
 ---
 
@@ -127,6 +127,11 @@ Oh and I don't think you'll need extra toppings.
     <th class="tg-0pky">Visit</th>
     <th class="tg-0pky">Bowls</th>
     <th class="tg-0pky">Notes</th>
+  </tr>
+  <tr>
+    <td class="tg-btxf">01/23/2020</td>
+    <td class="tg-btxf">Miso</td>
+    <td class="tg-btxf">Damn this is good.</td>
   </tr>
   <tr>
     <td class="tg-btxf">01/17/2019</td>
@@ -392,6 +397,9 @@ Minca is where my innocent young soul first discovered ramen. The place is cozy,
   </tr>
 </table>
 
+
+
+
 ## 13. [Totto Ramen - NY](http://tottoramen.com/){:target="_blank"}, 5.0/10, `$$`
 
 ||
@@ -425,6 +433,8 @@ Even though I'm rating Totto low on my scale, I think every ramen patron should 
   </tr>
 </table>
 
+
+
 ## 14. [Ivan Ramen](https://www.ivanramen.com){:target="_blank"}, 5.0/10, `$$$`
 
 ||||
@@ -454,8 +464,23 @@ With all that, Ivan Ramen is awesome. You have to try his ramen for yourself! Yo
   </tr>
 </table>
 
+## 15. [Gorin Ramen - NY](https://www.gorinramen-ny.com/), 4.5/10, `$$`
 
-## 15. [Tatsu - NY](https://www.tatsuramen.com/){:target="_blank"}, 4.5/10, `$$`
+||||
+|![Gorin Classic]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/gorin.jpg)|
+
+
+Gorin ramen is a no frills ramen shop with and industrial feel. The chashu is awesome, the broth is ok, the noodles weren't my favorite. The onions and cold egg sort of ruined it for me unfortunately. Nevertheless, I wouldn't mind coming here again as it's better than everything rated lower. One of the ramen chefs was also a musician and very friendly to talk to at the counter.
+
+<table class="tg">
+  <tr>
+    <td class="tg-btxf">01/26/2020</td>
+    <td class="tg-btxf">Classic</td>
+    <td class="tg-btxf">Meh</td>
+  </tr>
+</table>
+
+## 16. [Tatsu - NY](https://www.tatsuramen.com/){:target="_blank"}, 4.5/10, `$$`
 
 |||
 |![Old skool tonkotsu]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/tatsu-old-skool.jpg)|![Cheeky chicken broth]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/tatsu-cheeky.jpg)|
@@ -485,7 +510,7 @@ Good for large groups.
 </table>
 
 
-## 16. [Marufuku Ramen - SF](https://www.marufukuramen.com){:target="_blank"}, 4.0/10, `$$`
+## 17. [Marufuku Ramen - SF](https://www.marufukuramen.com){:target="_blank"}, 4.0/10, `$$`
 
 ||
 |![Chicken Paitan]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/marufuku-paitan.jpg)|
@@ -511,7 +536,7 @@ I want to rate Marufuku higher than Tatsu because the chicken broth at Marufuku 
   </tr>
 </table>
 
-## 17. [Shinka - NY](https://www.shinkaramen.com){:target="_blank"}, 3.5/10, `$$$`
+## 18. [Shinka - NY](https://www.shinkaramen.com){:target="_blank"}, 3.5/10, `$$$`
 
 |||
 |![Pork Bao]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/shinka-bao.jpg)|![Beef broth]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/shinka-beef.jpg)|
@@ -542,7 +567,7 @@ Overall, I'd say Shinka's ramen is very similar to their décor. Everything is a
 </table>
 
 
-## 18. [Tabetomo - NY](https://www.tabetomonyc.com/){:target="_blank"}, 3.0/10, `$$$`
+## 19. [Tabetomo - NY](https://www.tabetomonyc.com/){:target="_blank"}, 3.0/10, `$$$`
 
 ||||
 |![Tsukemen]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/tabetomo-tsukemen1.jpg)|![More tsukemen]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/tabetomo-tsukemen2.jpg)|
@@ -566,7 +591,7 @@ Come to Tabetomo if you want a heavy meal, go to <a href="#ishida">Ishida</a> if
   </tr>
 </table>
 
-## 19. [Mr. Taka - NY](https://mrtakaramen.webs.com/){:target="_blank"}, 2.5/10, `$$`
+## 20. [Mr. Taka - NY](https://mrtakaramen.webs.com/){:target="_blank"}, 2.5/10, `$$`
 
 |||
 |![Tonkotsu]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/mrtaka-tonkotsu.jpg)|![Chicken/Bonito Wonton]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/mrtaka-chicken-bonito-wonton.jpg)|
@@ -587,7 +612,7 @@ I wish Mr. Taka tasted as good as its ambiance. The chicken and bonito broth tas
 </table>
 
 
-## 20. [Katana-Ya - SF](https://www.yelp.com/biz/katana-ya-san-francisco){:target="_blank"}, 0.0/10, `$$$`
+## 21. [Katana-Ya - SF](https://www.yelp.com/biz/katana-ya-san-francisco){:target="_blank"}, 0.0/10, `$$$`
 
 ||
 |![Miso]({{ site.url }}/assets/article_images/2018-12-01-ramen-logs/katanaya-sf.jpg)|
