@@ -61,7 +61,7 @@ Convert non-negative square matrices with total support into doubly stochastic m
 
 ---
 
-[**Kimchi Ventures**](https://kimchiventures.com){:target="_blank"}
+[**Kimchi Ventures**](https://kimchi-ventures.squarespace.com){:target="_blank"}
 
 [kimchi making experiences](https://www.airbnb.com/experiences/216272) in NYC
 

@@ -9,7 +9,8 @@ permalink: /about/
 
 <p>I wonder how you wound up here. Please let me know!</p>
 
+Some other <a href="/projects/">stuff</a>.
+
 <h2>Contact Me</h2>
 <p>baruch [at] tabanpour [dot] info</p>
 
-Other <a href="/projects/">stuff</a>
