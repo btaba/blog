@@ -9,7 +9,7 @@ comments: True
 
 About this time last year, I was studying for Machine Learning Engineer (MLE) interviews for large tech companies. I received offers from Google, Facebook, Magic Leap, Twitter, Airbnb, Etsy, and Wework. I got rejections after 3 onsites (Stripe, Two Sigma, and a startup) and several other phone screens (Pinterest, NVIDIA, OpenAI, MIRI, etc).
 
-Looking back, I don't recommend, nor do I think it is worth, applying to a majority of these large tech companies (ask me about this in private). Nevertheless, I wanted to post a blueprint for how to do it...for posterity.
+Looking back, I don't think it is necessarily worth applying to so many large tech companies (ask me about this in private). Nevertheless, I wanted to post a blueprint for how to do it...for posterity.
 
 If you want to cut to the chase, here are the most important links in this article:
 
