@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "No Free Lunch - Except at Tech Companies"
+title:  "No free lunch"
 date:   2018-07-20 00:00:00
 categories: projects
 tags: projects
