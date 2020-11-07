@@ -7,7 +7,6 @@ tags: projects
 comments: True
 ---
 
-Reinforcement Learning...again?
 
 I wanted to re-create the latest Deep Q-Learning results on Atari, a huge milestone for AI Research in the past few years.
 

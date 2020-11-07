@@ -8,7 +8,7 @@ comments: True
 image: /assets/article_images/2016-05-31-cordillera-blanca/ahuac-view.JPG
 ---
 
-#### The mountains were calling in Peru.
+#### Peruvian Andes
 
 ## Huaraz
 ![Huaraz]({{ site.url }}/assets/article_images/2016-05-31-cordillera-blanca/huaraz.JPG)

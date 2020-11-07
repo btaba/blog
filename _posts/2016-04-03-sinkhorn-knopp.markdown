@@ -7,7 +7,7 @@ tags: projects
 comments: True
 ---
 
-Do you need a non-negative square matrix converted to a doubly stochastic matrix? That is, you want all rows and columns to sum to one? Well here's a package just for that! I had the function lying around for a deep learning project I was working on at Columbia, and I thought it'd be a great opportunity to learn how to publish to PyPi! 
+Do you need a non-negative square matrix converted to a doubly stochastic matrix? That is, you want all rows and columns to sum to one? Well here's a package just for that! I had the function lying around for a project I was working on at Columbia, and I thought it'd be a great opportunity to learn how to publish to PyPi! 
 
 It uses the Sinkhorn-Knopp algorithm, which iteratively normalizes the rows and columns of a matrix to 1, until the matrix is doubly stochastic ([Sinkhorn, Knopp 1967][sinkhorn_knopp_ref]). It is guaranteed to converge for a non-negative square matrix $A$ if $A \neq 0$, and if $A$ has total support. Matrix $A$ has total support if every positive element of $A$ lies on a positive diagonal. And a positive diagonal of a matrix is defined as, for any permutation of $\sigma = \\{1,\dots,N\\}$, the sequence $$\{ a_{1,\sigma(1)},\dots, a_{N,\sigma(N)} \}$$ where all elements are positive (non-zero in this case). 
 

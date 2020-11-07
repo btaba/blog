@@ -21,7 +21,7 @@ I've been building [`yarlp`][yarlp] for educational purposes, and I wanted to ma
 4. and **random seeds**!
 
 
-Here are my results on Mujoco1M after painstakingly hashing out minor differences in OpenAI's implementation of TRPO compared to mine (which are now virtually identical 😂). I averaged over 5 random seeds using [this script][baselinesscript] in `baselines`, and using the `run_benchmark` cli script in `yarlp`, which run all environments in parallel. The results match, but clearly even 5 random seeds is not enough (we plot the 95th percentile CI).
+Here are my results on Mujoco1M after painstakingly hashing out minor differences in OpenAI's implementation of TRPO compared to mine. I averaged over 5 random seeds using [this script][baselinesscript] in `baselines`, and using the `run_benchmark` cli script in `yarlp`, which run all environments in parallel. The results match, but clearly even 5 random seeds is not enough (we plot the 95th percentile CI).
 
 |   |   |   |   |
 |---|---|---|---|

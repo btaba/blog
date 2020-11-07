@@ -7,7 +7,6 @@ tags: projects
 comments: True
 ---
 
-I was recently asked a question about the "No Free Lunch Theorem". I've heard of it in passing, but I never really read much into it. After reading the [wikipedia](https://en.wikipedia.org/wiki/No_free_lunch_theorem) more thoroughly, I found it pretty hard to reconcile implications of the theorem. Should I stop fitting models on things because fancy black-box optimization is no better than random search? Does cross-validation really work for generalization?
 
 ## What is the No Free Lunch Theorem?
 

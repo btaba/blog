@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "MLE Interviews"
+title:  "tech interviews"
 date:   2020-01-10 00:00:00
 categories: projects
 tags: projects
@@ -9,7 +9,7 @@ comments: True
 
 About this time last year, I was studying for Machine Learning Engineer (MLE) interviews for large tech companies. I received offers from Google, Facebook, Magic Leap, Twitter, Airbnb, Etsy, and Wework. I got rejections after 3 onsites (Stripe, Two Sigma, and a startup) and several other phone screens (Pinterest, NVIDIA, OpenAI, MIRI, etc).
 
-Looking back, I don't think it is necessarily worth applying to so many large tech companies (ask me about this in private). Nevertheless, I wanted to post a blueprint for how to do it...for posterity.
+Looking back, I don't think it is necessarily worth applying to so many large tech companies. Nevertheless, I wanted to post a blueprint for how to prepare for these interviews.
 
 If you want to cut to the chase, here are the most important links in this article:
 
@@ -36,7 +36,7 @@ The classic algorithmic coding question will be asked at almost any tech company
 
 Learn [these core concepts]({{ site.url }}/algorithm-data-structure-notes/) and supplement what you don't understand with a textbook.
 
-I went a bit overkill this time; for kicks I read Skiena's [Algorithm Design Manual](http://www.algorist.com/) cover to cover. While I think the book is not the most comprehensive, the informal way Skiena writes is refreshing. My favorite chapters were on Combinatorial Search and Dynamic Programming, providing the most intuitive explanations I've seen on these topics. Reading an entire textbook is not required however :).
+A decent textbook to read is Skiena's [Algorithm Design Manual](http://www.algorist.com/). While I think the book is not the most comprehensive, the informal way Skiena writes is refreshing. My favorite chapters were on Combinatorial Search and Dynamic Programming, providing the most intuitive explanations I've seen on these topics. Reading an entire textbook is not required however.
 
 ### Solving Problems
 
@@ -97,4 +97,4 @@ I still use Anki daily and I highly recommend it.
 
 The skeleton for passing an MLE interview can be found above. I don't recommend anyone spend their time studying any of it; but if you fall into the trap, then this is a good blueprint for what some call "success."
 
-Don't be surprised if the best thing you get out of studying is falling in love with Anki. :D
+But don't be surprised if the best thing you get out of studying is falling in love with Anki. :D
