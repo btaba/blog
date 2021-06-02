@@ -281,7 +281,7 @@ Ramen Shack is a ramen lover's dream. The broth is awesome, the chashu is absolu
 
 Ramen Shack is the kind of place I can keep coming back too everyday. My only quip is that the ramen doesn't taste as refined as I would like, as compared to Ishida for example. The specialty ramens can also get a bit pricy at $16-$18 compared to $11 for the classic shoyu. Even so, Ramen Shack is as legit as it gets.
 
-Oh, please don't forget to try to **original** ramen burger! It's amazing!
+Oh, please don't forget to try the **original** ramen burger! It's amazing!
 
 
 <table class="tg">

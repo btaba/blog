@@ -28,41 +28,22 @@ layout: default
 
 <main class="content" role="main">
 
-  <nav>
-    <ul class="nav nav-tabs">
-      {% for category in site.categories %}
-        <li>
-          <a class="content-nav-a" href="#tab{{ category[0] }}">{{ category[0] | capitalize }}</a>
-        </li>
+  {% for post in site.posts %}
+  
+      <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
+        <div class="article-item">
+          <header class="post-header">
+            <h2 class="post-title" itemprop="name"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
+          </header>
+          <section class="post-excerpt" itemprop="description">
+            <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
+          </section>
+          <div class="post-meta">
+            <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
+          </div>
+        </div>
+      </article>
 
-      {% endfor %}
-    </ul> 
-  </nav>
-
-
-  {% for category in site.categories %}
-    <section id="tab{{ category[0] }}" class="tab-content hide">
-    
-      <div class="cf frame" id="{{ category[0] }}">
-
-        {% for post in category[1] %}
-          <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
-            <div class="article-item">
-              <header class="post-header">
-                <h2 class="post-title" itemprop="name"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
-              </header>
-              <section class="post-excerpt" itemprop="description">
-                <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
-              </section>
-              <div class="post-meta">
-                <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
-              </div>
-            </div>
-          </article>
-        {% endfor %}
-
-      </div>
-    </section>
   {% endfor %}
 
 </main>

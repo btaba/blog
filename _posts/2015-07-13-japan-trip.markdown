@@ -104,7 +104,6 @@ This matcha soft serve was so good, I had to go back... Simply stated, it may be
 ![Checking out the view]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/fuji3.jpg)
 
 # 18.   Tokyo
-![Shinjuku, need a massage...]({{ site.url }}/assets/article_images/2015-07-13-japan-trip/photos/shinjuku.jpg)
 
 [Hayakawa][hayakawa] was an amazing culinary experience
 

@@ -182,40 +182,6 @@ a {
   margin: 0 auto;
 }
 
-/*Content Navigation*/
-.content > nav > ul {
-  display: flex;
-  justify-content: space-evenly;
-  list-style: none;
-  flex-wrap: wrap;
-  margin: $rs 0;
-}
-
-.content > nav > ul > li {
-  flex: auto;
-  text-align: center;
-  border: 1px solid black;
-  background-color: white;
-
-  &:empty {
-    height: 0;
-    border: none;
-  };
-}
-
-.content-nav-a {
-  text-decoration: none;
-  color: #000;
-  font-weight: 700;
-  display: block;
-  padding: $rs;
-}
-
-.content-nav-a.active {
-  background-color: #000;
-  color: #fff;
-}
-
 /*Content Articles*/
 .content article {
   padding: 40px 0;
