@@ -1,4 +1,3 @@
-
 function load() {
 
   function detectWebGLContext () {
@@ -6,7 +5,8 @@ function load() {
     var gl = canvas.getContext("webgl")
       || canvas.getContext("experimental-webgl");
     if (gl && gl instanceof WebGLRenderingContext) {
-      createLogo()
+      createLogo();
+      createLogoFace();
     } else {
       logodiv = document.getElementsByClassName('logo-readium')[0];
       logodiv.innerHTML = '<span class="logo">B</span>'
@@ -16,13 +16,13 @@ function load() {
 }
 window.onload = load
 
-
 createLogo = function() {
 
     logodiv = document.getElementsByClassName('logo-readium')[0];
 
     // Camera
-    var camera = new THREE.PerspectiveCamera( 75, logodiv.clientWidth / logodiv.clientHeight, 0.1, 1000 );
+    var camera = new THREE.PerspectiveCamera(
+        75, logodiv.clientWidth / logodiv.clientHeight, 0.1, 1000 );
     camera.position.set( 0, 0, 40 );
 
     // Scene

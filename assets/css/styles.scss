@@ -93,6 +93,12 @@ a {
   }
 }
 
+.logo-readium-2 {
+  margin: auto;
+  width: $rs*10;
+  height: $rs*10;
+  z-index: 99;
+}
 
 /*Teaser image*/
 .teaserimage {
