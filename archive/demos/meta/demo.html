@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Meta Face</title>
+	<meta name="description" content="metaverse">
+	<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+</head>
+<style type="text/css">
+.face {
+	margin: auto;
+	width: 280px;
+	height:  280px;
+	z-index: 99;
+}
+.grid {
+	display: inline-grid;
+	grid-template-columns: auto auto auto;
+	text-align: center;
+	top: 50%;
+	left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%)
+}
+.unselectable {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+</style>
+<body>
+	<main>
+		<audio id="audio" src="8d82b5_Super_Mario_Bros_Coin_Sound_Effect.mp3"></audio>
+
+		<div class="grid"></div>
+		<div id="container">
+		  <div id="animate">
+		  </div>
+		</div>
+	</main>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r127/three.min.js"></script>
+	<script src="https://cdn.rawgit.com/mrdoob/three.js/r127/examples/js/loaders/GLTFLoader.js"></script>
+
+<script>
+const MODEL_PATH = 'mz_face.gltf';
+function load() {
+  function detectWebGLContext () {
+    var canvas = document.createElement("canvas");
+    var gl = canvas.getContext("webgl")
+      || canvas.getContext("experimental-webgl");
+    if (gl && gl instanceof WebGLRenderingContext) {
+      genDivs(3);
+      var faces = document.getElementsByClassName('face');
+      for (var i = 0; i < faces.length; i++) {
+      	createLogoFace(faces[i], gl);
+      }
+    } else {
+      logodiv = document.getElementsByClassName('face')[0];
+      logodiv.innerHTML = '<span class="logo">no webgl, sorry</span>'
+    }
+  }
+  detectWebGLContext()
+}
+window.onload = load
+
+function genDivs(v){ 
+  var e = document.getElementsByClassName('grid')[0];
+  for(var i = 0; i < v; i++){ 
+    var row = document.createElement("div"); 
+    row.className = "row"; 
+    for(var x = 1; x <= v; x++){ 
+        var cell = document.createElement("div"); 
+        cell.className = "face"; 
+        row.appendChild(cell);
+    } 
+    e.appendChild(row); 
+  } 
+}
+
+createLogoFace = function(logodivface, gl) {
+    // logodivface = document.getElementsByClassName('face')[0];
+
+    // Camera
+    const camera2 = new THREE.PerspectiveCamera(
+        40, logodivface.clientWidth / logodivface.clientHeight,
+        0.1, 1000 );
+    camera2.position.set( 0, 0, 30 );
+
+    // Scene
+    const scene2 = new THREE.Scene();
+    scene2.background = new THREE.Color( 0xffffff );
+
+    // Renderer
+    container2 = document.createElement( 'div' );
+    logodivface.appendChild( container2 );
+    const renderer2 = new THREE.WebGLRenderer();
+    renderer2.setSize( logodivface.clientWidth,
+        logodivface.clientHeight );
+    container2.appendChild( renderer2.domElement );
+
+    // Lights
+    let hemiLight = new THREE.HemisphereLight(0xffffff, 0xffffff, 0.5);
+    hemiLight.position.set(0, 50, 0);
+    scene2.add(hemiLight);
+    let dirLight = new THREE.DirectionalLight(0xffffff, 0.54);
+    dirLight.position.set(-8, 12, 8);
+    scene2.add(dirLight);
+
+    var loader = new THREE.GLTFLoader();
+    obj_map = new Map();
+    loader.load(
+      MODEL_PATH,
+      function(gltf) {
+        model = gltf.scene;
+        scene2.add(model);
+        model.traverse(o => {
+          if (o.isMesh) {
+            o.castShadow = true;
+            o.receiveShadow = true;
+          }
+        });
+        obj_map.set(logodivface, model);
+        model.scale.set( 7, 7, 7 );
+      },
+      undefined,
+      function(error) {
+        console.error(error);
+      }
+    );
+
+    animate()
+    function animate() {
+        requestAnimationFrame( animate );
+        renderer2.render( scene2, camera2 );
+    }
+    // Mouse move functions from  tympanus.net/codrops/2019/10/14/how-to-create-an-interactive-3d-character-with-three-js
+	document.addEventListener('mousemove', function(e) {
+	  var mousecoords = getMousePos(e);
+	  moveHead(mousecoords, obj_map.get(logodivface), logodivface, 50);
+	});
+}
+
+function getMousePos(e) {
+  return { x: e.clientX, y: e.clientY };
+}
+
+function getMouseDegrees(x, y, rect, degreeLimit) {
+  let dx = 0,
+      dy = 0,
+      xdiff,
+      ydiff;
+  let w = { x: window.innerWidth, y: window.innerHeight };
+  xdiff = (x - (rect.left + rect.width / 2)) / w.x;
+  dx = degreeLimit * xdiff;
+  ydiff = (y - (rect.top + rect.height / 2)) / w.y;
+  dy = degreeLimit * ydiff;
+  return { x: dx, y: dy };
+}
+
+function moveHead(mouse, obj, thediv, degreeLimit) {
+  var rect = thediv.getBoundingClientRect();
+  let degrees = getMouseDegrees(mouse.x, mouse.y, rect, degreeLimit);
+  obj.rotation.y = THREE.Math.degToRad(degrees.x);
+  obj.rotation.x = THREE.Math.degToRad(degrees.y);
+}
+
+
+// Coins
+var container = document.getElementById('animate');
+var circles = [];
+function addCircle(delay, range) {
+  setTimeout(function() {
+    var c = new Circle(range[0], range[1], {
+      x: Math.random() * 0.5,
+      y: -3
+    }, range);
+    circles.push(c);
+  }, delay);
+}
+
+function Circle(x, y, v, range) {
+  var _this = this;
+  this.x = x;
+  this.y = y;
+  this.done = false;
+  this.v = v;
+  this.range = range;
+  this.element = document.createElement('span', className='unselectable');
+  this.element.style.opacity = 0;
+  this.element.style.position = 'absolute';
+  this.element.style.fontSize = '32px';
+  this.element.innerHTML = "<img src='coin-mario.gif' style='width: 32px; height: auto;'></img>";
+  container.appendChild(this.element);
+
+  this.update = function() {
+    if (_this.y > window.innerHeight) {
+      _this.done = true;
+      return;
+    }
+    _this.y += _this.v.y;
+    _this.v.y += 0.1;
+    _this.x += _this.v.x;
+    this.element.style.opacity = 1;
+    this.element.style.transform = 'translate3d(' + _this.x + 'px, ' + _this.y + 'px, 0px)';
+    this.element.style.webkitTransform = 'translate3d(' + _this.x + 'px, ' + _this.y + 'px, 0px)';
+    this.element.style.mozTransform = 'translate3d(' + _this.x + 'px, ' + _this.y + 'px, 0px)';
+  };
+}
+
+document.addEventListener('click', function(e) {
+  var mousecoords = getMousePos(e);
+  addCircle(0, [mousecoords.x - 13, mousecoords.y - 26], 0x0000f0)
+  var audio = document.getElementById("audio");
+  if (audio.currentTime > 0.1) {
+	  audio.pause();
+	  audio.currentTime = 0; 	
+  }
+  audio.play();
+});
+
+function animate() {
+  circles.filter(c => c.done);
+  for (var i in circles) {
+    circles[i].update();
+  }
+  requestAnimationFrame(animate);
+}
+
+animate();
+
+</script>
+</body>
+</html>
