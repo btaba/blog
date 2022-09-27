@@ -18,8 +18,8 @@ logo: "/assets/images/avatar.jpg"
 # blog cover
 cover: "/assets/images/coz-castel-matin.jpg"
 
-name: 'Baruch Tabanpour'
-author: 'Baruch Tabanpour'
+name: 'btaba'
+author: 'btaba'
 author_image: "/assets/images/avatar.jpg"
 
 url: "http://blog.tabanpour.info" # the base hostname & protocol for your site
@@ -32,7 +32,7 @@ social:
   #   url: https://soundcloud.com/user-182551466
 
   - icon:	twitter
-    url:	https://twitter.com/btabanpour
+    url:	https://twitter.com/the_real_btaba
     desc: Follow me on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
