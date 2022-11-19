@@ -576,7 +576,7 @@ def transplant(T, u, v):
         u.p.left = v
     else:
         u.p.right = v
-    if not v:
+    if v is not None:
         v.p = u.p
 
 def delete(T, z):
