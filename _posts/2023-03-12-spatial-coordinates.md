@@ -153,7 +153,7 @@ $$
 -E_2^T E_1^T (E_1 \vec r_2 +  \vec r_1)_{\times} & E_2^T E_1^T  \end{bmatrix}
 $$
 
-which is just $\bf{Y}_1 \bf{Y}_2 = plxb((E_2^T E_1^T)^T, \vec r_1 + E_1 \vec r_2)$ or plxb(E_1 E_2, \vec r_1 + E_1 \vec r_2)$. This is exactly what we see in TDS [here][tds-transform], and brax [here][brax-transform]. Yay again!
+which is just $\bf{Y}_1 \bf{Y}_2 = plxb((E_2^T E_1^T)^T, \vec r_1 + E_1 \vec r_2)$ or $plxb(E_1 E_2, \vec r_1 + E_1 \vec r_2)$. This is exactly what we see in TDS [here][tds-transform], and brax [here][brax-transform]. Yay again!
 
 ### Transform a Motion/Force
 
