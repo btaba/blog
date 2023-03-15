@@ -77,7 +77,7 @@ It's essentially the same as $plx(E, r)$ except the rotation matrix gets a trans
 
 ### Deriving Transform * Transform
 
-Let's first derive the $plx$ operator for two combined transformations, $\bf{X}_2 = plx(E_2, r_2)$ and $\bf{X}_1 = plx(E_1, r_1)$. For the sake of clarity, let's say $\bf{X}_2$ is the transformation the world to a parent link, and $\bf{X}_1$ is the transformation from a parent to a child link (assuming we have a kinematic chain). The transformation from the world to the child is then:
+Let's first derive the $plx$ operator for two combined transformations, $\textbf{X}_2 = plx(E_2, r_2)$ and $\textbf{X}_1 = plx(E_1, r_1)$. For the sake of clarity, let's say $\bf{X}_2$ is the transformation the world to a parent link, and $\bf{X}_1$ is the transformation from a parent to a child link (assuming we have a kinematic chain). The transformation from the world to the child is then:
 
 $$\bf{X}_1 \bf{X}_2 =
 \begin{bmatrix} E_1 & 0\\
@@ -153,7 +153,7 @@ $$
 -E_2^T E_1^T (E_1 \vec r_2 +  \vec r_1)_{\times} & E_2^T E_1^T  \end{bmatrix}
 $$
 
-which is just $\bf{Y}_1 \bf{Y}_2 = plxb((E_2^T E_1^T)^T, \vec r_1 + E_1 \vec r_2)$ or $plxb(E_1 E_2, \vec r_1 + E_1 \vec r_2)$. This is exactly what we see in TDS [here][tds-transform], and brax [here][brax-transform]. Yay again!
+which is just $plxb((E_2^T E_1^T)^T, \vec r_1 + E_1 \vec r_2)$ or $plxb(E_1 E_2, \vec r_1 + E_1 \vec r_2)$. This is exactly what we see in TDS [here][tds-transform], and brax [here][brax-transform]. Yay again!
 
 ### Transform a Motion/Force
 
