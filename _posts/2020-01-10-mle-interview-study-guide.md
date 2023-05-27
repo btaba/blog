@@ -5,6 +5,7 @@ date:   2020-01-10 00:00:00
 categories: projects
 tags: projects
 comments: True
+hidden: True
 ---
 
 About this time last year, I was studying for Machine Learning Engineer (MLE) interviews for large tech companies. I received offers from Google, Facebook, Magic Leap, Twitter, Airbnb, Etsy, and Wework. I got rejections after 3 onsites (Stripe, Two Sigma, and a startup) and several other phone screens (Pinterest, NVIDIA, OpenAI, MIRI, etc).
