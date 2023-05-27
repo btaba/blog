@@ -29,7 +29,8 @@ layout: default
 <main class="content" role="main">
 
   {% for post in site.posts %}
-  
+    {% if hasattr(post, 'hidden') and not post.hidden %}
+    
       <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
         <div class="article-item">
           <header class="post-header">
@@ -43,7 +44,7 @@ layout: default
           </div>
         </div>
       </article>
-
+    {% endif %}
   {% endfor %}
 
 </main>
