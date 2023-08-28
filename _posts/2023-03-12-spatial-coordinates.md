@@ -36,15 +36,15 @@ $$\bf{X_{rot}} = \begin{bmatrix} E & 0\\
 $$\bf{X_{trans}} = \begin{bmatrix} \bf{1} & 0\\
 -\vec r_\times & \bf{1} \end{bmatrix}$$
 
-, where $\vec r_\times$ is a cross product of $\vec r$ with another vector:
+, where $\vec r_\times$ is the skew symmetric matrix cross product operator:
 
 $$\begin{bmatrix} 0 & -z & y \\
 z & 0 & -x \\
 -y & x & 0 \end{bmatrix}$$
 
-The translation needs a bit more explaining. When we translate a motion, the angular velocity is untouched, hence the identity in the diagonal of $\bf{X_{trans}}$. A linear velocity however transforms as $\vec v^{\prime} = \vec v - \vec r \times \vec \omega$ where $\vec v^{\prime}$ is the translated velocity.
+When we translate a motion, the angular velocity is untouched, hence the identity in the diagonal of $\bf{X_{trans}}$. A linear velocity however transforms as $\vec v^{\prime} = \vec v - \vec r \times \vec \omega$ where $\vec v^{\prime}$ is the translated velocity.
 
-A translation followed by a rotation is:
+A translation followed by a rotation (when multiplying on the right):
 
 $$\bf{X} = \begin{bmatrix} E & 0\\
 0 & E \end{bmatrix}
@@ -56,17 +56,17 @@ $$
 
 Now to make use of these transformations in code, Featherstone introduces operator notations in Appendix A.2 of [RBDA][rbda]. Notably, $plx(E, r)$ is a Plücker transform where we apply a translation by $r$ and then a rotation by $E$, which we just derived above. This is really convenient since we can now implement a data structure called `Transform` in code as having two attributes, a translation and rotation, rather than a 6x6 matrix. When we want to apply the transform, we can derive equations using the 6x6 spatial matrix, and then convert the 6x6 back to the $plx$ notation to write it in code.
 
-Something very tricky just happend though! We just separated out the translation and rotation components of a transformation $\bf{X}$ into $plx$. As you may know, translations and rotations don't commute, so the order of operations is crucially important when *applying* $plx$. While $plx$ is more compact compared to the 6x6 matrix, the developer needs to keep careful track of the order of operations when applying transformations.
+Something very tricky just happend though! We just separated out the translation and rotation components of a transformation $\bf{X}$ into $plx$. As you may know, translations and rotations don't commute, so the order of operations is crucially important when *applying* $plx$ in code. In other words, while $plx$ is more compact compared to the 6x6 matrix, the developer needs to keep careful track of the order of operations when applying transformations.
 
 The Rigid Body Dynamics Library ([RBDL][rbdl]) uses Featherstone's convention and implements $plx$ as well as other spatial vector algebra. One key difference compared to other physics engines like [TDS][tds] and [brax][brax], is that operations are *left-associative* in Featherstone/RBDL, and *right-associative* in TDS and brax. We'll explain associativity in the next section.
 
 ### Associativity
 
-Left-associative transforms, as seen in [RBDA][rbda], applies transforms on the left. In other words, if we have two transforms $X_1 X_2$ applied to force/motion, first we apply $X_2$ to the force/motion, then we apply $X_1$. Right-associative transforms, as seen in [TDS][tds] or [Brax][brax], apply transforms on the right. To spell it out, a transform $Y_1 Y_2$ applied to a force/motion, first applies $Y_1$ then $Y_2$. In the rest of the blog post, we'll use $X$ to mean a transform that is left-associative and $Y$ to mean a transform that is right-associative. We'll also use $plx$ as the Plücker transform for $X$ and $plxb$ as the Plücker transform for $Y$.
+Left associative transforms, as seen in [RBDA][rbda], applies transforms on the left (multiply on the right). If we have two transforms $X_{1} X_{2}$ applied to force/motion, first we apply $X_{2}$ to the force/motion, then we apply $X_{1}$. Right associative transforms, as seen in [TDS][tds] or [Brax][brax], apply transforms on the right (multiply on the left). To spell it out, a transform $Y_{1} Y_{2}$ applied to a force/motion, first applies $Y_{1}$ then $Y_{2}$. In the rest of the blog post, we'll use $X$ to mean a transform that is left-associative and $Y$ to mean a transform that is right-associative. We'll also use $plx$ as the Plücker transform for $X$ and $plxb$ as the Plücker transform for $Y$.
 
-Another way to interpret associativity is to look at kinematic chains. For a left-associative transform, the order of transformations gets written as $X_{child} X_{parent}$ if we want to transform something from a parent-to-joint then a joint-to-child link (i.e. parent-to-child transformation). $X_{child}$ is the transform that goes from the joint to the child link position/orientation, and $X_{parent}$ is the transform that goes from the parent to the joint position/orientation. For a right-associative transform, the order is $Y_{parent} Y_{child}$ for the same transformation.
+To help interpret associativity, let's take transforms $T$ and $X_{pc}$ where $X_{pc}$ is the configuration of a child link in the parent frame. If we apply $T$ on the right, we first rotate $X_{pc}$ then translate (since transforms were defined as a rotation followed by a translation in the previous section). This implies that right associative transforms are "space frame transforms"; $X_{pc} T$ is $T$ in the child frame. If we apply $T$ on the left, we translate then rotate $X_{pc}$. This implies that left associative transforms are "body frame transforms"; $T X_{pc}$ is $T$ in the parent frame.
 
-So how are $plx$ and $plxb$ now related? Let's write out the 6x6 transform for $plxb(E, r)$:
+So how are $plx$ and $plxb$ now related? Notice that rotating angular velocities from a parent frame to a child frame, involves rotating by the inverse of the rotation from parent to child. If $E$ is the rotation from parent to child frame, the 6x6 transform for $plxb(E, r)$ can be written as:
 
 $$plxb(E, r) =
 \begin{bmatrix} E^T & 0\\
