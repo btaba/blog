@@ -137,7 +137,7 @@ Notice that we apply $\bf{Y_1}$ on the right because it is right-associative. Ag
 $$
 \begin{multline}
 \begin{split}
-&-E_2^T \vec r_{2\times} E'_1^T - E_2^T E_1^T r_{1\times}\\
+&-E_2^T \vec r_{2\times} E_1^T - E_2^T E_1^T r_{1\times}\\
 &= -E_2^T E_1^T (E_1 \vec r_{2\times} E_1^T - \vec r_{1\times})\\
 &= -E_2^T E_1^T ((E_1 \vec r_2)_{\times} +  \vec r_{1\times}) \\
 &= -E_1^T E_2^T (E_1 \vec r_2 +  \vec r_1)_{\times}
