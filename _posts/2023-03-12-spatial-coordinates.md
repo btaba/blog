@@ -79,7 +79,7 @@ Now we can derive some formulas commonly found in a few physics engines!
 
 Let's first derive the $plx$ operator for two combined transformations, $\textbf{X}_2 = plx(E_2, r_2)$ and $\textbf{X}_1 = plx(E_1, r_1)$. The transformation is then:
 
-$$\bf{X_1} \bf{X_2} =
+$$X_1 X_2 =
 \begin{bmatrix} E_1 & 0\\
 -E_1 \vec r_{1\times} & E_1 \end{bmatrix}
 \begin{bmatrix} E_2 & 0\\
@@ -109,9 +109,9 @@ $$
 \end{multline}
 $$
 
-Notice we can now re-order $\bf{X_1} \bf{X_2}$ to get
+Notice we can now re-order $X_1 X_2$ to get
 
-$$\bf{X_1} \bf{X_2} =
+$$X_1 X_2 =
 \begin{bmatrix} E_1 E_2 & 0\\
 0 & E_1 E_2 \end{bmatrix}
 \begin{bmatrix} \bf{1} & 0\\
@@ -120,10 +120,10 @@ $$
 
 which is simply $plx(E_1 E_2, E_2^T r_1 + r_2)$. If you look at RBDL, this is exactly what you [see](rbdl-transform)!
 
-Now let's do the same thing for $plxb$, where a transformation $Y$ is right-associative. $\bf{Y_1}$ or $plxb(E_1, r_1)$ and $\bf{Y_2}$ or $plxb(E_2, r_2)$:
+Now let's do the same thing for $plxb$, where a transformation $Y$ is right-associative. $Y_1$ or $plxb(E_1, r_1)$ and $Y_2$ or $plxb(E_2, r_2)$:
 
 $$
-\bf{Y_2} \bf{Y_1} =
+Y_2 Y_1 =
 \begin{bmatrix} E_2^T & 0\\
 -E_2^T \vec r_{2\times} & E_2^T \end{bmatrix}
 \begin{bmatrix} E_1^T & 0\\
@@ -132,7 +132,7 @@ $$
 -E_2^T \vec r_{2\times} E_1^T - E_2^T E_1^T r_{1\times} & E_2^T E_1^T  \end{bmatrix}
 $$
 
-Notice that we apply $\bf{Y_1}$ on the right because it is right-associative. Again simplifying the lower left entry:
+Notice that we apply $Y_1$ on the right because it is right-associative. Again simplifying the lower left entry:
 
 $$
 \begin{multline}
@@ -145,10 +145,10 @@ $$
 \end{multline}
 $$
 
-Re-writing $\bf{Y_1} \bf{Y_2}$ we get
+Re-writing $Y_1 Y_2$ we get
 
 $$
-\bf{Y_1} \bf{Y_2} =
+Y_1 Y_2 =
 \begin{bmatrix} E_2^T E_1^T & 0\\
 -E_2^T E_1^T (E_1 \vec r_2 +  \vec r_1)_{\times} & E_2^T E_1^T  \end{bmatrix}
 $$
