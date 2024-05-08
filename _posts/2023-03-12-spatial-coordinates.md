@@ -128,7 +128,7 @@ $$
 -E_2^T \vec r_{2\times} & E_2^T \end{bmatrix}
 \begin{bmatrix} E_1^T & 0\\
 -E_1^T \vec r_{1\times} & E_1^T \end{bmatrix} =
-\begin{bmatrix} E'_2^T E'_1^T & 0\\
+\begin{bmatrix} E_2^T E_1^T & 0\\
 -E_2^T \vec r_{2\times} E_1^T - E_2^T E_1^T r_{1\times} & E_2^T E_1^T  \end{bmatrix}
 $$
 
