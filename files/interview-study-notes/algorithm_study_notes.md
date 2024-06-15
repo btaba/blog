@@ -1137,6 +1137,23 @@ def djikstra(graph, source):
     return dist, parent
 ```
 
+With heapq:
+
+```
+def djikstra(graph, src):
+    dist, parent = {}, {}
+    q = [(0, src)]
+    while q:
+        w, node = heapq.heappop(q)
+        if node in dist:
+            continue  # aleady visited
+        dist[node] = w
+        for next_node, u in graph[node]:
+            if next_node not in dist:
+                heapq.heappush(q, (w + u, next_node))
+    return dist, parent
+```
+
 ## Bellman Ford
 
 Finds the single destination shortest path, and detects negative edge cycles if they exist. Takes O(EV) time.
