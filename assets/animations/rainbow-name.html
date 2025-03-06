@@ -77,19 +77,19 @@
       
       <!-- Add shimmer effect with moving highlight -->
       <filter id="shimmer">
-        <feGaussianBlur in="SourceGraphic" stdDeviation="0.2" result="blur" />
-        <feSpecularLighting in="blur" surfaceScale="5" specularConstant="1.0" 
-                           specularExponent="40" lighting-color="#CCCCCC"
+        <feGaussianBlur in="SourceGraphic" stdDeviation="1" result="blur" />
+        <feSpecularLighting in="blur" surfaceScale="5" specularConstant="0.75" 
+                           specularExponent="20" lighting-color="#FFFFFF" 
                            result="specOut">
-          <fePointLight x="0" y="75" z="500">
-            <animate attributeName="x" values="0;250;500;250;0" dur="2s" repeatCount="indefinite" />
-            <animate attributeName="y" values="75;25;0;25;75" dur="2s" repeatCount="indefinite" />
+          <fePointLight x="100" y="50" z="100">
+            <animate attributeName="x" values="0;500" dur="2s" repeatCount="indefinite" />
+            <animate attributeName="y" values="50;50" dur="2s" repeatCount="indefinite" />
           </fePointLight>
         </feSpecularLighting>
-        <feComposite in="specOut" in2="SourceGraphic" operator="arithmetic" 
-                    k1="1" k2="-1" k3="0" k4="1" result="composite"/>
+        <feComposite in="SourceGraphic" in2="specOut" operator="arithmetic" 
+                    k1="0" k2="1" k3="1" k4="0" result="composite"/>
       </filter>
-    
+      
       <!-- ClipPath to constrain effects to text outline -->
       <clipPath id="text-clip">
         <text x="50%" y="75%" text-anchor="middle" font-family="Arial, sans-serif" font-size="120" font-weight="bold">Baruch</text>
@@ -111,7 +111,7 @@
       <!-- Use a mask to create our effect -->
       <mask id="mouse-mask">
         <rect x="0" y="0" width="500" height="150" fill="black"/>
-        <circle id="mask-circle" cx="250" cy="75" r="40" fill="url(#mask-gradient)"/>
+        <circle id="mask-circle" cx="250" cy="75" r="60" fill="url(#mask-gradient)"/>
       </mask>
       
       <!-- Inverted rainbow text with shimmer that's only visible through the mask -->
