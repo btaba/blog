@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Baruch Rainbow Animation</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background-color: black;
+      overflow: hidden;
+    }
+    
+    svg {
+      width: 80%;
+      max-width: 1000px;
+    }
+    
+    #baruch-text-static {
+      fill: transparent;
+      stroke: url(#rainbow-static);
+      stroke-width: 2;
+      transition: filter 0.3s ease;
+    }
+    
+    #baruch-text-animated {
+      fill: transparent;
+      stroke-width: 2;
+      opacity: 0; /* Start hidden */
+      transition: opacity 0.3s ease;
+    }
+  </style>
+</head>
+<body>
+  <svg viewBox="0 0 500 150" id="svg-container">
+    <defs>
+      <!-- Static rainbow gradient (original) -->
+      <linearGradient id="rainbow-static" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#FF0000" />
+        <stop offset="16.6%" stop-color="#FF9900" />
+        <stop offset="33.3%" stop-color="#FFFF00" />
+        <stop offset="50%" stop-color="#00FF00" />
+        <stop offset="66.6%" stop-color="#0099FF" />
+        <stop offset="83.3%" stop-color="#6633FF" />
+        <stop offset="100%" stop-color="#FF33CC" />
+      </linearGradient>
+      
+      <!-- Inverted rainbow gradient with shimmer animation -->
+      <linearGradient id="rainbow-inverted" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#FF33CC"> <!-- Inverted from red -->
+          <animate attributeName="stop-color" values="#FF33CC;#FF99E6;#FF33CC" dur="2s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="16.6%" stop-color="#6633FF"> <!-- Inverted from orange -->
+          <animate attributeName="stop-color" values="#6633FF;#9980FF;#6633FF" dur="2s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="33.3%" stop-color="#0099FF"> <!-- Inverted from yellow -->
+          <animate attributeName="stop-color" values="#0099FF;#66CCFF;#0099FF" dur="2s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="50%" stop-color="#00FF00"> <!-- Inverted from blue -->
+          <animate attributeName="stop-color" values="#00FF00;#80FF80;#00FF00" dur="2s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="66.6%" stop-color="#FFFF00"> <!-- Inverted from indigo -->
+          <animate attributeName="stop-color" values="#FFFF00;#FFFF80;#FFFF00" dur="2s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="83.3%" stop-color="#FF9900"> <!-- Inverted from violet -->
+          <animate attributeName="stop-color" values="#FF9900;#FFCC80;#FF9900" dur="2s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" stop-color="#FF0000"> <!-- Inverted pink -->
+          <animate attributeName="stop-color" values="#FF0000;#FF8080;#FF0000" dur="2s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+      
+      <!-- Add shimmer effect with moving highlight -->
+      <filter id="shimmer">
+        <feGaussianBlur in="SourceGraphic" stdDeviation="0.2" result="blur" />
+        <feSpecularLighting in="blur" surfaceScale="5" specularConstant="1.0" 
+                           specularExponent="40" lighting-color="#CCCCCC"
+                           result="specOut">
+          <fePointLight x="0" y="75" z="500">
+            <animate attributeName="x" values="0;250;500;250;0" dur="2s" repeatCount="indefinite" />
+            <animate attributeName="y" values="75;25;0;25;75" dur="2s" repeatCount="indefinite" />
+          </fePointLight>
+        </feSpecularLighting>
+        <feComposite in="specOut" in2="SourceGraphic" operator="arithmetic" 
+                    k1="1" k2="-1" k3="0" k4="1" result="composite"/>
+      </filter>
+    
+      <!-- ClipPath to constrain effects to text outline -->
+      <clipPath id="text-clip">
+        <text x="50%" y="75%" text-anchor="middle" font-family="Arial, sans-serif" font-size="120" font-weight="bold">Baruch</text>
+      </clipPath>
+
+      <!-- Radial gradient for the mask -->
+      <radialGradient id="mask-gradient" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+        <stop offset="0%" stop-color="white" stop-opacity="1"/>
+        <stop offset="70%" stop-color="white" stop-opacity="0.5"/>
+        <stop offset="100%" stop-color="white" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    
+    <!-- Base text with static rainbow outline -->
+    <text id="baruch-text-static" x="50%" y="75%" text-anchor="middle" font-family="Arial, sans-serif" font-size="120" font-weight="bold">Baruch</text>
+    
+    <!-- Text path for inverted effect -->
+    <g clip-path="url(#text-clip)">
+      <!-- Use a mask to create our effect -->
+      <mask id="mouse-mask">
+        <rect x="0" y="0" width="500" height="150" fill="black"/>
+        <circle id="mask-circle" cx="250" cy="75" r="40" fill="url(#mask-gradient)"/>
+      </mask>
+      
+      <!-- Inverted rainbow text with shimmer that's only visible through the mask -->
+      <text id="baruch-text-animated" x="50%" y="75%" text-anchor="middle" font-family="Arial, sans-serif" font-size="120" font-weight="bold" stroke="url(#rainbow-inverted)" mask="url(#mouse-mask)" filter="url(#shimmer)">Baruch</text>
+    </g>
+  </svg>
+
+  <script>
+    const textStatic = document.getElementById('baruch-text-static');
+    const textAnimated = document.getElementById('baruch-text-animated');
+    const maskCircle = document.getElementById('mask-circle');
+    const svgContainer = document.getElementById('svg-container');
+    
+    document.addEventListener('mousemove', (e) => {
+      // Get SVG coordinates
+      const svgRect = svgContainer.getBoundingClientRect();
+      const textRect = textStatic.getBoundingClientRect();
+      
+      // Convert mouse position to SVG coordinate system
+      const svgPoint = svgContainer.createSVGPoint();
+      svgPoint.x = e.clientX;
+      svgPoint.y = e.clientY;
+      
+      // Transform point from screen to SVG coordinates
+      const transformedPoint = svgPoint.matrixTransform(svgContainer.getScreenCTM().inverse());
+      
+      // Check if mouse is near the text
+      if (e.clientX >= textRect.left - 20 && 
+          e.clientX <= textRect.right + 20 && 
+          e.clientY >= textRect.top - 20 && 
+          e.clientY <= textRect.bottom + 20) {
+        
+        // Move mask to follow mouse
+        maskCircle.setAttribute('cx', transformedPoint.x);
+        maskCircle.setAttribute('cy', transformedPoint.y);
+        
+        // Show animated effect
+        textAnimated.style.opacity = '1';
+        textStatic.style.filter = 'drop-shadow(0 0 3px rgba(255, 255, 255, 0.5))';
+        
+      } else {
+        // Hide animated effect
+        textAnimated.style.opacity = '0';
+        textStatic.style.filter = 'none';
+      }
+    });
+  </script>
+</body>
+</html>
